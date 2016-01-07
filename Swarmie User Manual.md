@@ -41,3 +41,5 @@ All robots are set up with "swarmie" as the hostname, username, and password. Ch
 2. The second line of the hosts file should read ```127.0.1.1 swarmie```. Delete "swarmie" and replace it with your chosen hostname, then use <kbd>Ctrl</kbd> + <kbd>x</kbd> to save your change and exit the editor.
 
 3. From the Bash prompt, enter ```sudo nano /etc/hostname```. Replace "swarmie" in this file with the hostname you chose in Step 2 and save your change.
+
+Finally, ensure that your robot is running the latest Swarmathon-ROS code base by opening a Terminal window, running the command ```cd ~/rover_workspace```, then running ```git pull```. Build the code by running ```catkin_make```, then close the window.
