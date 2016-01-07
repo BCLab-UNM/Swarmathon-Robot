@@ -12,7 +12,7 @@ Observe the robot for several minutes. You should see the robot performing a cor
 
 1. A solid green light on the camera
 
-2.A rapidly blinking green light on all three ultrasonic sensors
+2. A rapidly blinking green light on all three ultrasonic sensors
 
 3. A solid green light on the GPS board on the right side of the robot, and possibly a slow blinking red light if the robot is outside and has achieved a GPS lock
 
