@@ -19,3 +19,11 @@ Observe the robot for several minutes. You should see the robot performing a cor
 3. A solid green light on the GPS board on the right side of the robot, and possibly a slow blinking red light if the robot is outside and has achieved a GPS lock
 
 4. A very rapidly blinking, near-solid red light on the microcontroller underneath the Intel NUC
+
+When you are satisfied that the robot is operating correctly as per the specs above, you may shut it down by flipping the red switch down and holding the power button on the NUC for five seconds.
+
+### Switching to User Mode
+
+Connect the Intel NUC onboard your robot to a keyboard (USB), mouse (USB), and monitor (HDMI). Ensure that the motors are turned off )the red switch is down), then turn the NUC on. To switch the robot from demo mode to user mode, follow the directions below:
+
+1. In the Terminal window that automatically appears when the NUC finishes booting into Ubuntu, type ```q``` to terminate the Swarmathon-ROS launch script.
