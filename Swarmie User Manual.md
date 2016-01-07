@@ -27,3 +27,9 @@ When you are satisfied that the robot is operating correctly as per the specs ab
 Connect the Intel NUC onboard your robot to a keyboard (USB), mouse (USB), and monitor (HDMI). Ensure that the motors are turned off )the red switch is down), then turn the NUC on. To switch the robot from demo mode to user mode, follow the directions below:
 
 1. In the Terminal window that automatically appears when the NUC finishes booting into Ubuntu, type ```q``` to terminate the Swarmathon-ROS launch script.
+
+2. Open your shell's startup script by typing ```nano .bashrc``` in the Terminal window.
+
+3. Delete the last 11 lines of the startup script, from ```if pgrep "roscore" > /dev/null``` to ```fi```.
+
+4. Click the Unity launcher icon in the upper left corner, type ```startup``` into the search box that appears, then click the "Startup Applications" icon. Click on the "Swarmathon Startup" item in the list, then click the "Remove" button on the right side of the window.
