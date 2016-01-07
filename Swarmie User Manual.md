@@ -38,4 +38,4 @@ All robots are set up with "swarmie" as the hostname, username, and password. Ch
 
 1. Open a Terminal window and enter ```sudo nano /etc/hosts```. Again, "swarmie" is the default password, so enter it when prompted.
 
-2. The second line of the hosts file should read ```127.0.1.1 swarmie```. Delete "swarmie" and replace it with your chosen hostname, then use <kbd>Ctrl</kbd> + <kbd>x</kbd> to save and exit the editor.
+2. The second line of the hosts file should read ```127.0.1.1 swarmie```. Delete "swarmie" and replace it with your chosen hostname, then use <kbd>Ctrl</kbd> + <kbd>x</kbd> to save your change and exit the editor.
