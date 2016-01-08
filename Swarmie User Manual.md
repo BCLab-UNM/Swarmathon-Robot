@@ -14,7 +14,7 @@ Once the robot is fully charged, place it on a large, flat surface, such as a pa
 
 4. Wait 30 to 60 seconds, then the robot should begin moving
 
-Observe the robot for several minutes. You should see the robot performing a correlated random walk by rotating to a random heading, driving forward 50 cm, then rotating, then driving, etc. If you place an obstacle in front of the robot, you should observe the robot turning away to avoid the obstacle, then resuming the random walk behavior. If everything is working correctly, you should observe the following indicator lights:
+Observe the robot for several minutes. You should see the robot performing a correlated random walk by rotating to a random heading, driving forward 50 cm, then rotating, then driving, etc. If you place an obstacle in front of the robot, you should observe the robot turning away to avoid the obstacle, then resuming the random walk behavior. Placing an obstacle in front of the left ultrasonic sensor should cause the robot to turn right, while placing an obstacle in front of the right sensor should cause the robot to turn left. If everything is working correctly, you should observe the following indicator lights:
 
 1. A solid green light on the camera
 
