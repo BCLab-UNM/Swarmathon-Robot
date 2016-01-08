@@ -44,7 +44,9 @@ All robots are set up with "swarmie" as the hostname, username, and password. Ch
 
 4. The second line of the hosts file should read ```127.0.1.1   swarmie```. Delete "swarmie" and replace it with the hostname you chose in step 2.
 
-5. At this point, you should also add to the hosts file the IP addresses and hostnames of any other machines on your network (including other robots) that you plan to run Swarmathon-ROS on. For example, a machine named "alpha" with an IP address of "192.168.1.2" would be added to the file via the line ```192.168.1.2   alpha```.
+5. At this point, you should also add to the hosts file the IP addresses and hostnames of any other machines on your network (including other robots) that you plan to run Swarmathon-ROS on. For example, you would add a machine named "alpha" with an IP address of "192.168.1.2" by inserting ```192.168.1.2   alpha``` at a new line in the hosts file.
+
+6. Once all relevant machines have been added, use <kbd>Ctrl</kbd> + <kbd>x</kbd> to save your change and exit the editor.
 
 Finally, ensure that your robot is running the latest Swarmathon-ROS code base. Assuming your robot is already connected to an existing WLAN, open a Terminal window, then run the command ```cd ~/rover_workspace```, then run ```git pull```. Build the code by running ```catkin_make```, then close the window.
 
