@@ -1,6 +1,6 @@
 ### 1. Demonstration Mode Testing
 
-Please unpack your robot and check for any physical damage before beginning this tutorial. If you notice any damage, please notify a NASA Swarmathon representative as soon as possible at [Info@NasaSwarmathon.com](Info@NasaSwarmathon.com). Once unpacked, place your robot on a large, flat surface, such as a parking lot, then follow the directions below:
+Please unpack your robot and check for any physical damage before beginning this tutorial. If you notice any damage, please notify a NASA Swarmathon representative immediately at [Info@NasaSwarmathon.com](Info@NasaSwarmathon.com). Once unpacked, place your robot on a large, flat surface, such as a parking lot, then follow the directions below:
 
 1. Connect the battery by plugging the black barrel connector into the PCB
 
@@ -36,11 +36,15 @@ Connect the Intel NUC onboard your robot to a keyboard (USB), mouse (USB), and m
 
 All robots are set up with "swarmie" as the hostname, username, and password. Changing the username and/or password is optional, but the hostname should be changed so that each robot will be uniquely identified on your LAN. To change your hostname:
 
-1. Open a Terminal window and enter ```sudo nano /etc/hosts```. Again, "swarmie" is the default password, so enter it when prompted.
+1. Open a Terminal window and enter ```sudo nano /etc/hostname```. Again, "swarmie" is the default password, so enter it when prompted.
 
-2. The second line of the hosts file should read ```127.0.1.1 swarmie```. Delete "swarmie" and replace it with your chosen hostname, then use <kbd>Ctrl</kbd> + <kbd>x</kbd> to save your change and exit the editor.
+2. This file should contain one line with the word "swarmie". Delete "swarmie" and replace it with your chosen hostname, then use <kbd>Ctrl</kbd> + <kbd>x</kbd> to save your change and exit the editor.
 
-3. From the Bash prompt, enter ```sudo nano /etc/hostname```. Replace "swarmie" in this file with the hostname you chose in Step 2 and save your change.
+3. From the Bash prompt, enter ```sudo nano /etc/hosts```.
+
+4. The second line of the hosts file should read ```127.0.1.1   swarmie```. Delete "swarmie" and replace it with the hostname you chose in step 2.
+
+5. At this point, you should also add to the hosts file the IP addresses and hostnames of any other machines on your network (including other robots) that you plan to run Swarmathon-ROS on. For example, a machine named "alpha" with an IP address of "192.168.1.2" would be added to the file via the line ```192.168.1.2   alpha```.
 
 Finally, ensure that your robot is running the latest Swarmathon-ROS code base. Assuming your robot is already connected to an existing WLAN, open a Terminal window, then run the command ```cd ~/rover_workspace```, then run ```git pull```. Build the code by running ```catkin_make```, then close the window.
 
