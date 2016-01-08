@@ -26,17 +26,17 @@ When you are satisfied that the robot is operating correctly as per the specs ab
 
 Connect the Intel NUC onboard your robot to a keyboard (USB), mouse (USB), and monitor (HDMI). Ensure that the motors are turned off (the red switch is down), then turn the NUC on. To switch the robot from demo mode to user mode, follow the directions below:
 
-1. In the Terminal window that automatically appears when the NUC finishes booting into Ubuntu, type ```q``` to terminate the Swarmathon-ROS launch script.
+1. In the **Terminal** window that automatically appears when the NUC finishes booting into Ubuntu, type ```q``` to terminate the Swarmathon-ROS launch script.
 
-2. Open your shell's startup script by typing ```nano .bashrc``` in the Terminal window.
+2. Open your shell's startup script by typing ```nano .bashrc``` in the **Terminal** window.
 
-3. Delete the last 11 lines of the startup script, from ```if pgrep "roscore" > /dev/null``` to ```fi```, then close the Terminal.
+3. Delete the last 11 lines of the startup script, from ```if pgrep "roscore" > /dev/null``` to ```fi```, then close the **Terminal**.
 
 4. Click the Unity launcher icon in the upper left corner, type ```startup``` into the search box that appears, then click the "Startup Applications" icon. Click on the "Swarmathon Startup" item in the list, then click the "Remove" button on the right side of the window and close Startup Applications.
 
 All robots are set up with "swarmie" as the hostname, username, and password. Changing the username and/or password is optional, but the hostname should be changed so that each robot will be uniquely identified on your LAN. To change your hostname:
 
-1. Open a Terminal window and enter ```sudo nano /etc/hostname```. Again, "swarmie" is the default password, so enter it when prompted.
+1. Open a **Terminal** window and enter ```sudo nano /etc/hostname```. Again, "swarmie" is the default password, so enter it when prompted.
 
 2. This file should contain one line with the word "swarmie". Delete "swarmie" and replace it with your chosen hostname, then use <kbd>Ctrl</kbd> + <kbd>x</kbd> to save your change and exit the editor.
 
@@ -48,7 +48,7 @@ All robots are set up with "swarmie" as the hostname, username, and password. Ch
 
 6. Once all relevant machines have been added, use <kbd>Ctrl</kbd> + <kbd>x</kbd> to save your change and exit the editor.
 
-Finally, ensure that your robot is running the latest Swarmathon-ROS code base. Assuming your robot is already connected to an existing WLAN, open a Terminal window, then run the command ```cd ~/rover_workspace```, then run ```git pull```. Build the code by running ```catkin_make```, then close the window.
+Finally, ensure that your robot is running the latest Swarmathon-ROS code base. Assuming your robot is already connected to an existing WLAN, open a **Terminal** window, then run the command ```cd ~/rover_workspace```, then run ```git pull```. Build the code by running ```catkin_make```, then close the window.
 
 ### 3. Running Swarmathon-ROS on a Swarmie
 
@@ -56,9 +56,9 @@ Disconnect the keyboard, mouse, and monitor from your robot and place it on a la
 
 1. Using another Ubuntu machine that is connected to the same WLAN as your robot, and that has the Swarmathon-ROS code base installed, follow the **hosts** file setup from Section 2 to ensure that your robot's IP address and hostname have been added to your Ubuntu machine's **hosts** file.
 
-2. Open a Terminal window, run ```cd ~/rover_workspace```, then run ```./run.sh``` to start the Swarmathon-ROS GUI.
+2. Open a **Terminal** window, run ```cd ~/rover_workspace```, then run ```./run.sh``` to start the Swarmathon-ROS GUI.
 
-3. Open a second Terminal window and connect to your robot by running the command ```ssh swarmie@robotHostName```, where "robotHostName" should be replaced by the hostname you selected in Section 2 above. When prompted, enter your password ("swarmie" is the default).
+3. Open a second **Terminal** window and connect to your robot by running the command ```ssh swarmie@robotHostName```, where "robotHostName" should be replaced by the hostname you selected in Section 2 above. When prompted, enter your password ("swarmie" is the default).
 
 4. Once the SSH session connects, run the command ```~/rover_workspace/misc/rover_onboard_node_launch.sh machineHostName```, where "machineHostName" should be replaced by the hostname of the machine you're currently using.
 
