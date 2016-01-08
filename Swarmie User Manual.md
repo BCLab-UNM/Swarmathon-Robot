@@ -54,10 +54,12 @@ Finally, ensure that your robot is running the latest Swarmathon-ROS code base. 
 
 Disconnect the keyboard, mouse, and monitor from your robot and place it on a large, flat surface. Ensure that the the motors are now turned on (the red switch is up), and that the NUC is on. To start the ROS base code on the robot, follow the directions below:
 
-1. Using another Ubuntu machine that is connected to the same WLAN as your robot, and that has the Swarmathon-ROS code base installed, open a Terminal window, run ```cd ~/rover_workspace```, then run ```./run.sh``` to start the Swarmathon-ROS GUI.
+1. Using another Ubuntu machine that is connected to the same WLAN as your robot, and that has the Swarmathon-ROS code base installed, follow the hosts file setup from Section 2 to ensure that your robot's IP address and hostname have been added to your Ubuntu machine's hosts file.
 
-2. Open a second Terminal window and connect to your robot by running the command ```ssh swarmie@robotHostName```, where "robotHostName" should be replaced by the hostname you selected in Section 2 above. When prompted, enter your password ("swarmie" is the default).
+2. Open a Terminal window, run ```cd ~/rover_workspace```, then run ```./run.sh``` to start the Swarmathon-ROS GUI.
 
-3. Once the SSH session connects, run the command ```~/rover_workspace/misc/rover_onboard_node_launch.sh machineHostName```, where "machineHostName" should be replaced by the hostname of the machine you're currently using.
+3. Open a second Terminal window and connect to your robot by running the command ```ssh swarmie@robotHostName```, where "robotHostName" should be replaced by the hostname you selected in Section 2 above. When prompted, enter your password ("swarmie" is the default).
+
+4. Once the SSH session connects, run the command ```~/rover_workspace/misc/rover_onboard_node_launch.sh machineHostName```, where "machineHostName" should be replaced by the hostname of the machine you're currently using.
 
 In your Swarmathon-ROS GUI window, you should see the name of your robot appear in the "Rovers:" box on the left side. It may take up to 10 seconds for the robot's name to appear. When you click on the robot's name, you should see it's camera view appear in the GUI window, along with data from the ultrasonic sensors, IMU, and motor encoders.
