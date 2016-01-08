@@ -42,9 +42,9 @@ All robots are set up with "swarmie" as the hostname, username, and password. Ch
 
 3. From the Bash prompt, enter ```sudo nano /etc/hosts```.
 
-4. The second line of the hosts file should read ```127.0.1.1   swarmie```. Delete "swarmie" and replace it with the hostname you chose in step 2.
+4. The second line of the **hosts** file should read ```127.0.1.1   swarmie```. Delete "swarmie" and replace it with the hostname you chose in step 2.
 
-5. At this point, you should also add to the hosts file the IP addresses and hostnames of any other machines on your network (including other robots) that you plan to run Swarmathon-ROS on. For example, you would add a machine named "alpha" with an IP address of "192.168.1.2" by inserting ```192.168.1.2   alpha``` at a new line in the hosts file.
+5. At this point, you should also add to the **hosts** file the IP addresses and hostnames of any other machines on your network (including other robots) that you plan to run Swarmathon-ROS on. For example, you would add a machine named "alpha" with an IP address of "192.168.1.2" by inserting ```192.168.1.2   alpha``` at a new line in the **hosts** file.
 
 6. Once all relevant machines have been added, use <kbd>Ctrl</kbd> + <kbd>x</kbd> to save your change and exit the editor.
 
@@ -54,7 +54,7 @@ Finally, ensure that your robot is running the latest Swarmathon-ROS code base. 
 
 Disconnect the keyboard, mouse, and monitor from your robot and place it on a large, flat surface. Ensure that the the motors are now turned on (the red switch is up), and that the NUC is on. To start the ROS base code on the robot, follow the directions below:
 
-1. Using another Ubuntu machine that is connected to the same WLAN as your robot, and that has the Swarmathon-ROS code base installed, follow the hosts file setup from Section 2 to ensure that your robot's IP address and hostname have been added to your Ubuntu machine's hosts file.
+1. Using another Ubuntu machine that is connected to the same WLAN as your robot, and that has the Swarmathon-ROS code base installed, follow the **hosts** file setup from Section 2 to ensure that your robot's IP address and hostname have been added to your Ubuntu machine's **hosts** file.
 
 2. Open a Terminal window, run ```cd ~/rover_workspace```, then run ```./run.sh``` to start the Swarmathon-ROS GUI.
 
