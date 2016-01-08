@@ -1,6 +1,10 @@
 ### 1. Demonstration Mode Testing
 
-Please unpack your robot and check for any physical damage before beginning this tutorial. If you notice any damage, please notify a NASA Swarmathon representative immediately at [Info@NasaSwarmathon.com](Info@NasaSwarmathon.com). Once unpacked, place your robot on a large, flat surface, such as a parking lot, then follow the directions below:
+Please unpack your robot and check for any physical damage before beginning this tutorial. If you notice any damage, please notify a NASA Swarmathon representative immediately at [Info@NasaSwarmathon.com](Info@NasaSwarmathon.com).
+
+Once unpacked, connect your robot to the smart charger via the barrel jack at the rear of the robot (to the right of the red power switch). You should see a red light on the smart charger, which indicates a solid connection. Charge the robot until the light on the smart charger turns green, which indicates that the battery is fully charged, then disconnect the charger.
+
+Once the robot is fully charged, place it on a large, flat surface, such as a parking lot, then follow the directions below:
 
 1. Connect the battery by plugging the black barrel connector into the PCB
 
