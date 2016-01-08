@@ -1,4 +1,4 @@
-### Demonstration Mode Testing
+### 1. Demonstration Mode Testing
 
 Please unpack your robot and check for any physical damage before beginning this tutorial. If you notice any damage, please notify a NASA Swarmathon representative as soon as possible at [Info@NasaSwarmathon.com](Info@NasaSwarmathon.com). Once unpacked, place your robot on a large, flat surface, such as a parking lot, then follow the directions below:
 
@@ -22,9 +22,9 @@ Observe the robot for several minutes. You should see the robot performing a cor
 
 When you are satisfied that the robot is operating correctly as per the specs above, you may shut it down by flipping the red switch down and holding the power button on the NUC for five seconds.
 
-### Switching to User Mode
+### 2. Switching to User Mode
 
-Connect the Intel NUC onboard your robot to a keyboard (USB), mouse (USB), and monitor (HDMI). Ensure that the motors are turned off )the red switch is down), then turn the NUC on. To switch the robot from demo mode to user mode, follow the directions below:
+Connect the Intel NUC onboard your robot to a keyboard (USB), mouse (USB), and monitor (HDMI). Ensure that the motors are turned off (the red switch is down), then turn the NUC on. To switch the robot from demo mode to user mode, follow the directions below:
 
 1. In the Terminal window that automatically appears when the NUC finishes booting into Ubuntu, type ```q``` to terminate the Swarmathon-ROS launch script.
 
@@ -42,4 +42,14 @@ All robots are set up with "swarmie" as the hostname, username, and password. Ch
 
 3. From the Bash prompt, enter ```sudo nano /etc/hostname```. Replace "swarmie" in this file with the hostname you chose in Step 2 and save your change.
 
-Finally, ensure that your robot is running the latest Swarmathon-ROS code base by opening a Terminal window, running the command ```cd ~/rover_workspace```, then running ```git pull```. Build the code by running ```catkin_make```, then close the window.
+Finally, ensure that your robot is running the latest Swarmathon-ROS code base. Assuming your robot is already connected to an existing WLAN, open a Terminal window, then run the command ```cd ~/rover_workspace```, then run ```git pull```. Build the code by running ```catkin_make```, then close the window.
+
+### 3. Running Swarmathon-ROS on a Swarmie
+
+Disconnect the keyboard, mouse, and monitor from your robot and place it on a large, flat surface. Ensure that the the motors are now turned on (the red switch is up), and that the NUC is on. To start the ROS base code on the robot, follow the directions below:
+
+1. Using another Ubuntu machine that is connected to the same WLAN as your robot, and that has the Swarmathon-ROS code base installed, open a Terminal window, run ```cd ~/rover_workspace```, then run ```./run.sh``` to start the Swarmathon-ROS GUI.
+
+2. Open a second Terminal window and connect to your robot by running the command ```ssh swarmie@robotHostName```, where "robotHostName" should be replaced by the hostname you selected in Section 2 above. When prompted, enter your password ("swarmie" is the default).
+
+3. Once the SSH session connects, run the command ```~/rover_workspace/misc/rover_onboard_node_launch.sh machineHostName```, where "machineHostName" should be replaced by the hostname of the machine you're currently using.
