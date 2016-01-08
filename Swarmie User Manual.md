@@ -53,3 +53,5 @@ Disconnect the keyboard, mouse, and monitor from your robot and place it on a la
 2. Open a second Terminal window and connect to your robot by running the command ```ssh swarmie@robotHostName```, where "robotHostName" should be replaced by the hostname you selected in Section 2 above. When prompted, enter your password ("swarmie" is the default).
 
 3. Once the SSH session connects, run the command ```~/rover_workspace/misc/rover_onboard_node_launch.sh machineHostName```, where "machineHostName" should be replaced by the hostname of the machine you're currently using.
+
+In your Swarmathon-ROS GUI window, you should see the name of your robot appear in the "Rovers:" box on the left side. It may take up to 10 seconds for the robot's name to appear. When you click on the robot's name, you should see it's camera view appear in the GUI window, along with data from the ultrasonic sensors, IMU, and motor encoders.
