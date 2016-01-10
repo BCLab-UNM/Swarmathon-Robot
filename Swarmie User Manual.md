@@ -16,7 +16,7 @@ Once all robots are fully charged, you should test each one individually on a la
 
 4. Wait 30 to 60 seconds, then the robot should begin moving
 
-Observe the robot for several minutes. You should see the robot performing a correlated random walk by rotating to a random heading, driving forward 50 cm, then rotating, then driving, etc. If you place an obstacle in front of the robot, you should observe the robot turning away to avoid the obstacle, then resuming the random walk behavior. Placing an obstacle in front of the left ultrasonic sensor should cause the robot to turn right, while placing an obstacle in front of the right sensor should cause the robot to turn left. If everything is working correctly, you should observe the following indicator lights:
+Observe the robot for several minutes. You should see the robot performing a correlated random walk by rotating to a random heading, driving forward 50 cm, then rotating, then driving forward 50 cm, etc. If you place an obstacle in front of the robot, you should observe the robot turning away to avoid the obstacle, then resuming the random walk behavior, turning approximately every 50 cm. Placing an obstacle in front of the left ultrasonic sensor should cause the robot to turn right, while placing an obstacle in front of the right sensor should cause the robot to turn left. Place a large obstacle (such as a wall) in front of the robot to ensure that it can turn around if there is a large obstacle in front of it. If everything is working correctly, you should observe the following indicator lights:
 
 1. A solid green light on the camera
 
@@ -27,6 +27,10 @@ Observe the robot for several minutes. You should see the robot performing a cor
 4. A very rapidly blinking, near-solid red light on the microcontroller underneath the Intel NUC
 
 When you are satisfied that the robot is operating correctly as per the specs above, you may shut it down by flipping the red switch down and holding the power button on the NUC for five seconds.
+
+Your robot is now ready for you to use! Please repeat this process for all 3 of your robots.
+
+If you have questions about the test or whether your robots are behaving as expected, please post them in the Hardware secion of the [NASA Swarmathon Q&A Forum](http://nasaswarmathon.com/qa-forum/). Note that we may ask for a video of your robot's behavior in order to help you.
 
 ### 2. Switching to User Mode
 
