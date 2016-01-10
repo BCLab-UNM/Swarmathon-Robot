@@ -1,10 +1,12 @@
+## Quick Start Guide for Physical Robots
+
 ### 1. Demonstration Mode Testing
 
-Please unpack your robot and check for any physical damage before beginning this tutorial. If you notice any damage, please notify a NASA Swarmathon representative immediately at [Info@NasaSwarmathon.com](Info@NasaSwarmathon.com). Please save all of the packaging material, including Instapak expanding foam bags, for later use.
+Please unpack your robots and check for any physical damage before beginning this tutorial. If you notice any damage, please notify a NASA Swarmathon representative immediately at [Info@NasaSwarmathon.com](Info@NasaSwarmathon.com). Please save all of the packaging material, including Instapak expanding foam bags, for later use.
 
-Once unpacked, connect your robot to the smart charger via the barrel jack at the rear of the robot (to the right of the red power switch). You should see a red light on the smart charger, which indicates a solid connection. Charge the robot until the light on the smart charger turns green, which indicates that the battery is fully charged, then disconnect the charger.
+Once unpacked, connect each of your three robots to one of the three smart chargers via the barrel jack at the rear of the robot (to the right of the red power switch). You should see a red light on the smart charger, which indicates a solid connection. Charge the robot until the light on the smart charger turns green, which indicates that the battery is fully charged, then disconnect the charger. Note that fully charging the battery can take up to 12 hours, and the battery manufacturer stipulates that batteries should be attended during charge to mitigate fire risk (see the Safety Guide for more information about battery charging).
 
-Once the robot is fully charged, place it on a large, flat surface, such as a parking lot, then follow the directions below:
+Once all robots are fully charged, you should test each one individually on a large, flat surface, such as a parking lot, by following the directions below:
 
 1. Connect the battery by plugging the black barrel connector into the PCB
 
