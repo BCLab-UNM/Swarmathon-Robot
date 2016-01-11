@@ -8,19 +8,19 @@ Once unpacked, connect each of your three robots to one of the three smart charg
 
 Once all robots are fully charged, you should test each one individually on a large, flat surface, such as a parking lot, by following the directions below:
 
-1. Connect the battery by plugging the black barrel connector into the PCB
+Connect the battery by plugging the black barrel connector into the PCB
 
 ![Battery plug](http://swarmathon.cs.unm.edu/img/battery_plug.jpg "Battery plug")
 
-2. Turn on the power to the motors by flipping the red switch up
+Turn on the power to the motors by flipping the red switch up
 
 ![Toggle switch up](http://swarmathon.cs.unm.edu/img/toggle_switch_up.jpg "Toggle switch up")
 
-3. Turn on the Intel NUC by pressing the power button on top, in the front left corner of the NUC
+Turn on the Intel NUC by pressing the power button on top, in the front left corner of the NUC
 
 ![NUC on](http://swarmathon.cs.unm.edu/img/nuc_on.jpg "NUC on")
 
-4. Wait 30 to 60 seconds, then the robot should begin moving
+Wait 30 to 60 seconds, then the robot should begin moving
 
 Observe the robot for several minutes. You should see the robot performing a correlated random walk by rotating to a random heading, driving forward 50 cm, then rotating, then driving forward 50 cm, etc. If you place an obstacle in front of the robot, you should observe the robot turning away to avoid the obstacle, then resuming the random walk behavior, turning approximately every 50 cm. Placing an obstacle in front of the left ultrasonic sensor should cause the robot to turn right, while placing an obstacle in front of the right sensor should cause the robot to turn left. Place a large obstacle (such as a wall) in front of the robot to ensure that it can turn around if there is a large obstacle in front of it. If everything is working correctly, you should observe the following indicator lights:
 
