@@ -10,9 +10,15 @@ Once all robots are fully charged, you should test each one individually on a la
 
 1. Connect the battery by plugging the black barrel connector into the PCB
 
+![Battery plug](http://swarmathon.cs.unm.edu/img/battery_plug.jpg "Battery plug")
+
 2. Turn on the power to the motors by flipping the red switch up
 
+![Toggle switch up](http://swarmathon.cs.unm.edu/img/toggle_switch_up.jpg "Toggle switch up")
+
 3. Turn on the Intel NUC by pressing the power button on top, in the front left corner of the NUC
+
+![NUC on](http://swarmathon.cs.unm.edu/img/nuc_on.jpg "NUC on")
 
 4. Wait 30 to 60 seconds, then the robot should begin moving
 
