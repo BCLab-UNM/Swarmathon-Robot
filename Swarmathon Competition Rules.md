@@ -1,6 +1,4 @@
----
-title: NASA Swarmathon Competition Rules
-...
+### NASA Swarmathon Competition Rules
 
 The goal of the NASA Swarmathon competition is to program a swarm of
 robots to search a square arena and find as many resources as possible
