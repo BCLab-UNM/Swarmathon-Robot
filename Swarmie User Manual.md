@@ -1,4 +1,4 @@
-## Quick Start Guide for Physical Robots (DRAFT)
+## Quick Start Guide for Physical Robots
 
 ### 1. Demonstration Mode Testing
 
