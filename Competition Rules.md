@@ -14,7 +14,7 @@ The goal of the NASA Swarmathon competition is to program a swarm of robots to s
 
 - Resources
 
-    -Resources will be randomly placed around the arena. Resources may be placed in a uniform distribution, such that the probability of encountering each resource is equal, or in a non-uniform distribution, in which some resources will be grouped together. The resource distribution will selected at random before each round, meaning that neither the exact locations of resources, nor the number of clusters of resources, will not be disclosed to teams in advance of the competition.
+    - Resources will be randomly placed around the arena. Resources may be placed in a uniform distribution, such that the probability of encountering each resource is equal, or in a non-uniform distribution, in which some resources will be grouped together. The resource distribution will selected at random before each round, meaning that neither the exact locations of resources, nor the number of clusters of resources, will not be disclosed to teams in advance of the competition.
 
     - "Finding a resource" is defined as identifying the resource in the arena with the robot’s camera, then returning to a 50 cm radius circle at the center of the arena to simulate a successful retrieval. At least one wheel of the robot must touch the edge of the circle in order for the retrieval to be counted.
 
