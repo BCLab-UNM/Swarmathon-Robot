@@ -1,8 +1,8 @@
 # Building a Swarmie
 
 ## Table of Contents
-1.  Introduction
-2.  Guide to 3D Printed and Laser-Cut Parts
+1.  [Introduction](#1---introduction)
+2.  [Guide to 3D Printed and Laser-Cut Parts](#2---guide-to-3d-printed-and-laser-cut-parts)
   1.  3D Printed Parts
   2.  Laser-Cut Parts
 3.  Preparation – Drilling, Tapping, and Soldering
@@ -35,7 +35,7 @@ Notes:
 - All imperial screws are stainless steel, with the exception of two 2-56 nylon screw sizes.
 - All holes in the 3D printed parts originally come filled with wax. Drilling these out should be effortless.  If it is not, you may have drilled too much or in an incorrect location.
 
-Warning: Do not over-tighten screws in the 3D printed parts.  Tapping these parts is effective, but the threads are likely to be stripped if screws are over-tightened.
+*Warning:* Do not over-tighten screws in the 3D printed parts.  Tapping these parts is effective, but the threads are likely to be stripped if screws are over-tightened.
 
 ## 2.	Guide to 3D Printed and Laser-Cut Parts
   # 1.	3D Printed Parts
