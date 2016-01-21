@@ -88,4 +88,4 @@ Operate robots at a safe speed. There are no funds available to repair robots th
 
 Robot wheels may become loose and disengage after repeated testing. Although the robots are capable of driving on only three wheels, you should reattach any loose wheel(s) following the wheel installation instructions in the Swarmie Build Guide.
 
-If you encounter any issues with your robots, please contact the Swarmathon team at [Info@NasaSwarmathon.com](Info@NasaSwarmathon.com), or post questions in the [NASA Swarmathon Q&A Forum](http://nasaswarmathon.com/qa-forum/), and we’ll help you to diagnose and repair the problem.
+If you encounter any issues with your robots, please contact the Swarmathon team at [Info@NasaSwarmathon.com](Info@NasaSwarmathon.com), or post questions in the Hardware section of the [NASA Swarmathon Q&A Forum](http://nasaswarmathon.com/qa-forum/), and we’ll help you to diagnose and repair the problem.
