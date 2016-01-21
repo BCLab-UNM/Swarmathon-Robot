@@ -61,7 +61,7 @@ Running and horseplay is not permitted at any time.  Always walk and work in a c
 -	Only Swarmathon management, judges and assigned volunteers shall handle Swarmie robots during the competition.
 -	Team participants are not allowed to handle competition robots at any time.  If this rule is broken, this can be grounds for team disqualification.
 -	All participants will demonstrate safe behaviors in the heat of competition.
--	Proper charging of Swarmie robots will be followed, as detailed in Battery Safety and Charging.
+-	Proper charging of Swarmie robots will be followed, as detailed in [Battery Safety and Charging](#battery-safety-and-charging).
 
 ## Safety Highlights in the Robot User Guide
 The User Guide will detail the following:
