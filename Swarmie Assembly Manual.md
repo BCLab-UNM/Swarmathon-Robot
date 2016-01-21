@@ -20,8 +20,8 @@
 5.	[Top Plate Assembly](#top-plate-assembly)
   - [3D Printed Parts](#3d-printed-parts)
   - [Ultrasound Sensor Mounting](#ultrasound-sensor-mounting)
-  - NUC Base, Camera, IMU, GPS
-  - PCB, Switch, and Bus Connections
+  - [NUC Base, Camera, IMU, GPS](#nuc-base-camera-imu-gps)
+  - [PCB, Switch, and Bus Connections](#pcb-switch-and-bus-connections)
   - NUC Assembly
   - Cover Plate Assembly and Attachment
   - Top Plate Attachment
