@@ -3,7 +3,7 @@
 ## Table of Contents
 1.  [Introduction](#1---introduction)
 2.  [Guide to 3D Printed and Laser-Cut Parts](#2---guide-to-3d-printed-and-laser-cut-parts)
-  - 3D Printed Parts
+  - [3D Printed Parts](#3d-printed-parts)
   - Laser-Cut Parts
 3.  Preparation – Drilling, Tapping, and Soldering
   - GPS/IMU Mount
@@ -39,23 +39,32 @@ Notes:
 
 ## 2.	Guide to 3D Printed and Laser-Cut Parts
 ### 3D Printed Parts
- 
-Figure 1 Battery Base
- 
-Figure 2 Battery Brace
- 
-Figure 3 Battery Cross Strap
- 
-Figure 4 Camera Mount
- 
-Figure 5 GPS/IMU Mount
- 
-Figure 6 Lid Support
- 
-Figure 7 NUC Base
- 
-Figure 8 Ultrasound (US) Tower
-3.2	Laser-Cut Parts
+
+![Battery Base](http://swarmathon.cs.unm.edu/img/BatteryBase.png)
+Figure 1: Battery Base
+
+![Battery Brace](http://swarmathon.cs.unm.edu/img/BatteryBrace.png)
+Figure 2: Battery Brace
+
+![Battery Cross Strap](http://swarmathon.cs.unm.edu/img/BatteryCrossStrap.png)
+Figure 3: Battery Cross Strap
+
+![Camera Mount](http://swarmathon.cs.unm.edu/img/CameraMountLW.png)
+Figure 4: Camera Mount
+
+![GPS/IMU Mount](http://swarmathon.cs.unm.edu/img/GPS_IMUMountLW.png)
+Figure 5: GPS/IMU Mount
+
+![Lid Support](http://swarmathon.cs.unm.edu/img/LidSupportLW.png)
+Figure 6: Lid Support
+
+![NUC Base](http://swarmathon.cs.unm.edu/img/NUCBasePCB.png)
+Figure 7: NUC Base
+
+![Ultrasound Tower](http://swarmathon.cs.unm.edu/img/USTowerLW.png)
+Figure 8: Ultrasound (US) Tower
+
+###	Laser-Cut Parts
 Each of the laser-cut parts comes covered in a brown protective film.  You can remove the film using a fingernail.
  
 Figure 9 Bottom Plate
