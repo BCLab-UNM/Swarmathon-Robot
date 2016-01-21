@@ -156,6 +156,7 @@ Multi-device receptacle plugged into a power strip or extension cord.
   -	Contained in = package has equipment with batteries installed
 
 |	       | Lithium Ion Battery	                     | Lithium Metal Battery                          |
+|--------------|---------------------------------------------|------------------------------------------------|
 | Standalone   | Lithium Ion Standalone (P.I. 965) UN 3480   |	Lithium Metal Standalone (P.I. 968) UN 3090   |
 | Packed With  | Lithium Ion Packed With (P.I. 966) UN 3481  |	Lithium Metal Packed With (P.I. 969) UN 3091  |
 | Contained in | Lithium Ion Contained in (P.I. 967) UN 3481 |	Lithium Metal Contained in (P.I. 970) UN 3091 |
