@@ -1,12 +1,12 @@
 # Building a Swarmie
 
 ## Table of Contents
-- Introduction
-- Guide to 3D Printed and Laser-Cut Parts
--	3D Printed Parts
--	Laser-Cut Parts
--	Preparation – Drilling, Tapping, and Soldering
--	GPS/IMU Mount
+1. Introduction
+2. Guide to 3D Printed and Laser-Cut Parts
+  1. 3D Printed Parts
+  2. Laser-Cut Parts
+3. Preparation – Drilling, Tapping, and Soldering
+  1. GPS/IMU Mount
 -	NUC Base
 -	Battery Base and Battery Brace
 -	Ultrasound Tower
