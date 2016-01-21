@@ -280,7 +280,7 @@ Unscrew the wheel screws, fit the wheel onto the mounting hub, and screw the whe
 
 ![Labeled Front/Rear of Chassis](http://swarmathon.cs.unm.edu/img/LabeledFrontRearChassis.jpg)
  
-5. Top Plate Assembly
+## 5. Top Plate Assembly
 
 ###	3D Printed Parts
 
