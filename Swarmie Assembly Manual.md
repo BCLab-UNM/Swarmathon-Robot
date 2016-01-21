@@ -3,28 +3,28 @@
 ## Table of Contents
 1.  [Introduction](#1---introduction)
 2.  [Guide to 3D Printed and Laser-Cut Parts](#2---guide-to-3d-printed-and-laser-cut-parts)
-  1.  3D Printed Parts
-  2.  Laser-Cut Parts
+  - 3D Printed Parts
+  - Laser-Cut Parts
 3.  Preparation – Drilling, Tapping, and Soldering
-  1.  GPS/IMU Mount
-  2.	NUC Base
-  3.	Battery Base and Battery Brace
-  4.	Ultrasound Tower
-  5.	Solder IMU Headers
+  - GPS/IMU Mount
+  - NUC Base
+  - Battery Base and Battery Brace
+  - Ultrasound Tower
+  - Solder IMU Headers
 4.	Chassis Assembly
-  1.	Brackets
-  2.	Motors
-  3.	Tire Assembly
-  4.	Bottom Plate and Battery
-  5.	Wheel Attachment
+  - Brackets
+  - Motors
+  - Tire Assembly
+  - Bottom Plate and Battery
+  - Wheel Attachment
 5.	Top Plate Assembly
-  1.	3D Printed Parts
-  2.	Ultrasound Sensor Mounting
-  3.	NUC Base, Camera, IMU, GPS
-  4.	PCB, Switch, and Bus Connections
-  5.	NUC Assembly
-  6.	Cover Plate Assembly and Attachment
-  7.	Top Plate Attachment
+  - 3D Printed Parts
+  - Ultrasound Sensor Mounting
+  - NUC Base, Camera, IMU, GPS
+  - PCB, Switch, and Bus Connections
+  - NUC Assembly
+  - Cover Plate Assembly and Attachment
+  - Top Plate Attachment
 6.	Fully Assembled
 
 ## 1.	Introduction
@@ -38,7 +38,7 @@ Notes:
 **Warning:** Do not over-tighten screws in the 3D printed parts.  Tapping these parts is effective, but the threads are likely to be stripped if screws are over-tightened.
 
 ## 2.	Guide to 3D Printed and Laser-Cut Parts
-  ### 1.	3D Printed Parts
+### - 3D Printed Parts
  
 Figure 1 Battery Base
  
