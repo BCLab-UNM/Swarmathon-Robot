@@ -56,7 +56,8 @@ Report to the Visitor’s Center medical clinic (by bus loading area) for minor 
 
 ## General Safety Requirements
 Running and horseplay is not permitted at any time.  Always walk and work in a controlled and thoughtful manner. Ensure that team members or mentors are not wearing ties, loose clothing, jewelry, or hanging key chains when near or working on the Swarmies while the tires are moving or rotating. Tie hair back or cover it to ensure it does not become entangled in the tires.
-Competition Safety
+
+## Competition Safety
 -	Only Swarmathon management, judges and assigned volunteers shall handle Swarmie robots during the competition.
 -	Team participants are not allowed to handle competition robots at any time.  If this rule is broken, this can be grounds for team disqualification.
 -	All participants will demonstrate safe behaviors in the heat of competition.
@@ -81,7 +82,8 @@ The User Guide will detail the following:
 -	The switch provided with the robot is purposefully large, red, and easily accessible at the rear of the robot’s chassis to ensure that the robot can be immediately disabled in case of emergency.
 -	The switch utilizes a mechanical relay to instantaneously stop all motion and disconnect all power to the robot.
 -	The switch must be toggled up to turn the robot on, and toggled down to turn the robot off.
-Battery Safety and Charging
+
+## Battery Safety and Charging
 -	You must read the battery safety agreement listed in Appendix A: Warnings for Using Batteries.
 -	Batteries are provided inside of a fire retardant, LiPo-Safe charging bag to mitigate the risk of injury or loss. Never remove a battery from its charging bag.
 -	If you intend to ship your robot, you must consult the regulations for safely shipping Lithium batteries listed in Appendix B: Regulations for Shipping Lithium Batteries. Robots should only be shipped by ground, never by air.
