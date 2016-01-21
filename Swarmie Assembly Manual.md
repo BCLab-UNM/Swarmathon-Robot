@@ -17,9 +17,9 @@
   - [Tire Assembly](#tire-assembly)
   - [Bottom Plate and Battery](#bottom-plate-and-battery)
   - [Wheel Attachment](#wheel-attachment)
-5.	Top Plate Assembly
-  - 3D Printed Parts
-  - Ultrasound Sensor Mounting
+5.	[Top Plate Assembly](#top-plate-assembly)
+  - [3D Printed Parts](#3d-printed-parts)
+  - [Ultrasound Sensor Mounting](#ultrasound-sensor-mounting)
   - NUC Base, Camera, IMU, GPS
   - PCB, Switch, and Bus Connections
   - NUC Assembly
