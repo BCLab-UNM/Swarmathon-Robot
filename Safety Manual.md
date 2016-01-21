@@ -104,7 +104,7 @@ Multi-device receptacle plugged into a power strip or extension cord.
 ## Appendix A: Warnings for Using Batteries
 -	Please realize that batteries may leak or cause damage if misused.
 -	When charging a battery pack, please put the battery in a fire retardant container. Always charge in an isolated area, away from other flammable materials.
--	AA Portable Power Corp. Terms and Conditions of Sales Agreement 
+-	[AA Portable Power Corp. Terms and Conditions of Sales Agreement](http://www.batteryspace.com/AAPPC-VERSION%20201201.pdf)
 
 #### Important safety instructions and warnings for Li-ion/Polymer batteries
 -	You must read these safety instructions and warnings before using or charging your batteries.
@@ -152,10 +152,10 @@ Multi-device receptacle plugged into a power strip or extension cord.
 ## Appendix B: Regulations for Shipping Lithium Batteries
 
 #### IATA/ICAO Updates
--	2015 IATA Lithium Battery Guidance Document -56th Edition
--	Significant Changes and Amendaments to the 56th Edition (2015)
--	Lithium Batteries Risk Mitigation Guidance for Operators (pdf)
--	For more and updated information, please visit IATA website
+-	[2015 IATA Lithium Battery Guidance Document -56th Edition](http://www.batteryspace.com/document/shipping/lithium-battery-guidance-document-2015-en.pdf)
+-	[Significant Changes and Amendaments to the 56th Edition (2015)](http://www.batteryspace.com/document/shipping/significant-changes-DGR-56-en.pdf)
+-	[Lithium Batteries Risk Mitigation Guidance for Operators (pdf)](http://www.batteryspace.com/document/shipping/lithium battery-risk-mitigation-guidance-for-operators-1st-2015.pdf)
+-	For more and updated information, please visit [IATA website](http://www.iata.org/whatwedo/cargo/dgr/Pages/lithium-batteries.aspx)
 -	IATA Packing Instruction 965-970
   -	Standalone = package ONLY contains batteries, NO equipment
   -	Packed with = package contains equipment + batteries that are NOT installed in the equipment
@@ -168,24 +168,24 @@ Multi-device receptacle plugged into a power strip or extension cord.
 | Contained in | Lithium Ion Contained in (P.I. 967) UN 3481 |	Lithium Metal Contained in (P.I. 970) UN 3091 |
 
 #### Special Provision for 2015 IATA 56TH Edition
-- A88 for Prototype or low production (Page 6 & Page 22 (R.))
-- A89 for Maximum net weight of lithium batteries per package for Cargo Aircraft >35 KG (Page 7)
-- A154 for returned defective battery (Page 7)
-- A201 for lithium metal batteries on passenger aircraft, need exemption. (Page 7)
+- A88 for Prototype or low production ([Page 6 & Page 22 (R.)](http://www.batteryspace.com/document/shipping/lithium-battery-guidance-document-2015-en.pdf))
+- A89 for Maximum net weight of lithium batteries per package for Cargo Aircraft >35 KG ([Page 7](http://www.batteryspace.com/document/shipping/lithium-battery-guidance-document-2015-en.pdf))
+- A154 for returned defective battery ([Page 7](http://www.batteryspace.com/document/shipping/lithium-battery-guidance-document-2015-en.pdf))
+- A201 for lithium metal batteries on passenger aircraft, need exemption. ([Page 7](http://www.batteryspace.com/document/shipping/lithium-battery-guidance-document-2015-en.pdf))
 
-#### Country List which accept Lithium ion batteries (Class 9, Section IA)
-- By Fedex
-- By UPS
-- By DHL
+#### Country List which accept Lithium ion batteries ([Class 9, Section IA](http://www.batteryspace.com/document/shipping/LithiumBatterFedEx Express2015.pdf))
+- By [Fedex](http://www.fedex.com/us/dangerous-goods/index.html)
+- By [UPS](http://www.ups.com/content/us/en/resources/ship/idg/information/acl.html?srch_pos=14&srch_phr=dangerous+goods)
+- By [DHL](http://www.batteryspace.com/Document/Shipping/2015 DHL Lithium Battery Country Capability List.pdf)
 
-#### Transport within Passenger Baggage (Page 12-15)
-- How to safely transport Lithium Batteries when traveling in air commerce
+#### Transport within Passenger Baggage ([Page 12-15](http://www.batteryspace.com/document/shipping/lithium-battery-guidance-document-2015-en.pdf))
+- [How to safely transport Lithium Batteries when traveling in air commerce](https://www.faa.gov/about/initiatives/hazmat_safety/more_info/?hazmat=7)
 
 #### Carrier's Shipping requirement for Lithium Batteries
-- Fedex Express-2015
+- [Fedex Express](http://www.batteryspace.com/document/shipping/LithiumBatterFedEx Express2015.pdf)-2015
 
 #### DOT (PHMSA) Updates
-- 49 CFR 173.185 - as of Jan 28, 2015
+- [49 CFR 173.185](http://www.ecfr.gov/cgi-bin/text-idx?SID=6db311063907b7a5b11be0763fecfabd&node=se49.2.173_1185&rgn=div8) - as of Jan 28, 2015
 - Proper Shipping Names
   - UN 3480, Lithium Ion Batteries
   - UN 3481, Lithium Ion Batteries packed with equipment
@@ -195,12 +195,12 @@ Multi-device receptacle plugged into a power strip or extension cord.
   - UN 3091, Lithium Metal Batteries contained in equipment
 
 #### Ship Prototypes of Lithium batteries
-- 173.185(e) - Must be shipped by ground as Class 9
-- A55 Cargo aircraft under approval. (The lead time for approval is around 3-6 months. Customer can contact PHMSA for shipping approval by air) (DOT)
+- [173.185(e)](http://www.ecfr.gov/cgi-bin/text-idx?SID=4ee593f49571ca6f455b93f72df03db5&node=se49.2.173_1185&rgn=div8) - Must be shipped by ground as Class 9
+- A55 Cargo aircraft under approval. (The lead time for approval is around 3-6 months. Customer can contact [PHMSA](http://www.phmsa.dot.gov/hazmat/regs/sp-a) for shipping approval by air) (DOT)
 
 #### Low Production Runs
-- 173.185(e) low production runs of not more than 100pcs, must be shipped by ground as Class 9, Packing Group I packaging. Applies to small batteries.
-- A88 Cargo aircraft under approval (The lead time for approval is around 3-6 months. Customer can contact PHMSA for shipping approval by air)
+- [173.185(e)](http://www.ecfr.gov/cgi-bin/text-idx?SID=4ee593f49571ca6f455b93f72df03db5&node=se49.2.173_1185&rgn=div8) low production runs of not more than 100pcs, must be shipped by ground as Class 9, Packing Group I packaging. Applies to small batteries.
+- A88 Cargo aircraft under approval (The lead time for approval is around 3-6 months. Customer can contact [PHMSA](http://www.phmsa.dot.gov/hazmat/regs/sp-a) for shipping approval by air)
 
 #### Damaged, defective or recalled Cells or Batteries
-- 173.185(f)
+- [173.185(f)](http://www.ecfr.gov/cgi-bin/text-idx?SID=4ee593f49571ca6f455b93f72df03db5&node=se49.2.173_1185&rgn=div8)
