@@ -2,7 +2,7 @@
 
 ### 1. Demonstration Mode Testing
 
-Please unpack your robots and check for any physical damage before beginning this tutorial. If you notice any damage, please notify a NASA Swarmathon representative immediately at [Info@NasaSwarmathon.com](Info@NasaSwarmathon.com). Please save all of the packaging material, including Instapak expanding foam bags, for later use.
+Please unpack your robots and check for any physical damage before beginning this tutorial. If you notice any damage, please notify a NASA Swarmathon representative immediately at [Info@NasaSwarmathon.com](Info@NasaSwarmathon.com). Please save all of the packaging material, including bubble wrap, for later use.
 
 Once unpacked, plug each of your three smart chargers into standard wall outlets, then connect each of your three robots to the smart chargers via the barrel jack at the rear of the robots (to the right of the red power switch). You should see a red light on the smart charger, which indicates a solid connection. Charge the robot until the light on the smart charger turns green, which indicates that the battery is fully charged, then disconnect the charger. Note that fully charging the battery can take up to 12 hours, and the battery manufacturer stipulates that batteries should be attended during charge to mitigate fire risk (see the Safety Guide for more information about battery charging).
 
