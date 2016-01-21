@@ -213,43 +213,53 @@ Notice that the tread is pointed in the same direction, but the inner wheels are
 
   Figure 20
 
-5.4	Bottom Plate and Battery
+###	Bottom Plate and Battery
+
 Tools:
-•	1/16” hex key
-•	3/32” hex key
-•	¼” nut driver
+-	1/16” hex key
+-	3/32” hex key
+-	¼” nut driver
+
 Parts:
-•	8x 4-40x1.5” screws – 3/32” hex key
-•	4x 4-40x1/2” screws – 1/16” hex key
-•	4x M3x6mm – 2.0mm hex key
-•	16x washers
-•	8x 4-40 nyloc nuts – ¼” nut driver
-•	Battery Base
-•	Battery Brace
-•	Battery Cross Strap
-•	Battery
-•	Fire retardant bag
- 
-Using eight 4-40x1.5” screws and nyloc nuts, attach the battery base and battery brace.  The top of the battery brace has rounded edges.  Use washers on both sides of the screws.  Make sure the screw heads are on the bottom.  The nylon inserts in the nyloc nuts should always face away from the screw heads.
- 
- 
+-	8x 4-40x1.5” screws – 3/32” hex key
+-	4x 4-40x1/2” screws – 1/16” hex key
+-	4x M3x6mm – 2.0mm hex key
+-	16x washers
+-	8x 4-40 nyloc nuts – ¼” nut driver
+-	Battery Base
+-	Battery Brace
+-	Battery Cross Strap
+-	Battery
+-	Fire retardant bag
+
+Using eight 4-40x1.5” screws and nyloc nuts, attach the battery base and battery brace.  The top of the battery brace has rounded edges. Use washers on both sides of the screws.  Make sure the screw heads are on the bottom.  The nylon inserts in the nyloc nuts should always face away from the screw heads.
+
+![Bottom Plate w/ Battery Frame](http://swarmathon.cs.unm.edu/img/BottomPlateWithBatteryFrame.jpg)
+
 The bottom of the chassis is the side in which the motor shafts are closest. Using four M3x6mm screws, attach the bottom plate to the bottom of the chassis. The plate can be attached in either orientation that it fits.  The orientation will matter later, when the wheels are attached.
- 
- 
+
+![Bottom Plate Attached](http://swarmathon.cs.unm.edu/img/BottomPlateAttached.jpg)
+
 Insert the battery into the fire retardant bag in the following way.  With the bag’s warning facing you, insert the battery with the wire leads coming out on the right, and the battery’s warning facing you.  
- 
- 
+
+![Battery Out of Bag](http://swarmathon.cs.unm.edu/img/BatteryOutOfBag.jpg)
+
 Close the Velcro flap and wrap it around the back of the bag as tightly as possible.  This is necessary to properly fit into the battery base.  
- 
- 
-Carefully lay the battery into the chassis to keep the bag tight.  To maintain the tightness of the bag, insert it into the battery brace flap-side first, while holding onto the flap from underneath.  
- 
- 
-Then lower the other side to the battery base and press it in.  The flap of the battery should be against the black acrylic of the bottom plate.  
- 
- 
-Next, use four 4-40x1/2” screws (button head) to screw the battery cross strap to the battery base and battery brace.  This strap fits only one way, line up the holes and be sure that the flat side is against the battery.  
- 
+
+![Battery In Bag](http://swarmathon.cs.unm.edu/img/BatteryInBag.jpg)
+
+Carefully lay the battery into the chassis to keep the bag tight. To maintain the tightness of the bag, insert it into the battery brace flap-side first, while holding onto the flap from underneath.
+
+![Battery Slide in](http://swarmathon.cs.unm.edu/img/BatterySlideIn.jpg)
+
+Then lower the other side to the battery base and press it in. The flap of the battery should be against the black acrylic of the bottom plate.
+
+![Battery in Place](http://swarmathon.cs.unm.edu/img/BatteryInPlace.jpg)
+
+Next, use four 4-40x1/2” screws (button head) to screw the battery cross strap to the battery base and battery brace.  This strap fits only one way, line up the holes and be sure that the flat side is against the battery.
+
+![Battery Secured](http://swarmathon.cs.unm.edu/img/BatterySecured.jpeg)
+
 5.5	Wheel Attachment
 Tools:
 •	3/32” hex key
