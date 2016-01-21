@@ -15,8 +15,8 @@
   - [Brackets](#brackets)
   - [Motors](#motors)
   - [Tire Assembly](#tire-assembly)
-  - [Bottom Plate and Battery]()
-  - [Wheel Attachment]()
+  - [Bottom Plate and Battery](#bottom-plate-and-battery)
+  - [Wheel Attachment](#wheel-attachment)
 5.	Top Plate Assembly
   - 3D Printed Parts
   - Ultrasound Sensor Mounting
@@ -260,88 +260,122 @@ Next, use four 4-40x1/2” screws (button head) to screw the battery cross strap
 
 ![Battery Secured](http://swarmathon.cs.unm.edu/img/BatterySecured.jpeg)
 
-5.5	Wheel Attachment
+###	Wheel Attachment
+
 Tools:
-•	3/32” hex key
-•	3.5mm hex key
+-	3/32” hex key
+-	3.5mm hex key
+
 Parts:
-•	2x mounting hub kit
-•	4x assembled tires
-Each mounting hub kit will contain two mounting hubs, two larger wheel screws, and three set screws.  One set screw is extra. 
- 
-Begin by screwing the wheel screws into the mounting hubs.  Then slide the mounting hubs onto the motor shafts and screw on the set screw.  The set screw should be screwed into the flat side of the motor shaft.  The wheel screws are screwed on first to ensure the mounting hub is attached at the correct distance from the motor.  
- 
- 
+-	2x mounting hub kit
+-	4x assembled tires
+
+Each mounting hub kit will contain two mounting hubs, two larger wheel screws, and three set screws. One set screw is extra.
+
+Begin by screwing the wheel screws into the mounting hubs. Then slide the mounting hubs onto the motor shafts and screw on the set screw. The set screw should be screwed into the flat side of the motor shaft. The wheel screws are screwed on first to ensure the mounting hub is attached at the correct distance from the motor.  
+
+![Mounting Hub](http://swarmathon.cs.unm.edu/img/MountingHub.jpg)
+
 Unscrew the wheel screws, fit the wheel onto the mounting hub, and screw the wheel screw back in.  In the picture below you can see the direction in which the tires should be pointed.  The rear of the robot is considered to be the side of the larger battery base.
+
+![Labeled Front/Rear of Chassis](http://swarmathon.cs.unm.edu/img/LabeledFrontRearChassis.jpg)
  
-6	Top Plate Assembly
-6.1	3D Printed Parts
+5. Top Plate Assembly
+
+###	3D Printed Parts
+
 Tools:
-•	¼” nut driver
-•	3/32” hex key
+-	¼” nut driver
+-	3/32” hex key
+
 Parts:
-•	Top plate
-•	GPS/IMU mount
-•	Ultrasound tower
-•	6x 4-40x5/8” – 3/32” hex key
-•	12x #4 washers
-•	6x 4-40 nyloc nuts – ¼” nut driver
-Below is a picture showing the orientation and placement of the 3D printed parts on the top plate.  All of the parts (excluding the camera mount) attach to the top plate using 4-40x5/8” screws and 4-40 nyloc nuts.  The NUC base will need only one washer per screw, the other parts will need two.  Do not attach the camera mount or the NUC base until after the ultrasound mounts are attached.
+-	Top plate
+-	GPS/IMU mount
+-	Ultrasound tower
+-	6x 4-40x5/8” – 3/32” hex key
+-	12x #4 washers
+- 6x 4-40 nyloc nuts – ¼” nut driver
+- 
+Below is a picture showing the orientation and placement of the 3D printed parts on the top plate. All of the parts (excluding the camera mount) attach to the top plate using 4-40x5/8” screws and 4-40 nyloc nuts. The NUC base will need only one washer per screw, the other parts will need two. Do not attach the camera mount or the NUC base until after the ultrasound mounts are attached.
+
+![Top Plate Assembly](http://swarmathon.cs.unm.edu/img/TopPlateAssembly.png)
  
-6.2	Ultrasound Sensor Mounting
+###	Ultrasound Sensor Mounting
+
 Tools:
-•	Phillips head screw driver
-•	1/16” hex key
+-	Phillips head screw driver
+-	1/16" hex key
+
 Parts:
-•	6x 4-40x1/2” button head screws – 1/16” hex key
-•	3x ultrasound mount kits
-•	3x ultrasound sensors
- 
-Remove the L-brackets from the ultrasound mount kits. In the picture below, the holes with screws in them need to be drilled out to fit 4-40 screws.  A 1/8” drill bit was used for the holes pictured.
-Attach the two plastic spacers from the kit using two of the four Philips head machine screws.  
+-	6x 4-40x1/2” button head screws – 1/16" hex key
+- 3x ultrasound mount kits
+-	3x ultrasound sensors
+
+Remove the L-brackets from the ultrasound mount kits. In the picture below, the holes with screws in them need to be drilled out to fit 4-40 screws. A 1/8" drill bit was used for the holes pictured.
+
+Attach the two plastic spacers from the kit using two of the four Philips head machine screws.
+
+![Ultrasound Bracket](http://swarmathon.cs.unm.edu/img/UltrasoundBracket.jpg)
+
+Using the other two Philips head machine screws, screw the ultrasound sensors to the plastic spacers. Below is a picture of a finished ultrasound.
+
+![Ultrasound Mounted](http://swarmathon.cs.unm.edu/img/UltrasoundMounted.jpg)
  
- 
-Using the other two Philips head machine screws, screw the ultrasound sensors to the plastic spacers.  Below is a picture of a finished ultrasound.
- 
-6.3	NUC Base, Camera, IMU, GPS
+###	NUC Base, Camera, IMU, GPS
+
 Tools:
-•	Flat head screw driver
+-	Flat head screw driver
+
 Parts:
-•	1x 2-56x1/2” nylon screw -  flat head screw driver
-•	1x GPS
-•	1x camera
-•	1x IMU
-•	Double sided foam tape
- 
-Attach the camera mount to the ultrasound tower using four 4-40x1/2” button head screws.  
+-	1x 2-56x1/2” nylon screw - flat head screw driver
+-	1x GPS
+-	1x camera
+-	1x IMU
+-	Double sided foam tape
+
+Attach the camera mount to the ultrasound tower using four 4-40x1/2” button head screws.
+
 Next, attach the NUC base to the top plate using four 4-40x5/8” screws, four washers, and four nyloc nuts.
-Use a strip of double sided foam tap to tape the GPS to the large, flat portion at the bottom of the GPS/IMU mount.  Use the 2-56x1/2” nylon screw to attach the IMU to the top area on the GPS/IMU mount.
-Use a strip of double sided foam tape to tape the camera to the top of the camera mount.  At this point, the top plate should look like the picture below.
- 
- 
-6.4	PCB, Switch, and Bus Connections
+
+Use a strip of double sided foam tap to tape the GPS to the large, flat portion at the bottom of the GPS/IMU mount. Use the 2-56x1/2” nylon screw to attach the IMU to the top area on the GPS/IMU mount.
+
+Use a strip of double sided foam tape to tape the camera to the top of the camera mount. At this point, the top plate should look like the picture below.
+
+![Camera Mounted](http://swarmathon.cs.unm.edu/img/CameraMounted.jpg)
+
+###	PCB, Switch, and Bus Connections
+
 Tools:
-•	Flat head screw driver
+-	Flat head screw driver
+
 Parts:
-•	PCB
-•	Switch
-•	Wiring harness
-•	4x 2-56x3/8” nylon screws – flat head screw driver
-Below is an image of the printed circuit board (PCB), used for connecting all of the Swarmie's electronics.  The orientation of the PCB within the NUC base is shown in the same image, with the barrel jack sockets on the back right corner of the NUC base.   
- 
- 
-Remove all of the nuts and washers from the switch.  Feed the switch through the rectangular housing on the rear end of the NUC base, with the label pointing upwards.  To get the switch through the housing hole, you may need to straighten the switch, as seen below.  
- 
- 
-Connect the switch connector to the connector on the PCB labeled "S1" located next to the barrel jack socket which is pointing towards the back of the Swarmie.  Screw a single nut onto the switch to secure it in the housing.  Then screw a red switch boot onto the switch.
+-	PCB
+-	Switch
+-	Wiring harness
+-	4x 2-56x3/8” nylon screws – flat head screw driver
+
+Below is an image of the printed circuit board (PCB), used for connecting all of the Swarmie's electronics. The orientation of the PCB within the NUC base is shown in the same image, with the barrel jack sockets on the back right corner of the NUC base.
+
+![PCB](http://swarmathon.cs.unm.edu/img/PCB.jpg)
+
+Remove all of the nuts and washers from the switch. Feed the switch through the rectangular housing on the rear end of the NUC base, with the label pointing upwards. To get the switch through the housing hole, you may need to straighten the switch, as seen below.
+
+![Switch](http://swarmathon.cs.unm.edu/img/Switch.jpg)
+
+Connect the switch connector to the connector on the PCB labeled "S1" located next to the barrel jack socket which is pointing towards the back of the Swarmie. Screw a single nut onto the switch to secure it in the housing. Then screw a red switch boot onto the switch.
+
+![Mounted PCB](http://swarmathon.cs.unm.edu/img/MountedPCB.jpg)
  
 Using four 2-56x3/8” nylon screws, screw the PCB onto the NUC base using the PCB holes labeled on the board as M1, M2, M3 and M4.   
-Next, take the A* Microcontroller and plug it into the PCB with the micro-USB socket facing the front of the Swarmie.  
- 
+Next, take the A* Microcontroller and plug it into the PCB with the micro-USB socket facing the front of the Swarmie.
+
 Run the multicolored ribbon cable out of the NUC base and under the ultrasound tower.  Connect to the three ultrasound distance sensors, located on the front of the Swarmie, using the three 3-pin headers labeled as "L","C", and "R" with the label facing the front of the Swarmie.  
- 
- 
+
+![Ultrasounds Connected](http://swarmathon.cs.unm.edu/img/UltrasoundsConnected.jpg)
+
 Connect the 4-pin header to the IMU with the label facing outward, as shown in the image below.  The VDD pin on the IMU is not connected to anything.
+
+![IMU Connected](http://swarmathon.cs.unm.edu/img/IMUConnected.jpg)
  
 6.5	NUC Assembly
 Tools:
