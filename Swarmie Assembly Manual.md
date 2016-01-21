@@ -4,7 +4,7 @@
 1.  [Introduction](#1---introduction)
 2.  [Guide to 3D Printed and Laser-Cut Parts](#2---guide-to-3d-printed-and-laser-cut-parts)
   - [3D Printed Parts](#3d-printed-parts)
-  - Laser-Cut Parts
+  - [Laser-Cut Parts](#laser--cut-parts)
 3.  Preparation – Drilling, Tapping, and Soldering
   - GPS/IMU Mount
   - NUC Base
@@ -65,14 +65,20 @@ Figure 7: NUC Base
 Figure 8: Ultrasound (US) Tower
 
 ###	Laser-Cut Parts
+
 Each of the laser-cut parts comes covered in a brown protective film.  You can remove the film using a fingernail.
  
-Figure 9 Bottom Plate
- 
-Figure 10 Cover Plate
- 
-Figure 11 Top Plate
-4	Preparation – Drilling, Tapping, and Soldering
+![Bottom Plate](http://swarmathon.cs.unm.edu/img/BottomPlate.png)
+Figure 9: Bottom Plate
+
+![Top Plate](http://swarmathon.cs.unm.edu/img/TopPlate.png)
+Figure 10: Top Plate
+
+![Cover Plate](http://swarmathon.cs.unm.edu/img/CoverPlate.png)
+Figure 11: Cover Plate
+
+## 3.	Preparation – Drilling, Tapping, and Soldering
+
 A few of the 3D printed parts have holes that need to be drilled and tapped.  These holes sometimes are filled with wax, but you can drill it out easily.  Tap lubricant should not be needed as the holes were all filled with wax at one point.
 4.1	GPS/IMU Mount
 Use a #50 drill bit to drill out the hole shown in the picture below.
