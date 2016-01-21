@@ -17,7 +17,7 @@
   - [Tire Assembly](#tire-assembly)
   - [Bottom Plate and Battery](#bottom-plate-and-battery)
   - [Wheel Attachment](#wheel-attachment)
-5.	[Top Plate Assembly](#top-plate-assembly)
+5.	[Top Plate Assembly](#5-top-plate-assembly)
   - [3D Printed Parts](#3d-printed-parts)
   - [Ultrasound Sensor Mounting](#ultrasound-sensor-mounting)
   - [NUC Base, Camera, IMU, GPS](#nuc-base-camera-imu-gps)
@@ -295,7 +295,7 @@ Parts:
 -	6x 4-40x5/8” – 3/32” hex key
 -	12x #4 washers
 - 6x 4-40 nyloc nuts – ¼” nut driver
-- 
+
 Below is a picture showing the orientation and placement of the 3D printed parts on the top plate. All of the parts (excluding the camera mount) attach to the top plate using 4-40x5/8” screws and 4-40 nyloc nuts. The NUC base will need only one washer per screw, the other parts will need two. Do not attach the camera mount or the NUC base until after the ultrasound mounts are attached.
 
 ![Top Plate Assembly](http://swarmathon.cs.unm.edu/img/TopPlateAssembly.png)
