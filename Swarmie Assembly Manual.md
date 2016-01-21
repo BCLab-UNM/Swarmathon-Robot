@@ -5,18 +5,18 @@
 2.  [Guide to 3D Printed and Laser-Cut Parts](#2---guide-to-3d-printed-and-laser-cut-parts)
   - [3D Printed Parts](#3d-printed-parts)
   - [Laser-Cut Parts](#laser-cut-parts)
-3.  Preparation – Drilling, Tapping, and Soldering
-  - GPS/IMU Mount
-  - NUC Base
-  - Battery Base and Battery Brace
-  - Ultrasound Tower
-  - Solder IMU Headers
-4.	Chassis Assembly
-  - Brackets
-  - Motors
-  - Tire Assembly
-  - Bottom Plate and Battery
-  - Wheel Attachment
+3.  [Preparation – Drilling, Tapping, and Soldering](#3---preparation--drilling-tapping-and-soldering)
+  - [GPS/IMU Mount](#gpsimu-mount)
+  - [NUC Base](#nuc-base)
+  - [Battery Base and Battery Brace](#battery-base-and-battery-brace)
+  - [Ultrasound Tower](#ultrasound-tower)
+  - [Solder IMU Headers](#solder-imu-headers)
+4.	[Chassis Assembly](#4-chassis-assembly)
+  - [Brackets](#brackets)
+  - [Motors](#motors)
+  - [Tire Assembly](#tire-assembly)
+  - [Bottom Plate and Battery]()
+  - [Wheel Attachment()
 5.	Top Plate Assembly
   - 3D Printed Parts
   - Ultrasound Sensor Mounting
