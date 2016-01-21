@@ -1,4 +1,4 @@
-<center>SAFETY MANUAL</center>
+# SAFETY MANUAL
 
 ![Swarmathon Logo](http://swarmathon.cs.unm.edu/img/SwarmathonLogo.png)
 
