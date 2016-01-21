@@ -6,19 +6,19 @@
 
 ## Table of Contents
 - [Safety and the NASA Swarmathon](#safety-and-the-nasa-swarmathon)
-- Objectives
-- Scope
-- Responsibilities
-- Volunteer(s) - NASA/KSC
-- Injury Reporting Requirement
-- General Safety Requirements
-- Competition Safety
-- Safety Highlights in the Robot User Guide
-- Robot On/Off Switch
-- Battery Safety and Charging
-- Electrical Safety
-- Appendix A: Warnings for Using Batteries
-- Appendix B: Regulations for Shipping Lithium Batteries
+- [Objectives](#objectives)
+- [Scope](#scope)
+- [Responsibilities](#responsibilities)
+- [Volunteer(s) - NASA/KSC](#volunteers---nasaksc)
+- [Injury Reporting Requirement](#injury-reporting-requirement)
+- [General Safety Requirements](#general-safety-requirements)
+- [Competition Safety](#competition-safety)
+- [Safety Highlights in the Robot User Guide](#safety-highlights-in-the-robot-user-guide)
+- [Robot On/Off Switch](#robot-onoff-switch)
+- [Battery Safety and Charging](#battery-safety-and-charging)
+- [Electrical Safety](#electrical-safety)
+- [Appendix A: Warnings for Using Batteries](#appendix-a-warnings-for-using-batteries)
+- [Appendix B: Regulations for Shipping Lithium Batteries](#appendix-b-regulations-for-shipping-lithium-batteries)
 
 ## Safety and the NASA Swarmathon
 Instilling a culture of safety is a value that every individual in the NASA community must embrace as we pursue NASA’s mission and vision. NASA Swarmathon has adopted safety as a core value and has established the framework for safety leadership in all aspects of the program.
