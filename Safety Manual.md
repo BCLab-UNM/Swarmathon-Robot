@@ -159,35 +159,42 @@ Standalone	Lithium Ion Standalone (P.I. 965) UN 3480	Lithium Metal Standalone (P
 Packed With	Lithium Ion Packed With (P.I. 966) UN 3481	Lithium Metal Packed With (P.I. 969) UN 3091
 Contained in	Lithium Ion Contained in (P.I. 967) UN 3481	Lithium Metal Contained in (P.I. 970) UN 3091
 
-Special Provision for 2015 IATA 56TH Edition
-●	A88 for Prototype or low production (Page 6 & Page 22 (R.))
-●	A89 for Maximum net weight of lithium batteries per package for Cargo Aircraft >35 KG (Page 7)
-●	A154 for returned defective battery (Page 7)
-●	A201 for lithium metal batteries on passenger aircraft, need exemption. (Page 7)
-Country List which accept Lithium ion batteries (Class 9, Section IA)
-●	By Fedex
-●	By UPS
-●	By DHL
-Transport within Passenger Baggage (Page 12-15)
-●	How to safely transport Lithium Batteries when traveling in air commerce
-Carrier's Shipping requirement for Lithium Batteries
-●	Fedex Express-2015
-DOT (PHMSA) Updates
-●	49 CFR 173.185 - as of Jan 28, 2015
-●	Proper Shipping Names
-○	UN 3480, Lithium Ion Batteries
-○	UN 3481, Lithium Ion Batteries packed with equipment
-○	UN 3481, Lithium Ion Batteries contained in equipment
-○	UN 3090, Lithium Metal Batteries
-○	UN 3091, Lithium Metal Batteries packed with equipment
-○	UN 3091, Lithium Metal Batteries contained in equipment
-Ship Prototypes of Lithium batteries
-●	173.185(e) - Must be shipped by ground as Class 9
-●	A55 Cargo aircraft under approval. (The lead time for approval is around 3-6 months. Customer can contact PHMSA for shipping approval by air) (DOT)
-Low Production Runs
-●	173.185(e) low production runs of not more than 100pcs, must be shipped by ground as Class 9, Packing Group I packaging. Applies to small batteries.
-●	A88 Cargo aircraft under approval (The lead time for approval is around 3-6 months. Customer can contact PHMSA for shipping approval by air)
-Damaged, defective or recalled Cells or Batteries
-●	173.185(f)
+#### Special Provision for 2015 IATA 56TH Edition
+- A88 for Prototype or low production (Page 6 & Page 22 (R.))
+- A89 for Maximum net weight of lithium batteries per package for Cargo Aircraft >35 KG (Page 7)
+- A154 for returned defective battery (Page 7)
+- A201 for lithium metal batteries on passenger aircraft, need exemption. (Page 7)
+
+#### Country List which accept Lithium ion batteries (Class 9, Section IA)
+- By Fedex
+- By UPS
+- By DHL
+
+#### Transport within Passenger Baggage (Page 12-15)
+- How to safely transport Lithium Batteries when traveling in air commerce
+
+#### Carrier's Shipping requirement for Lithium Batteries
+- Fedex Express-2015
+
+#### DOT (PHMSA) Updates
+- 49 CFR 173.185 - as of Jan 28, 2015
+- Proper Shipping Names
+  - UN 3480, Lithium Ion Batteries
+  - UN 3481, Lithium Ion Batteries packed with equipment
+  - UN 3481, Lithium Ion Batteries contained in equipment
+  - UN 3090, Lithium Metal Batteries
+  - UN 3091, Lithium Metal Batteries packed with equipment
+  - UN 3091, Lithium Metal Batteries contained in equipment
+
+#### Ship Prototypes of Lithium batteries
+- 173.185(e) - Must be shipped by ground as Class 9
+- A55 Cargo aircraft under approval. (The lead time for approval is around 3-6 months. Customer can contact PHMSA for shipping approval by air) (DOT)
+
+#### Low Production Runs
+- 173.185(e) low production runs of not more than 100pcs, must be shipped by ground as Class 9, Packing Group I packaging. Applies to small batteries.
+- A88 Cargo aircraft under approval (The lead time for approval is around 3-6 months. Customer can contact PHMSA for shipping approval by air)
+
+#### Damaged, defective or recalled Cells or Batteries
+- 173.185(f)
 
 
