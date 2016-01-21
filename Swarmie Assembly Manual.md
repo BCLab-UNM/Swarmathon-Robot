@@ -16,7 +16,7 @@
   - [Motors](#motors)
   - [Tire Assembly](#tire-assembly)
   - [Bottom Plate and Battery]()
-  - [Wheel Attachment()
+  - [Wheel Attachment]()
 5.	Top Plate Assembly
   - 3D Printed Parts
   - Ultrasound Sensor Mounting
@@ -161,8 +161,9 @@ Notice that the tread is pointed in the same direction, but the inner wheels are
 
 1.	First use a utility knife, or similar, to carefully remove any imperfections on the inner part of the rim. This will make things much easier later on.
 
-![Tire 1](http://swarmathon.cs.unm.edu/img/tire01.jpg)
-Figure 12
+  ![Tire 1](http://swarmathon.cs.unm.edu/img/tire01.jpg)
+
+  Figure 12
 
 2.	Pull one side of the tire out, so that it protrudes, like in the image. Insert one side of the rim. It helps to insert at an angle in the middle, where the opening is the largest. Rotate the rim slowly, while pressing it in, to help coax it into place.
 
