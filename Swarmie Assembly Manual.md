@@ -167,43 +167,51 @@ Notice that the tread is pointed in the same direction, but the inner wheels are
 
 2.	Pull one side of the tire out, so that it protrudes, like in the image. Insert one side of the rim. It helps to insert at an angle in the middle, where the opening is the largest. Rotate the rim slowly, while pressing it in, to help coax it into place.
 
-![Tire 2](http://swarmathon.cs.unm.edu/img/tire02.jpg)
-Figure 13
+  ![Tire 2](http://swarmathon.cs.unm.edu/img/tire02.jpg)
+  
+  Figure 13
 
 3.	You should end up with the tire and rim looking like Figure 14.
 
-![Tire 3](http://swarmathon.cs.unm.edu/img/tire03.jpg)
-Figure 14
+  ![Tire 3](http://swarmathon.cs.unm.edu/img/tire03.jpg)
+  
+  Figure 14
 
 4.	Pull out the side of the tire again, so that it looks like Figure 15.
 
-![Tire 3](http://swarmathon.cs.unm.edu/img/tire04.jpg)
-Figure 15
+  ![Tire 4](http://swarmathon.cs.unm.edu/img/tire04.jpg)
+  
+  Figure 15
 
 5.	Gently press and rotate the rim into the tire. You want to end up with the rim almost fully into the tire with the bead still sticking out, as in Figure 16. If there are any imperfections leftover from Step 1, then it may be difficult to pass the tire over them.
 
-![Tire 3](http://swarmathon.cs.unm.edu/img/tire05.jpg)
-Figure 16
+  ![Tire 5](http://swarmathon.cs.unm.edu/img/tire05.jpg)
+  
+  Figure 16
 
 6.	Quickly press the rim into the tire from both sides. The bead should now be completely in the flange. This step may require several attempts.
 
-![Tire 3](http://swarmathon.cs.unm.edu/img/tire06.jpg)
-Figure 17
+  ![Tire 6](http://swarmathon.cs.unm.edu/img/tire06.jpg)
+  
+  Figure 17
 
 7.	Flip the tire over. It should look something like Figure 18. 
 
-![Tire 3](http://swarmathon.cs.unm.edu/img/tire07.jpg)
-Figure 18
+  ![Tire 7](http://swarmathon.cs.unm.edu/img/tire07.jpg)
+  
+  Figure 18
 
 8.	Almost half the bead is in the flange. Just hold that side in and pull the rest of the bead away from the center, and it will retract back into the flange. It may be helpful to use a screw driver to pull the tire over the wheel.
 
-![Tire 3](http://swarmathon.cs.unm.edu/img/tire08.jpg)
-Figure 19
+  ![Tire 8](http://swarmathon.cs.unm.edu/img/tire08.jpg)
+
+  Figure 19
 
 9.	A completed tire is shown in Figure 20.
 
-![Tire 3](http://swarmathon.cs.unm.edu/img/tire09.jpg)
-Figure 20
+  ![Tire 9](http://swarmathon.cs.unm.edu/img/tire09.jpg)
+
+  Figure 20
 
 5.4	Bottom Plate and Battery
 Tools:
