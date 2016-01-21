@@ -1,4 +1,8 @@
-# SAFETY MANUAL
+-># SAFETY MANUAL<-
+
+![Swarmathon Logo](http://swarmathon.cs.unm.edu/img/SwarmathonLogo.png)
+
+![KSC Swarmies](http://swarmathon.cs.unm.edu/img/swarmiesKSC.png)
 
 Table of Contents
 Safety and the NASA Swarmathon
