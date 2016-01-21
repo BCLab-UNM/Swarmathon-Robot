@@ -36,7 +36,7 @@ When you are satisfied that the robot is operating correctly as per the specs ab
 
 Your robot is now ready for you to use! Please repeat this process for all 3 of your robots.
 
-If you have questions about the test or whether your robots are behaving as expected, please post them in the Hardware secion of the [NASA Swarmathon Q&A Forum](http://nasaswarmathon.com/qa-forum/). Note that we may ask for a video of your robot's behavior in order to help you.
+If you have questions about the test or whether your robots are behaving as expected, please post them in the Hardware section of the [NASA Swarmathon Q&A Forum](http://nasaswarmathon.com/qa-forum/). Note that we may ask for a video of your robot's behavior in order to help you.
 
 ### 2. Switching to User Mode
 
@@ -68,7 +68,7 @@ Finally, ensure that your robot is running the latest Swarmathon-ROS code base. 
 
 ### 3. Running Swarmathon-ROS on a Swarmie
 
-Disconnect the keyboard, mouse, and monitor from your robot and place it on a large, flat surface. Ensure that the the motors are now turned on (the red switch is up), and that the NUC is on. To start the ROS base code on the robot, follow the directions below:
+Disconnect the keyboard, mouse, and monitor from your robot and place it on a large, flat surface. Ensure that the motors are now turned on (the red switch is up), and that the NUC is on. To start the ROS base code on the robot, follow the directions below:
 
 1. Using another Ubuntu machine that is connected to the same WLAN as your robot, and that has the Swarmathon-ROS code base installed, follow the **hosts** file setup from Section 2 to ensure that your robot's IP address and hostname have been added to your Ubuntu machine's **hosts** file.
 
@@ -88,4 +88,4 @@ Operate robots at a safe speed. There are no funds available to repair robots th
 
 Robot wheels may become loose and disengage after repeated testing. Although the robots are capable of driving on only three wheels, you should reattach any loose wheel(s) following the wheel installation instructions in the Swarmie Build Guide.
 
-Please contact the Swarmathon team at [Info@NasaSwarmathon.com](Info@NasaSwarmathon.com) if you have any other trouble with your robots, and we’ll help you to diagnose and repair the problem.
+If you encounter any issues with your robots, please contact the Swarmathon team at [Info@NasaSwarmathon.com](Info@NasaSwarmathon.com), or post questions in the [NASA Swarmathon Q&A Forum](http://nasaswarmathon.com/qa-forum/), and we’ll help you to diagnose and repair the problem.
