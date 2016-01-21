@@ -79,3 +79,13 @@ Disconnect the keyboard, mouse, and monitor from your robot and place it on a la
 4. Once the SSH session connects, run the command ```~/rover_workspace/misc/rover_onboard_node_launch.sh machineHostName```, where "machineHostName" should be replaced by the hostname of the machine you're currently using.
 
 In your Swarmathon-ROS GUI window, you should see the name of your robot appear in the "Rovers:" box on the left side. It may take up to 10 seconds for the robot's name to appear. When you click on the robot's name, you should see it's camera view appear in the GUI window, along with data from the ultrasonic sensors, IMU, and motor encoders.
+
+### 4. Swarmie Maintenance
+
+Never run your robots unattended, and handle your robots carefully. You may carry them by the cover plate, but avoid jarring them, dropping them, or crashing them at high speeds. Robots should be able to handle a few bumps into each other, but if they bump into a wall or immovable obstacle at high speed (or sometimes even at low speed), they may flip over and will need to be promptly uprighted.
+
+Operate robots at a safe speed. There are no funds available to repair robots that are damaged due to high speed crashes (or falling down stairs, getting wet, etc.) Additionally, when robots move at high speeds, the ultrasounds may not respond fast enough to avoid crashes into walls, and the camera may not be able to detect April Tags.
+
+Robot wheels may become loose and disengage after repeated testing. Although the robots are capable of driving on only three wheels, you should reattach any loose wheel(s) following the wheel installation instructions in the Swarmie Build Guide.
+
+Please contact the Swarmathon team at [Info@NasaSwarmathon.com](Info@NasaSwarmathon.com) if you have any other trouble with your robots, and we’ll help you to diagnose and repair the problem.
