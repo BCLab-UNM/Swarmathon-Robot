@@ -71,12 +71,11 @@ The User Guide will detail the following:
 3.	Do not modify or repair the Swarmie without specific guidance from the Swarmathon team.
 4.	Battery:
 	- In order to mitigate battery fire risk, the battery must remain in the LIPO fire resistant bag at all times. 
-	- Follow the guidelines in the attached Appendix A from the battery vendor for battery charging and use
-	- The battery must be shipped by ground only, never air, following specific instructions in attached Appendix B
+	- Follow the guidelines in [Appendix A](#appendix-a-warnings-for-using-batteries) from the battery vendor for battery charging and use
+	- The battery must be shipped by ground only, never air, following specific instructions in [Appendix B](#appendix-b-regulations-for-shipping-lithium-batteries)
 5.	Identify parts that can be fixed (i.e. wheels may need periodic adjustment and those that should not be touched due to danger or fragility (PCB, motor encoders)
 6.	Guidelines for protecting the robot from damage (avoid water, stairs, hitting objects with excessive speed, flipping or tipping the robot)
-7.	Robot is OFF when the red switch on the rear of the robot is in the DOWN position.
-	Robot should be off when charging, idle or being repaired.
+7.	Robot is OFF when the red switch on the rear of the robot is in the DOWN position. Robot should be off when charging, idle or being repaired.
 
 ## Robot On/Off Switch
 -	The switch provided with the robot is purposefully large, red, and easily accessible at the rear of the robot’s chassis to ensure that the robot can be immediately disabled in case of emergency.
@@ -84,9 +83,9 @@ The User Guide will detail the following:
 -	The switch must be toggled up to turn the robot on, and toggled down to turn the robot off.
 
 ## Battery Safety and Charging
--	You must read the battery safety agreement listed in Appendix A: Warnings for Using Batteries.
+-	You must read the battery safety agreement listed in [Appendix A: Warnings for Using Batteries](#appendix-a-warnings-for-using-batteries).
 -	Batteries are provided inside of a fire retardant, LiPo-Safe charging bag to mitigate the risk of injury or loss. Never remove a battery from its charging bag.
--	If you intend to ship your robot, you must consult the regulations for safely shipping Lithium batteries listed in Appendix B: Regulations for Shipping Lithium Batteries. Robots should only be shipped by ground, never by air.
+-	If you intend to ship your robot, you must consult the regulations for safely shipping Lithium batteries listed in [Appendix B: Regulations for Shipping Lithium Batteries](#appendix-b-regulations-for-shipping-lithium-batteries). Robots should only be shipped by ground, never by air.
 
 ## Electrical Safety
 Proper use and respect for electricity is paramount. The following are general guidelines for ensuring basic electrical safety requirements are met:
