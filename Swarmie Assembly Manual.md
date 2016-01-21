@@ -1,31 +1,31 @@
 # Building a Swarmie
 
 ## Table of Contents
-1. Introduction
-2. Guide to 3D Printed and Laser-Cut Parts
-  1. 3D Printed Parts
-  2. Laser-Cut Parts
-3. Preparation – Drilling, Tapping, and Soldering
-  1. GPS/IMU Mount
--	NUC Base
--	Battery Base and Battery Brace
--	Ultrasound Tower
--	Solder IMU Headers
--	Chassis Assembly
--	Brackets
--	Motors
--	Tire Assembly
--	Bottom Plate and Battery
--	Wheel Attachment
--	Top Plate Assembly
--	3D Printed Parts
--	Ultrasound Sensor Mounting
--	NUC Base, Camera, IMU, GPS
--	PCB, Switch, and Bus Connections
--	NUC Assembly
--	Cover Plate Assembly and Attachment
--	Top Plate Attachment
--	Fully Assembled
+1.  Introduction
+2.  Guide to 3D Printed and Laser-Cut Parts
+  1.  3D Printed Parts
+  2.  Laser-Cut Parts
+3.  Preparation – Drilling, Tapping, and Soldering
+  1.  GPS/IMU Mount
+  2.	NUC Base
+  3.	Battery Base and Battery Brace
+  4.	Ultrasound Tower
+  5.	Solder IMU Headers
+4.	Chassis Assembly
+  1.	Brackets
+  2.	Motors
+  3.	Tire Assembly
+  4.	Bottom Plate and Battery
+  5.	Wheel Attachment
+5.	Top Plate Assembly
+  1.	3D Printed Parts
+  2.	Ultrasound Sensor Mounting
+  3.	NUC Base, Camera, IMU, GPS
+  4.	PCB, Switch, and Bus Connections
+  5.	NUC Assembly
+  6.	Cover Plate Assembly and Attachment
+  7.	Top Plate Attachment
+6.	Fully Assembled
 
 ## 1.	Introduction
 This manual is the complete guide to constructing a Swarmie.  Construction is intended to be done in the order presented, but many portions are independent of each other.
