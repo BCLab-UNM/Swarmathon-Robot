@@ -41,3 +41,9 @@ The goal of the NASA Swarmathon competition is to program a swarm of robots to s
     - Robots that collide with one another in the Physical Competition and become stuck will be separated and placed nearby their original locations by line judges. No intervention will occur in the Virtual competition.
 
     - Each robot must operate at a safe speed in order to avoid damage from collisions with the walls and with other robots. At the discretion of Physical Competition judges, robots that repeatedly crash into walls or each other at high speeds will be removed from the arena for the remainder of the period.
+
+- Modifying the Swarmathon-ROS code base
+
+    - Teams participating in the Physical competition are encouraged to modify any parts of the Swarmathon-ROS code base, including adjusting the Gazebo model files to better replicate the capabilities of their physical robots. All committed code that is pushed to a team's GitHub repository by the cutoff date will be pulled and run onboard robots during the Physical competition.
+    
+    - Teams participating in the Virtual competition are also allowed to modify the code base, but note that adjustments to the Gazebo models, Gazebo plugins, or rqt GUI **will not** be used during the Virtual competition. More specifically, only code committed to `src/mobility/*`, `src/obstacle_detection/*`, and `src/target_detection/*` will be pulled and run for the competition.
