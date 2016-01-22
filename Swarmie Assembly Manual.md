@@ -22,10 +22,10 @@
   - [Ultrasound Sensor Mounting](#ultrasound-sensor-mounting)
   - [NUC Base, Camera, IMU, GPS](#nuc-base-camera-imu-gps)
   - [PCB, Switch, and Bus Connections](#pcb-switch-and-bus-connections)
-  - NUC Assembly
-  - Cover Plate Assembly and Attachment
-  - Top Plate Attachment
-6.	Fully Assembled
+  - [NUC Assembly](#nuc-assembly)
+  - [Cover Plate Assembly and Attachment](#cover-plate-assembly-and-attachment)
+  - [Top Plate Attachment](#top-plate-attachment)
+6.	[Fully Assembled](#6-fully-assembled)
 
 ## 1.	Introduction
 This manual is the complete guide to constructing a Swarmie.  Construction is intended to be done in the order presented, but many portions are independent of each other.
