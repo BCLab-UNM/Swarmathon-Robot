@@ -377,61 +377,93 @@ Connect the 4-pin header to the IMU with the label facing outward, as shown in t
 
 ![IMU Connected](http://swarmathon.cs.unm.edu/img/IMUConnected.jpg)
  
-6.5	NUC Assembly
+###	NUC Assembly
+
 Tools:
-•	Phillips head screw driver
+-	Phillips head screw driver
+
 Parts:
-•	NUC
-•	Wireless module
-•	Solid state drive
-•	2x RAM sticks
- 
-In this section, the wireless module, the solid state drive, and the RAM are installed in the NUC.  Unscrew the bottom of the NUC.  Unscrew the two screws circled in the image below.
- 
- 
-Insert the wireless module into the indicated card edge connector, press it down, and fasten it using screw 2 from the image above.  You will find a grey and black wire tucked in next to the chassis with gold colored snap-on leads.  Plug these into the wireless card with the black wire closer to the chassis of the NUC.  
- 
- 
+-	NUC
+-	Wireless module
+-	Solid state drive
+-	2x RAM sticks
+
+In this section, the wireless module, the solid state drive, and the RAM are installed in the NUC. Unscrew the bottom of the NUC. Unscrew the two screws circled in the image below.
+
+![NUC Open](http://swarmathon.cs.unm.edu/img/NUCOpen.jpg)
+
+Insert the wireless module into the indicated card edge connector, press it down, and fasten it using screw 2 from the image above. You will find a grey and black wire tucked in next to the chassis with gold colored snap-on leads. Plug these into the wireless card with the black wire closer to the chassis of the NUC.  
+
+![NUC Wireless Module](http://swarmathon.cs.unm.edu/img/NUCWirelessModule.jpg)
+
 Next, insert the SSD into the indicated card edge connector and fasten it using screw 1.  Lastly, insert the two RAM sticks into their card edge connectors, on the right in the image above.  These snap in by pressing down.
- 
+
+![NUC RAM and SSD](http://swarmathon.cs.unm.edu/img/NUCRAMSSD.jpg)
+
 The image above shows all parts installed.  The wireless module cannot be seen because it lies beneath the SSD.  Screw the bottom of the NUC back on.
- 
-The NUC is attached to the NUC base using two M3x18mm screws which are inserted from the bottom of the NUC base/top plate.  The holes are circled in the image below.  Use a 2.5mm hex key to fasten the screws.  The side of the NUC with the single USB port needs to face the left side of the Swarmie.
- 
+
+The NUC is attached to the NUC base using two M3x18mm screws which are inserted from the bottom of the NUC base/top plate. The holes are circled in the image below. Use a 2.5mm hex key to fasten the screws. The side of the NUC with the single USB port needs to face the left side of the Swarmie.
+
+[!NUC Screw Hole](http://swarmathon.cs.unm.edu/img/NUCScrewHole.jpg)
+
 Plug the GPS and A* Microcontroller into the two adjacent USB ports on the right side of the Swarmie.  Wrap the GPS antenna’s cable, tie it together with a zip-tie, and store the excess cable behind the ultrasound tower.  Wrap the camera’s excess cable around the camera and camera mount, as seen in an image in section 6.3.  Plug the camera into the NUC on the left of the Swarmie.
-6.6	Cover Plate Assembly and Attachment
+
+###	Cover Plate Assembly and Attachment
+
 Tools:
-•	¼” nut driver
-•	3/32” hex key
+-	¼” nut driver
+-	3/32” hex key
+
 Parts:
-•	Cover plate
-•	4x lid supports
-•	GPS Antenna
-•	8x 4-40x5/8” screws – 3/32” hex key
-•	16x #4 washers
-•	8x 4-40 nyloc nuts – ¼” nut driver
-Screw the lid supports to the cover plate using the screws listed above, a washer on each side of the screw, and nyloc nuts.  Make sure the screw heads are facing away from the lid supports.  Reference the image below
- 
+-	Cover plate
+-	4x lid supports
+-	GPS Antenna
+-	8x 4-40x5/8” screws – 3/32” hex key
+-	16x #4 washers
+-	8x 4-40 nyloc nuts – ¼” nut driver
+
+Screw the lid supports to the cover plate using the screws listed above, a washer on each side of the screw, and nyloc nuts.  Make sure the screw heads are facing away from the lid supports.  Reference the image below:
+
+![Lid Supports Attached](http://swarmathon.cs.unm.edu/img/LidSupportsAttached.jpg)
+
 Screw the GPS antenna to the GPS and set it aside.
+
 Use the remaining screws, washers, and nuts to fasten the lid supports to the matching holes in the top plate on the Swarmie.  The cutout on the cover plate goes over the camera and the screw heads should face upwards.  
- 
+
 Use double sided foam tape to fasten the antenna to the rear-left side of the cover plate on the Swarmie.  It is important to position it here because the antenna has a strong magnet that may interfere with the compass.  Run the wire from the antenna through the camera cutout on the cover plate.  The following image shows the correct placement on top of the Swarmie.
- 
- 
-6.7	Top Plate Attachment
+
+![GPS Antenna Attached](http://swarmathon.cs.unm.edu/img/GPSAntennaAttached.jpg)
+
+### Top Plate Attachment
+
 Tools:
-•	2.0mm hex key
+-	2.0mm hex key
+
 Parts:
-•	4x M3x6mm - 2.0mm hex key
-Feed the Battery connector through the circular hole underneath the PCB.  When ready to run the Swarmie, this will need to be plugged into the barrel jack labeled on the PCB as "BATTERY 12V-19V". This is the barrel jack closest to the front of the Swarmie.
+-	4x M3x6mm - 2.0mm hex key
+
+Feed the battery connector through the circular hole underneath the PCB. When ready to run the Swarmie, this will need to be plugged into the barrel jack labeled on the PCB as "BATTERY 12V-19V". This is the barrel jack closest to the front of the Swarmie.
+
 Connect the two left motor connectors to the PCB via the two 6-pin headers through the (rear) oval hole underneath the PCB with the RED wire towards the back of the Swarmie.
+
 Connect the two right motor connectors to the PCB via the two 6-pin headers through the (front) oval hole underneath the PCB with the RED wire towards the back of the Swarmie.
+
 Use the following two images to connect the motors to the correct headers.
- 
- 
-Finally, use four M3x6mm screws to fasten the top plate to the chassis.  These are fastened through the four outer holes on the top plate which line up with the holes in the chassis.  
-7	Fully Assembled
+
+[!Motor Connection Labels](http://swarmathon.cs.unm.edu/img/MotorConnectionLabels.jpg)
+
+Finally, use four M3x6mm screws to fasten the top plate to the chassis. These are fastened through the four outer holes on the top plate which line up with the holes in the chassis.
+
+## 7.	Fully Assembled
+
 The following are images of the fully assembled Swarmie.
+
 [Note: In this version the antenna is placed incorrectly in the following images.]
-  
-  
+
+![Full Swarmie Front Left](http://swarmathon.cs.unm.edu/img/FullSwarmieFrontLeft.jpg)
+
+![Full Swarmie Front Right](http://swarmathon.cs.unm.edu/img/FullSwarmieFrontRight.jpg)
+
+![Full Swarmie Rear Left](http://swarmathon.cs.unm.edu/img/FullSwarmieRearLeft.jpg)
+
+![Full Swarmie Rear Right](http://swarmathon.cs.unm.edu/img/FullSwarmieRearRight.jpg)
