@@ -1,5 +1,5 @@
-## Table of Contents
-
-- [Swarmathon Competition Rules](Competition Rules.md)
-- [Swarmathon Safety Manual](Safety Manual.md)
+## Important Documents for Swarmathon Teams:
+- [Competition Rules](Competition Rules.md)
+- [Safety Manual](Safety Manual.md)
 - [Swarmie User Manual](Swarmie User Manual.md)
+- [Swarmie Assembly Manual](Swarmie Assembly Manual.md)
