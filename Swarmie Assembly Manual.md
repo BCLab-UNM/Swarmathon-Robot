@@ -404,7 +404,7 @@ The image above shows all parts installed.  The wireless module cannot be seen b
 
 The NUC is attached to the NUC base using two M3x18mm screws which are inserted from the bottom of the NUC base/top plate. The holes are circled in the image below. Use a 2.5mm hex key to fasten the screws. The side of the NUC with the single USB port needs to face the left side of the Swarmie.
 
-[!NUC Screw Hole](http://swarmathon.cs.unm.edu/img/NUCScrewHole.jpg)
+!NUC Screw Hole](http://swarmathon.cs.unm.edu/img/NUCScrewHole.jpg)
 
 Plug the GPS and A* Microcontroller into the two adjacent USB ports on the right side of the Swarmie.  Wrap the GPS antenna’s cable, tie it together with a zip-tie, and store the excess cable behind the ultrasound tower.  Wrap the camera’s excess cable around the camera and camera mount, as seen in an image in section 6.3.  Plug the camera into the NUC on the left of the Swarmie.
 
@@ -450,7 +450,7 @@ Connect the two right motor connectors to the PCB via the two 6-pin headers thro
 
 Use the following two images to connect the motors to the correct headers.
 
-[!Motor Connection Labels](http://swarmathon.cs.unm.edu/img/MotorConnectionLabels.jpg)
+![Motor Connection Labels](http://swarmathon.cs.unm.edu/img/MotorConnectionLabels.jpg)
 
 Finally, use four M3x6mm screws to fasten the top plate to the chassis. These are fastened through the four outer holes on the top plate which line up with the holes in the chassis.
 
