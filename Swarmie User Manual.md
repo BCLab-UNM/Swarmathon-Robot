@@ -46,7 +46,7 @@ Connect the Intel NUC onboard your robot to a keyboard (USB), mouse (USB), and m
 
 2. Open your shell's startup script by typing ```nano .bashrc``` in the **Terminal** window.
 
-3. Delete the last 11 lines of the startup script, from ```if pgrep "roscore" > /dev/null``` to ```fi```, then close the **Terminal**.
+3. Delete the last 11 lines of the startup script, from ```if pgrep "roscore" > /dev/null``` to ```fi```, then use <kbd>Ctrl</kbd> + <kbd>x</kbd> to save your change and close the **Terminal**.
 
 4. Click the Unity launcher icon in the upper left corner, type ```startup``` into the search box that appears, then click the "Startup Applications" icon. Click on the "Swarmathon Startup" item in the list, then click the "Remove" button on the right side of the window and close Startup Applications.
 
