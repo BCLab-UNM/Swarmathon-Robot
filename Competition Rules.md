@@ -14,15 +14,15 @@ The goal of the NASA Swarmathon competition is to program a swarm of robots to s
 
 - Resources
 
+    - Resources, represented by [AprilTag](https://april.eecs.umich.edu/wiki/index.php/AprilTags) fiducial markers, will be unique, such that each resource can only be collected once per competition period.
+
     - Resources will be randomly placed around the arena. Resources may be placed in a uniform distribution, such that the probability of encountering each resource is equal, or in a non-uniform distribution, in which some resources will be grouped together. The resource distribution will selected at random before each round, meaning that neither the exact locations of resources, nor the number of clusters of resources, will not be disclosed to teams in advance of the competition.
 
-    - "Finding a resource" is defined as identifying the resource in the arena with the robot’s camera, then returning to a 50 cm radius circle at the center of the arena to simulate a successful retrieval. At least one wheel of the robot must touch the edge of the circle in order for the retrieval to be counted.
+    - "Finding a resource" is defined as identifying the resource in the arena with the robot’s camera, then returning to the 50 cm radius collection zone at the center of the arena to simulate a successful retrieval. In order to recieve credit for the collection, the robot must first publish an image of the resource on the topic `/robotName/tagPickUpImage`, then, upon arriving at the collection zone, publish an image of one of the unique AprilTags associated with the collection zone to the topic `/robotName/tagDropOffImage`.
 
     - Resources will not be placed inside the 50 cm retrieval circle, nor will they be placed within 50 cm of the arena wall.
 
     - Robots may detect multiple resources while searching, but each robot may only return one resource at a time to the 50 cm retrieval zone at the center of the arena.
-
-    - Resources, represented by [AprilTag](https://april.eecs.umich.edu/wiki/index.php/AprilTags) fiducial markers, will be unique, such that each resource can only be collected once per competition period.
 
     - Teams will be provided with a compiled software library and a corresponding API call that must be made in order to count the number of tags dropped off individually at the collection zone. The same software will be used to score teams during the competition.
 
@@ -31,12 +31,16 @@ The goal of the NASA Swarmathon competition is to program a swarm of robots to s
     - Teams may not communicate with their robots in any way during the competition. All robot actions must be autonomous.
 
     - The robots used for the competition will be physically identical to the 3 robots provided to each team.
+    
+    - If robot-robot communication is required, all communication must be done via ROS topics and the ROS master. Robots will not be aware of each other's hostnames or IP addresses, but rather only the hostname and IP of the ROS master.
 
 - During each period
 
     - Each team’s code will be uploaded to the robots before each period.
 
-    - At the beginning of each period, each team’s robots will be placed close to the center of the arena and turned on.
+    - At the beginning of each period, each team’s robots will be placed **roughly** 50 cm from the edge of the collection zone and **roughly** equidistant from one another, then turned on. Teams should **not** expect any robot to be placed in any specific position or orientation, nor should they expect the arena itself to be oriented in any specific direction.
+    
+    - Each robot should be prepared to receive a start signal in form of the published value ```2``` on the ```/robotName/currentMode``` topic, as well as a stop signal in the form of the published value ```1``` on the same topic (identical to the autonomous/manual radio button functionality in the GUI).
 
     - Robots that collide with one another in the Physical Competition and become stuck will be separated and placed nearby their original locations by line judges. No intervention will occur in the Virtual competition.
 
@@ -44,6 +48,6 @@ The goal of the NASA Swarmathon competition is to program a swarm of robots to s
 
 - Modifying the Swarmathon-ROS code base
 
-    - Teams participating in the Physical competition are encouraged to modify any parts of the Swarmathon-ROS code base, including adjusting the Gazebo model files to better replicate the capabilities of their physical robots. All committed code that is pushed to a team's GitHub repository by the cutoff date will be pulled and run onboard robots during the Physical competition.
+    - Teams participating in the Physical competition are encouraged to modify any parts of the Swarmathon-ROS code base, including adding ROS packages and adjusting the Gazebo model files to better replicate the capabilities of their physical robots, **with the exception** of `/src/rqt_rover_gui`, which should **not** be modified. All committed code that is pushed to a team's GitHub repository by the cutoff date will be pulled and run onboard robots during the Physical competition.
     
-    - Teams participating in the Virtual competition are also allowed to modify the code base, but note that adjustments to the Gazebo models, Gazebo plugins, or rqt GUI **will not** be used during the Virtual competition. More specifically, only code committed to `src/mobility/*`, `src/obstacle_detection/*`, and `src/target_detection/*` will be pulled and run for the competition.
+    - Teams participating in the Virtual competition are also allowed to modify any parts of the code base, including adding ROS packages, **with the exception** of `/simulation` and `/src/rqt_rover_gui`, which should **not** be modified.
