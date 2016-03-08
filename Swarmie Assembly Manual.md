@@ -328,6 +328,7 @@ Tools:
 
 Parts:
 -	4x 4-40x1/2” button head screws – 1/16" hex key
+-	4x 4-40x5/8” screws – 3/32” hex key
 -	1x 2-56x1/2” nylon screw - flat head screw driver
 -	1x GPS
 -	1x camera
