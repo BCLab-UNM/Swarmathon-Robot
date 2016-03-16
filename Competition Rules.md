@@ -41,6 +41,8 @@ The goal of the NASA Swarmathon competition is to program a swarm of robots to s
     - At the beginning of each period, each team’s robots will be placed **roughly** 50 cm from the edge of the collection zone and **roughly** equidistant from one another, then turned on. Teams should **not** expect any robot to be placed in any specific position or orientation, nor should they expect the arena itself to be oriented in any specific direction.
     
     - Each robot should be prepared to receive a start signal in form of the published value ```2``` on the ```/robotName/mode``` topic, as well as a stop signal in the form of the published value ```1``` on the same topic (identical to the autonomous/manual radio button functionality in the GUI).
+    
+    - Each robot must publish a string on the `/robotName/status` topic. This string (set to `online` by default in the Swarmathon-ROS code base) should uniquely identify each team so that judges and team members can ensure that the correct code is being run. For example, if a UNM team were to compete in the competition, they might publish the string `UNM: Go Lobos!` on the `/robotName/status` topic in order to uniquely identify their code.
 
     - Robots that collide with one another in the Physical Competition and become stuck will be separated and placed nearby their original locations by line judges. No intervention will occur in the Virtual competition.
 
