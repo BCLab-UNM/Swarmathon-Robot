@@ -18,7 +18,7 @@ The goal of the NASA Swarmathon competition is to program a swarm of robots to s
 
     - Resources will be randomly placed around the arena. Resources may be placed in a uniform distribution, such that the probability of encountering each resource is equal, or in a non-uniform distribution, in which some resources will be grouped together. The resource distribution will selected at random before each round, meaning that neither the exact locations of resources, nor the number of clusters of resources, will not be disclosed to teams in advance of the competition.
 
-    - "Finding a resource" is defined as identifying the resource in the arena with the robot’s camera, then returning to the 50 cm radius collection zone at the center of the arena to simulate a successful retrieval. In order to recieve credit for the collection, the robot must first publish an image of the resource on the topic `/robotName/tagPickUpImage`, then, upon arriving at the collection zone, publish an image of one of the unique AprilTags associated with the collection zone to the topic `/robotName/tagDropOffImage`.
+    - "Finding a resource" is defined as identifying the resource in the arena with the robot’s camera, then returning to the 50 cm radius collection zone at the center of the arena to simulate a successful retrieval. In order to recieve credit for the collection, the robot must first publish an image of the resource on the topic `/robotName/targetPickUpImage`, then, upon arriving at the collection zone, publish an image of one of the unique AprilTags associated with the collection zone to the topic `/robotName/targetDropOffImage`.
 
     - Resources will not be placed inside the 50 cm retrieval circle, nor will they be placed within 50 cm of the arena wall.
 
@@ -40,7 +40,7 @@ The goal of the NASA Swarmathon competition is to program a swarm of robots to s
 
     - At the beginning of each period, each team’s robots will be placed **roughly** 50 cm from the edge of the collection zone and **roughly** equidistant from one another, then turned on. Teams should **not** expect any robot to be placed in any specific position or orientation, nor should they expect the arena itself to be oriented in any specific direction.
     
-    - Each robot should be prepared to receive a start signal in form of the published value ```2``` on the ```/robotName/currentMode``` topic, as well as a stop signal in the form of the published value ```1``` on the same topic (identical to the autonomous/manual radio button functionality in the GUI).
+    - Each robot should be prepared to receive a start signal in form of the published value ```2``` on the ```/robotName/mode``` topic, as well as a stop signal in the form of the published value ```1``` on the same topic (identical to the autonomous/manual radio button functionality in the GUI).
 
     - Robots that collide with one another in the Physical Competition and become stuck will be separated and placed nearby their original locations by line judges. No intervention will occur in the Virtual competition.
 
