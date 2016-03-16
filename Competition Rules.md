@@ -38,7 +38,7 @@ The goal of the NASA Swarmathon competition is to program a swarm of robots to s
 
     - Each team’s code will be uploaded to the robots before each period.
 
-    - At the beginning of each period, each team’s robots will be placed **roughly** 50 cm from the edge of the collection zone and **roughly** equidistant from one another, then turned on. Teams should **not** expect any robot to be placed in any specific position or orientation, nor should they expect the arena itself to be oriented in any specific direction.
+    - At the beginning of each period, each team’s robots will be placed **roughly** 50 cm from the edge of the collection zone and **roughly** equidistant from one another, with each robot facing in toward the collection zone, then the robots will be turned on. Teams should **not** expect any robot to be placed in any specific position, nor should they expect the arena itself to be oriented in any specific direction.
     
     - Each robot should be prepared to receive a start signal in form of the published value ```2``` on the ```/robotName/mode``` topic, as well as a stop signal in the form of the published value ```1``` on the same topic (identical to the autonomous/manual radio button functionality in the GUI).
     
