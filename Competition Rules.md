@@ -46,7 +46,7 @@ The goal of the NASA Swarmathon competition is to program a swarm of robots to s
 
     - Robots that collide with one another in the Physical Competition and become stuck will be separated and placed nearby their original locations by line judges. No intervention will occur in the Virtual competition.
 
-    - Each robot must operate at a safe speed in order to avoid damage from collisions with the walls and with other robots. At the discretion of Physical Competition judges, robots that repeatedly crash into walls or each other at high speeds will be removed from the arena for the remainder of the period.
+    - Each robot must operate at a safe speed in order to avoid damage from collisions with the walls and with other robots. The maximum allowable velocity for the physical robots is 1.0 m/s linear and 1.0 m/s angular; the maximum velocity for the simulated robots is 1.5 m/s linear and 8.0 cm/s angular (this cap includes the simulated scaling factor). At the discretion of Physical Competition judges, robots that repeatedly crash into walls or each other at high speeds will be removed from the arena for the remainder of the period.
 
 - Modifying the Swarmathon-ROS code base
 
