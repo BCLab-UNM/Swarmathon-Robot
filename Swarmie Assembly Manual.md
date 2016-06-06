@@ -232,6 +232,8 @@ Parts:
 -	Battery
 -	Fire retardant bag
 
+Remove the protective paper film from the bottom plate, if you have not already. 
+
 Using eight 4-40x1.5” screws and nyloc nuts, attach the battery base and battery brace.  The top of the battery brace has rounded edges. Use washers on both sides of the screws.  Make sure the screw heads are on the bottom.  The nylon inserts in the nyloc nuts should always face away from the screw heads.
 
 ![Bottom Plate w/ Battery Frame](http://swarmathon.cs.unm.edu/img/BottomPlateWithBatteryFrame.jpg)
