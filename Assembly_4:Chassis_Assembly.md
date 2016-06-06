@@ -136,7 +136,7 @@ Then lower the other side to the battery base and press it in. The flap of the b
 
 Next, use four 4-40x1/2” screws (button head) to screw the battery cross strap to the battery base and battery brace.  This strap fits only one way, line up the holes and be sure that the flat side is against the battery.
 
-![Battery Secured](http://swarmathon.cs.unm.edu/img/BatterySecured.jpeg)
+![Battery Secured](AssemblyImages/BatteryCrossStrap.JPG)
 
 ###	Wheel Attachment
 
