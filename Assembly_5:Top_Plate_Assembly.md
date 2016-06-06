@@ -29,9 +29,11 @@ Parts:
 - 3x ultrasound mount kits
 -	3x ultrasound sensors
 
-Remove the L-brackets from the ultrasound mount kits. In the picture below, the holes with screws in them need to be drilled out to fit 4-40 screws. A 1/8" drill bit was used for the holes pictured.
+Remove the L-brackets from the ultrasound mount kits.  Drill out the indicated holes to fit a 4-40 screw.  A 1/8" drill bit was used for the holes pictured.
 
-Attach the two plastic spacers from the kit using two of the four Philips head machine screws.
+![Ultrasound Bracket Drill](AssemblyImages/L-BracketDrill.JPG)
+
+Screw the three L-brackets to the ultrasound mount using six 4-40x1/2" button head screws. Attach the two plastic spacers from the kit using two of the four Philips head machine screws.
 
 ![Ultrasound Bracket](http://swarmathon.cs.unm.edu/img/UltrasoundBracket.jpg)
 
