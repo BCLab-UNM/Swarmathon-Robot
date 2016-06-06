@@ -77,6 +77,10 @@ Parts:
 -	Wiring harness
 -	4x 2-56x3/8” nylon screws – flat head screw driver
 
+Set the previously assembled top plate onto the robot and feed the battery cable through the hole in the NUC base. This will look like the image below.
+
+[Insert Image]
+
 Below is an image of the printed circuit board (PCB), used for connecting all of the Swarmie's electronics.  Place the PCB into the NUC base, in the orientation seen below.
 
 ![PCB](http://swarmathon.cs.unm.edu/img/PCB.jpg)
@@ -86,6 +90,12 @@ Remove all of the nuts and washers from the switch. Feed the switch through the 
 ![Switch](http://swarmathon.cs.unm.edu/img/Switch.jpg)
 
 Plug in the switch connector to the matching connector on the PCB labeled "S1," located next to the barrel jack socket, which is pointing towards the back of the Swarmie. Screw a single nut onto the switch to secure it in the housing. Then screw a red switch boot onto the switch.
+
+Plug in the black micro USB cable into the A-Star Microcontroller, and plug the A-Star's pins into the PCB's matching header layout. The USB port on the A-Star should point towards the front of the robot. Plug the battery cable into the PCB barrel jack labeled "BATTERY 12V-19V." 
+
+Lastly, plug the male-to-male barrel cable into the PCB's barrel jack labeled "NUC." 
+
+The PCB should now look as pictured below.
 
 ![Mounted PCB](http://swarmathon.cs.unm.edu/img/MountedPCB.jpg)
  
