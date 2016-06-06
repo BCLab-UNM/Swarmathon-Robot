@@ -22,7 +22,7 @@ Use a 2-56 tap to tap the holes.
 
 ###	Battery Base and Battery Brace
 
-Use a #43 drill bit to drill out the four holes indicated in the picture below.  The holes can be drilled through to the gap below them.
+Use a #43 drill bit to drill out the four holes indicated in the pictures below.  The holes can be drilled through to the gap below them.
  
 ![Battery Base w/ Holes](http://swarmathon.cs.unm.edu/img/Holes%20Highlighted/BatteryBase.png)
 
