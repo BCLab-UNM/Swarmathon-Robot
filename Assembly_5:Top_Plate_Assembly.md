@@ -77,7 +77,7 @@ Parts:
 -	Wiring harness
 -	4x 2-56x3/8” nylon screws – flat head screw driver
 
-Below is an image of the printed circuit board (PCB), used for connecting all of the Swarmie's electronics. The orientation of the PCB within the NUC base is shown in the same image, with the barrel jack sockets on the back right corner of the NUC base.
+Below is an image of the printed circuit board (PCB), used for connecting all of the Swarmie's electronics.  Place the PCB into the NUC base, in the orientation seen below.
 
 ![PCB](http://swarmathon.cs.unm.edu/img/PCB.jpg)
 
@@ -85,7 +85,7 @@ Remove all of the nuts and washers from the switch. Feed the switch through the 
 
 ![Switch](http://swarmathon.cs.unm.edu/img/Switch.jpg)
 
-Connect the switch connector to the connector on the PCB labeled "S1" located next to the barrel jack socket which is pointing towards the back of the Swarmie. Screw a single nut onto the switch to secure it in the housing. Then screw a red switch boot onto the switch.
+Plug in the switch connector to the matching connector on the PCB labeled "S1," located next to the barrel jack socket, which is pointing towards the back of the Swarmie. Screw a single nut onto the switch to secure it in the housing. Then screw a red switch boot onto the switch.
 
 ![Mounted PCB](http://swarmathon.cs.unm.edu/img/MountedPCB.jpg)
  
