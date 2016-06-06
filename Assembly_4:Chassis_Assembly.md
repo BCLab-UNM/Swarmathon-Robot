@@ -147,7 +147,7 @@ Parts:
 
 Each mounting hub kit will contain two mounting hubs, two larger wheel screws, and three set screws. One set screw is extra.
 
-Begin by screwing the wheel screws into the mounting hubs. Then slide the mounting hubs onto the motor shafts and screw on the set screw. The set screw should be screwed into the flat side of the motor shaft. The wheel screws are screwed on first to ensure the mounting hub is attached at the correct distance from the motor.  
+Begin by screwing the wheel screws into the mounting hubs. Then slide the mounting hubs onto the motor shafts and screw on the set screw. The set screw has a hexagonal slot on one side to fit a 3/32" hex key, and should be screwed into the flat side of the motor shaft. The wheel screws are screwed on first to ensure the mounting hub is attached at the correct distance from the motor.  
 
 ![Mounting Hub](http://swarmathon.cs.unm.edu/img/MountingHub.jpg)
 
