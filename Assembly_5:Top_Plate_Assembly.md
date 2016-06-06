@@ -81,11 +81,11 @@ Parts:
 
 Set the previously assembled top plate onto the robot and feed the battery cable through the hole in the NUC base. This will look like the image below.
 
-[Insert Image]
+![Top Plate Placement](AssemblyImages/TopPlacePlacement.JPG)
 
 Below is an image of the printed circuit board (PCB), used for connecting all of the Swarmie's electronics.  Place the PCB into the NUC base, in the orientation seen below.
 
-![PCB](http://swarmathon.cs.unm.edu/img/PCB.jpg)
+![PCB](AssemblyImages/PCBUnplugged.JPG)
 
 Remove all of the nuts and washers from the switch. Feed the switch through the rectangular housing on the rear end of the NUC base, with the label pointing upwards. To get the switch through the housing hole, you may need to straighten the switch, as seen below.
 
@@ -99,7 +99,7 @@ Lastly, plug the male-to-male barrel cable into the PCB's barrel jack labeled "N
 
 The PCB should now look as pictured below.
 
-![Mounted PCB](http://swarmathon.cs.unm.edu/img/MountedPCB.jpg)
+![Mounted PCB](AssemblyImages/PCBPluggedIn.JPG)
  
 Using four 2-56x3/8” nylon screws, screw the PCB onto the NUC base using the PCB holes labeled on the board as M1, M2, M3 and M4.   
 Next, take the A* Microcontroller and plug it into the PCB with the micro-USB socket facing the front of the Swarmie.
