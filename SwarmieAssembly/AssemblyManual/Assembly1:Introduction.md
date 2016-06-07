@@ -1,4 +1,4 @@
-## 1.	Introduction
+# 1.	Introduction
 This manual is the complete guide to constructing a Swarmie.  Construction is intended to be done in the order presented, but many portions are independent of each other.
 
 Notes:
@@ -8,7 +8,12 @@ Notes:
 
 **Warning:** Do not over-tighten screws in the 3D printed parts.  Tapping these parts is effective, but the threads are likely to be stripped if screws are over-tightened.
 
-## 2.	Guide to 3D Printed and Laser-Cut Parts
+##Table of Contents
+ - [Guide to 3D Printed and Laser-Cut Parts](./# Guide to 3D Printed and Laser-Cut Parts)
+ - [3D Printed Parts](./Assembly1-2:Introduction.md/#3d-printed-parts)
+ - [Laser-Cut Parts](./Assembly1-2:Introduction.md/#laser-cut-parts)
+
+## Guide to 3D Printed and Laser-Cut Parts
 ### 3D Printed Parts
 
 ![Battery Base](AssemblyImages/BatteryBase.png)
