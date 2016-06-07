@@ -3,9 +3,9 @@
 A few of the 3D printed parts have holes that need to be drilled and tapped.  These holes sometimes are filled with wax, but you can drill it out easily.  Tap lubricant should not be needed as the holes were all filled with wax at one point.
 
 ###Table of Contents
-- [GPS/IMU Mount](./Assembly3:Preparation.md/#gpsimu-mount)		
-- [NUC Base](./Assembly3:Preparation.md/#nuc-base)		
-- [Battery Base and Battery Brace](./Assembly3:Preparation.md/#battery-base-and-battery-brace)
+- [GPS/IMU Mount](./Assembly2:Preparation.md/#gpsimu-mount)		
+- [NUC Base](./Assembly2:Preparation.md/#nuc-base)		
+- [Battery Base and Battery Brace](./Assembly2:Preparation.md/#battery-base-and-battery-brace)
 
 ###	GPS/IMU Mount
 
