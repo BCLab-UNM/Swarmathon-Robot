@@ -1,13 +1,15 @@
 ## 4. Top Plate Assembly
 
 ###Table of Contents
+- [Previous Section: Chassis Assembly](./Assembly3:ChassisAssembly.md)
 - [3D Printed Parts](./Assembly4:TopPlateAssembly.md/#3d-printed-parts)		      		
 - [Ultrasound Sensor Mounting](./Assembly4:TopPlateAssembly.md/#ultrasound-sensor-mounting)				
 - [NUC Base, Camera, IMU, GPS](./Assembly4:TopPlateAssembly.md/#nuc-base-camera-imu-gps)				
 - [PCB, Switch, and Bus Connections](./Assembly4:TopPlateAssembly.md/#pcb-switch-and-bus-connections)				
 - [NUC Assembly](./Assembly4:TopPlateAssembly.md/#nuc-assembly)		      		
 - [Cover Plate Assembly and Attachment](./Assembly4:TopPlateAssembly.md/#cover-plate-assembly-and-attachment)		      		
-- [Top Plate Attachment](./Assembly4:TopPlateAssembly.md/#top-plate-attachment)	
+- [Top Plate Attachment](./Assembly4:TopPlateAssembly.md/#top-plate-attachment)
+- [Next Section: Fully Assembled](./Assembly5:FullyAssembled.md)
 
 ###	3D Printed Parts
 
@@ -199,3 +201,7 @@ Use the following two images to connect the motors to the correct headers.
 ![Motors Connected](AssemblyImages/MotorsConnected.jpg)
 
 Finally, use four M3x6mm screws to fasten the top plate to the chassis. These are fastened through the four outer holes on the top plate which line up with the holes in the chassis.
+
+[Back to Top](./Assembly4:TopPlateAssembly.md/#-4.-Top-Plate-Assembly)
+
+[Next Section: Fully Assembled](./Assembly5:FullyAssembled.md)
