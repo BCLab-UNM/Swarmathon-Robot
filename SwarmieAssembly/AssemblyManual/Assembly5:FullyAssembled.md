@@ -1,4 +1,4 @@
-## 6.	Fully Assembled
+## 5.	Fully Assembled
 
 The following are images of the fully assembled Swarmie.
 
