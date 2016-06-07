@@ -50,8 +50,9 @@ Figure 9: Bottom Plate
 ![Top Plate](AssemblyImages/TopPlate.png)
 Figure 10: Top Plate
 
-[Back to Top](#-1.-Introduction)
-[Next Section](./Assembly2:Preparation.md)
-
 ![Cover Plate](AssemblyImages/CoverPlate.png)
 Figure 11: Cover Plate
+
+[Back to Top](./Assembly1:Introduction.md/#-1.-Introduction)
+
+[Next Section: Preparation](./Assembly2:Preparation.md)
