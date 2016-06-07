@@ -1,4 +1,11 @@
-## 4. Chassis Assembly
+## 3. Chassis Assembly
+
+###Table of Contents
+- [Brackets](./Assembly3:ChassisAssembly.md/#brackets)
+- [Motors](./Assembly3:ChassisAssembly.md/#motors)
+- [Tire Assembly](./Assembly3:ChassisAssembly.md/#tire-assembly)
+- [Bottom Plate and Battery](./Assembly3:ChassisAssembly.md/#bottom-plate-and-battery)
+- [Wheel Attachment](./Assembly3:ChassisAssembly.md/#wheel-attachment)
 
 ###	Brackets
 
