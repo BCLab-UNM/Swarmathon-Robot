@@ -53,4 +53,4 @@ The IMUs come with two sets of headers, use only the straight set.  First, trim 
 
 [Back to Top](./Assembly2:Preparation.md/#-2.-Preparation-–-Drilling,-Tapping,-and-Soldering)
 
-[Next Section](./Assembly3:ChassisAssembly)
+[Next Section](./Assembly3:ChassisAssembly.md)
