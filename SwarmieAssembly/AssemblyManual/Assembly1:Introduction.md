@@ -9,11 +9,10 @@ Notes:
 **Warning:** Do not over-tighten screws in the 3D printed parts.  Tapping these parts is effective, but the threads are likely to be stripped if screws are over-tightened.
 
 ##Table of Contents
- - [Guide to 3D Printed and Laser-Cut Parts](./Assembly1:Introduction.md/# Guide to 3D Printed and Laser-Cut Parts)
  - [3D Printed Parts](./Assembly1:Introduction.md/#3d-printed-parts)
  - [Laser-Cut Parts](./Assembly1:Introduction.md/#laser-cut-parts)
 
-## Guide to 3D Printed and Laser-Cut Parts
+##Guide to 3D Printed and Laser-Cut Parts
 ### 3D Printed Parts
 
 ![Battery Base](AssemblyImages/BatteryBase.png)
