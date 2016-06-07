@@ -11,39 +11,39 @@ Notes:
 ## 2.	Guide to 3D Printed and Laser-Cut Parts
 ### 3D Printed Parts
 
-![Battery Base](http://swarmathon.cs.unm.edu/img/BatteryBase.png)
+![Battery Base](SwarmieAssembly/AssemblyManual/AssemblyImages/BatteryBase.png)
 Figure 1: Battery Base
 
-![Battery Brace](http://swarmathon.cs.unm.edu/img/BatteryBrace.png)
+![Battery Brace](SwarmieAssembly/AssemblyManual/AssemblyImages/BatteryBrace.png)
 Figure 2: Battery Brace
 
-![Battery Cross Strap](http://swarmathon.cs.unm.edu/img/BatteryCrossStrap.png)
+![Battery Cross Strap](SwarmieAssembly/AssemblyManual/AssemblyImages/BatteryCrossStrap.png)
 Figure 3: Battery Cross Strap
 
-![Camera Mount](http://swarmathon.cs.unm.edu/img/CameraMountLW.png)
+![Camera Mount](SwarmieAssembly/AssemblyManual/AssemblyImages/CameraMountLW.png)
 Figure 4: Camera Mount
 
-![GPS/IMU Mount](http://swarmathon.cs.unm.edu/img/GPS_IMUMountLW.png)
+![GPS/IMU Mount](SwarmieAssembly/AssemblyManual/AssemblyImages/GPS_IMUMountLW.png)
 Figure 5: GPS/IMU Mount
 
-![Lid Support](http://swarmathon.cs.unm.edu/img/LidSupportLW.png)
+![Lid Support](SwarmieAssembly/AssemblyManual/AssemblyImages/LidSupportLW.png)
 Figure 6: Lid Support
 
-![NUC Base](http://swarmathon.cs.unm.edu/img/NUCBasePCB.png)
+![NUC Base](SwarmieAssembly/AssemblyManual/AssemblyImages/NUCBasePCB.png)
 Figure 7: NUC Base
 
-![Ultrasound Tower](http://swarmathon.cs.unm.edu/img/USTowerLW.png)
+![Ultrasound Tower](SwarmieAssembly/AssemblyManual/AssemblyImages/USTowerLW.png)
 Figure 8: Ultrasound (US) Tower
 
 ###	Laser-Cut Parts
 
 Each of the laser-cut parts comes covered in a brown protective film.  You can remove the film using a fingernail.
  
-![Bottom Plate](http://swarmathon.cs.unm.edu/img/BottomPlate.png)
+![Bottom Plate](SwarmieAssembly/AssemblyManual/AssemblyImages/BottomPlate.png)
 Figure 9: Bottom Plate
 
-![Top Plate](http://swarmathon.cs.unm.edu/img/TopPlate.png)
+![Top Plate](SwarmieAssembly/AssemblyManual/AssemblyImages/TopPlate.png)
 Figure 10: Top Plate
 
-![Cover Plate](http://swarmathon.cs.unm.edu/img/CoverPlate.png)
+![Cover Plate](SwarmieAssembly/AssemblyManual/AssemblyImages/CoverPlate.png)
 Figure 11: Cover Plate
