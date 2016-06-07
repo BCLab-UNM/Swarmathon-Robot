@@ -6,7 +6,7 @@ A few of the 3D printed parts have holes that need to be drilled and tapped.  Th
 
 Use a #50 drill bit to drill out the hole shown in the picture below.
 
-![GPS/IMU Mount w/ Holes](http://swarmathon.cs.unm.edu/img/Holes%20Highlighted/GPS_IMUMountLW.png)
+![GPS/IMU Mount w/ Holes](AssemblyImages/Holes%20Highlighted/GPS_IMUMountLW.png)
  
 Use a 2-56 tap to tap the hole.
 
@@ -16,7 +16,7 @@ Note: this hole will be used for securing the IMU using a 2-56x1/2” nylon scre
 
 Use a #50 drill bit to drill out the holes indicated in the picture below.  These holes should not be drilled all the way through.  The holes come filled with wax, so drilling into them should feel soft.  Once you feel some resistance, you have drilled through all of the wax, stop drilling.
 
-![NUC Base w/ Holes](http://swarmathon.cs.unm.edu/img/Holes%20Highlighted/NUCBasePCB.png)
+![NUC Base w/ Holes](AssemblyImages/Holes%20Highlighted/NUCBasePCB.png)
 
 Use a 2-56 tap to tap the holes.
 
@@ -24,9 +24,9 @@ Use a 2-56 tap to tap the holes.
 
 Use a #43 drill bit to drill out the four holes indicated in the pictures below.  The holes can be drilled through to the gap below them.
  
-![Battery Base w/ Holes](http://swarmathon.cs.unm.edu/img/Holes%20Highlighted/BatteryBase.png)
+![Battery Base w/ Holes](AssemblyImages/Holes%20Highlighted/BatteryBase.png)
 
-![Battery Brace w/ Holes](http://swarmathon.cs.unm.edu/img/Holes%20Highlighted/BatteryBrace.png)
+![Battery Brace w/ Holes](AssemblyImages/Holes%20Highlighted/BatteryBrace.png)
 
 Use a 4-40 tap to tap the holes.
 
@@ -34,7 +34,7 @@ Use a 4-40 tap to tap the holes.
 
 Use a #43 drill bit to drill out the 10 holes indicated in the picture below.  Warning: holes 1 and 2 are not through holes. You should be able see through the material to know how deep to drill.
 
-![Ultrasound Tower w/ Holes](http://swarmathon.cs.unm.edu/img/Holes%20Highlighted/USTowerLW.png)
+![Ultrasound Tower w/ Holes](AssemblyImages/Holes%20Highlighted/USTowerLW.png)
 
  Use a 4-40 tap to tap the holes.  Note: because holes 1 and 2 are not through holes, you may need to partially tap them, remove and clean the tap, then finish tapping.  
 
@@ -42,4 +42,4 @@ Use a #43 drill bit to drill out the 10 holes indicated in the picture below.  W
 
 The IMUs come with two sets of headers, use only the straight set.  First, trim off one of the headers, only five are needed.  Solder the header onto the IMU as shown in the picture below.
 
-![Soldered IMU](http://swarmathon.cs.unm.edu/img/SolderedIMU.jpg)
+![Soldered IMU](AssemblyImages/SolderedIMU.jpg)

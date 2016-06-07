@@ -11,39 +11,39 @@ Notes:
 ## 2.	Guide to 3D Printed and Laser-Cut Parts
 ### 3D Printed Parts
 
-![Battery Base](SwarmieAssembly/AssemblyManual/AssemblyImages/BatteryBase.png)
+![Battery Base](AssemblyImages/BatteryBase.png)
 Figure 1: Battery Base
 
-![Battery Brace](SwarmieAssembly/AssemblyManual/AssemblyImages/BatteryBrace.png)
+![Battery Brace](AssemblyImages/BatteryBrace.png)
 Figure 2: Battery Brace
 
-![Battery Cross Strap](SwarmieAssembly/AssemblyManual/AssemblyImages/BatteryCrossStrap.png)
+![Battery Cross Strap](AssemblyImages/BatteryCrossStrap.png)
 Figure 3: Battery Cross Strap
 
-![Camera Mount](SwarmieAssembly/AssemblyManual/AssemblyImages/CameraMountLW.png)
+![Camera Mount](AssemblyImages/CameraMountLW.png)
 Figure 4: Camera Mount
 
-![GPS/IMU Mount](SwarmieAssembly/AssemblyManual/AssemblyImages/GPS_IMUMountLW.png)
+![GPS/IMU Mount](AssemblyImages/GPS_IMUMountLW.png)
 Figure 5: GPS/IMU Mount
 
-![Lid Support](SwarmieAssembly/AssemblyManual/AssemblyImages/LidSupportLW.png)
+![Lid Support](AssemblyImages/LidSupportLW.png)
 Figure 6: Lid Support
 
-![NUC Base](SwarmieAssembly/AssemblyManual/AssemblyImages/NUCBasePCB.png)
+![NUC Base](AssemblyImages/NUCBasePCB.png)
 Figure 7: NUC Base
 
-![Ultrasound Tower](SwarmieAssembly/AssemblyManual/AssemblyImages/USTowerLW.png)
+![Ultrasound Tower](AssemblyImages/USTowerLW.png)
 Figure 8: Ultrasound (US) Tower
 
 ###	Laser-Cut Parts
 
 Each of the laser-cut parts comes covered in a brown protective film.  You can remove the film using a fingernail.
  
-![Bottom Plate](SwarmieAssembly/AssemblyManual/AssemblyImages/BottomPlate.png)
+![Bottom Plate](AssemblyImages/BottomPlate.png)
 Figure 9: Bottom Plate
 
-![Top Plate](SwarmieAssembly/AssemblyManual/AssemblyImages/TopPlate.png)
+![Top Plate](AssemblyImages/TopPlate.png)
 Figure 10: Top Plate
 
-![Cover Plate](SwarmieAssembly/AssemblyManual/AssemblyImages/CoverPlate.png)
+![Cover Plate](AssemblyImages/CoverPlate.png)
 Figure 11: Cover Plate
