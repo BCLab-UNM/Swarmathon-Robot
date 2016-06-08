@@ -84,6 +84,10 @@ Next, use four 4-40x1/2” screws (button head) to screw the battery cross strap
 
 ###	Wheel Attachment
 
+If the wheels in your kit are white(A) and are not assembled with tires, follow the [Tire Assembly](./TireAssembly.md) guide. The newer Swarmie kits will come with black-chrome(B) wheels and fully assembled tires.
+
+![Wheel Comparison](./AssemblyImages/WheelComparison.jpg)
+
 Tools:
 -	3/32” hex key
 -	3.5mm hex key
