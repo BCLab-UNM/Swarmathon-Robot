@@ -1,10 +1,13 @@
 ## 4. Top Plate Assembly
 
+![Fully Assembled Top Plate](./AssemblyImages/)
+The Top Plate Fully Assembled
+
 ###Table of Contents
 - [Previous Section: Chassis Assembly](./Assembly3:ChassisAssembly.md)
 - [3D Printed Parts](./Assembly4:TopPlateAssembly.md/#3d-printed-parts)		      		
 - [Ultrasound Sensor Mounting](./Assembly4:TopPlateAssembly.md/#ultrasound-sensor-mounting)				
-- [NUC Base, Camera, IMU, GPS](./Assembly4:TopPlateAssembly.md/#nuc-base-camera-imu-gps)				
+- [Camera, IMU, GPS](./Assembly4:TopPlateAssembly.md/#camera-imu-gps)				
 - [PCB, Switch, and Bus Connections](./Assembly4:TopPlateAssembly.md/#pcb-switch-and-bus-connections)				
 - [NUC Assembly](./Assembly4:TopPlateAssembly.md/#nuc-assembly)		      		
 - [Cover Plate Assembly and Attachment](./Assembly4:TopPlateAssembly.md/#cover-plate-assembly-and-attachment)		      		
@@ -25,10 +28,15 @@ Parts:
 -	12x #4 washers
 - 6x 4-40 nyloc nuts – ¼” nut driver
 
-Below is a picture showing the orientation and placement of the 3D printed parts on the top plate. All of the parts (excluding the camera mount) attach to the top plate using 4-40x5/8” screws and 4-40 nyloc nuts. The NUC base will need only one washer per screw, the other parts will need two. Do not attach the camera mount or the NUC base until after the ultrasound mounts are attached.
+Attach the ultrasound tower using four 4-40x5/8” screws, eight washers (one on each side of each screw), and four nyloc nuts.
+![US Tower Attached]()
 
-![Top Plate Assembly](AssemblyImages/TopPlateAssembly.png)
- 
+Attach the GPS/IMU mount using four 4-40x5/8” screws, eight washers (one on each side of each screw), and four nyloc nuts.
+![GPS/IMU Mount Attached]()
+
+Attach the NUC base to the top plate using four 4-40x5/8” screws, four washers (one per screw on the bottom of the top plate), and four nyloc nuts.
+![NUC Base Attached]()
+
 ###	Ultrasound Sensor Mounting
 
 Tools:
@@ -52,7 +60,7 @@ Using the other two Philips head machine screws, screw the ultrasound sensors to
 
 ![Ultrasound Mounted](AssemblyImages/UltrasoundMounted.jpg)
  
-###	NUC Base, Camera, IMU, GPS
+###	Camera, IMU, GPS
 
 Tools:
 -	Flat head screw driver
@@ -71,11 +79,9 @@ Parts:
 
 Attach the camera mount to the ultrasound tower using four 4-40x1/2” button head screws.
 
-Next, attach the NUC base to the top plate using four 4-40x5/8” screws, four washers, and four nyloc nuts.
+Use a strip of double sided foam tape to attach the GPS to the large, flat portion at the bottom of the GPS/IMU mount. Use the 2-56x1/2” nylon screw to attach the IMU to the top area on the GPS/IMU mount.
 
-Use a strip of double sided foam tap to tape the GPS to the large, flat portion at the bottom of the GPS/IMU mount. Use the 2-56x1/2” nylon screw to attach the IMU to the top area on the GPS/IMU mount.
-
-Use a strip of double sided foam tape to tape the camera to the top of the camera mount. At this point, the top plate should look like the picture below.
+Use a strip of double sided foam tape to attach the camera to the top of the camera mount. At this point, the top plate should look like the picture below.
 
 ![Camera Mounted](AssemblyImages/CameraMounted.jpg)
 
