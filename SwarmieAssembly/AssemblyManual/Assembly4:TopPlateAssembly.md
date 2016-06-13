@@ -1,8 +1,5 @@
 ## 4. Top Plate Assembly
 
-![Fully Assembled Top Plate](./AssemblyImages/)
-The Top Plate Fully Assembled
-
 ###Table of Contents
 - [Previous Section: Chassis Assembly](./Assembly3:ChassisAssembly.md)
 - [3D Printed Parts](./Assembly4:TopPlateAssembly.md/#3d-printed-parts)		      		
@@ -29,13 +26,13 @@ Parts:
 - 6x 4-40 nyloc nuts – ¼” nut driver
 
 Attach the ultrasound tower using four 4-40x5/8” screws, eight washers (one on each side of each screw), and four nyloc nuts.
-![US Tower Attached]()
+![US Tower Attached](./AssemblyImages/TPA-USTower.png)
 
 Attach the GPS/IMU mount using four 4-40x5/8” screws, eight washers (one on each side of each screw), and four nyloc nuts.
-![GPS/IMU Mount Attached]()
+![GPS/IMU Mount Attached](./AssemblyImages/TPA-GPSIMU.png)
 
 Attach the NUC base to the top plate using four 4-40x5/8” screws, four washers (one per screw on the bottom of the top plate), and four nyloc nuts.
-![NUC Base Attached]()
+![NUC Base Attached](./AssemblyImages/TPA-NUCBase.png)
 
 ###	Ultrasound Sensor Mounting
 
@@ -48,7 +45,7 @@ Parts:
 - 3x ultrasound mount kits
 -	3x ultrasound sensors
 
-Remove the L-brackets from the ultrasound mount kits.  Drill out the indicated holes to fit a 4-40 screw.  A 1/8" drill bit was used for the holes pictured.
+Remove the L-brackets from the ultrasound mount kits.  The holes on the L-bracket are too small, so drill out the indicated holes to fit a 4-40 screw.  A 1/8" drill bit was used for the holes pictured.
 
 ![Ultrasound Bracket Drill](AssemblyImages/L-BracketDrill.JPG)
 
@@ -59,6 +56,8 @@ Screw the three L-brackets to the ultrasound mount using six 4-40x1/2" button he
 Using the other two Philips head machine screws, screw the ultrasound sensors to the plastic spacers. Below is a picture of a finished ultrasound.
 
 ![Ultrasound Mounted](AssemblyImages/UltrasoundMounted.jpg)
+
+Repeat for the other two ultrasounds.
  
 ###	Camera, IMU, GPS
 
