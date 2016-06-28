@@ -64,6 +64,8 @@ Repeat for the other two ultrasounds.
 Tools:
 -	Flat head screw driver
 -	¼” nut driver
+-	1/16" hex key
+-	3/32" hex key
 
 Parts:
 -	4x 4-40x1/2” button head screws – 1/16" hex key
