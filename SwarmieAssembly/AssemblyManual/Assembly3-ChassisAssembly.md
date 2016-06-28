@@ -1,12 +1,12 @@
 ## 3. Chassis Assembly
 
 ###Table of Contents
-- [Previous Section: Preparation](./Assembly2:Preparation.md)
-- [Brackets](./Assembly3:ChassisAssembly.md/#brackets)
-- [Motors](./Assembly3:ChassisAssembly.md/#motors)
-- [Bottom Plate and Battery](./Assembly3:ChassisAssembly.md/#bottom-plate-and-battery)
-- [Wheel Attachment](./Assembly3:ChassisAssembly.md/#wheel-attachment)
-- [Next Section: Top Plate Assembly](./Assembly4:TopPlateAssembly.md)
+- [Previous Section: Preparation](./Assembly2-Preparation.md)
+- [Brackets](./Assembly3-ChassisAssembly.md/#brackets)
+- [Motors](./Assembly3-ChassisAssembly.md/#motors)
+- [Bottom Plate and Battery](./Assembly3-ChassisAssembly.md/#bottom-plate-and-battery)
+- [Wheel Attachment](./Assembly3-ChassisAssembly.md/#wheel-attachment)
+- [Next Section: Top Plate Assembly](./Assembly4-TopPlateAssembly.md)
 
 ###	Brackets
 
@@ -106,6 +106,6 @@ Unscrew the wheel screws, fit the wheel onto the mounting hub, and screw the whe
 
 ![Labeled Front/Rear of Chassis](AssemblyImages/LabeledFrontRearChassis.jpg)
 
-[Back to Top](./Assembly3:ChassisAssembly.md/#-3.-Chassis-Assembly)
+[Back to Top](./Assembly3-ChassisAssembly.md/#-3.-Chassis-Assembly)
 
-[Next Section: Top Plate Assembly](./Assembly4:TopPlateAssembly.md)
+[Next Section: Top Plate Assembly](./Assembly4-TopPlateAssembly.md)
