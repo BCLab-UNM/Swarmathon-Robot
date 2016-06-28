@@ -209,6 +209,6 @@ Use the following two images to connect the motors to the correct headers.
 
 Finally, use four M3x6mm screws to fasten the top plate to the chassis. These are fastened through the four outer holes on the top plate which line up with the holes in the chassis.
 
-[Back to Top](./Assembly4:TopPlateAssembly.md/#-4.-Top-Plate-Assembly)
+[Back to Top](./Assembly4-TopPlateAssembly.md/#-4.-Top-Plate-Assembly)
 
-[Next Section: Fully Assembled](./Assembly5:FullyAssembled.md)
+[Next Section: Fully Assembled](./Assembly5-FullyAssembled.md)
