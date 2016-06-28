@@ -1,15 +1,15 @@
 ## 4. Top Plate Assembly
 
 ###Table of Contents
-- [Previous Section: Chassis Assembly](./Assembly3:ChassisAssembly.md)
-- [3D Printed Parts](./Assembly4:TopPlateAssembly.md/#3d-printed-parts)		      		
-- [Ultrasound Sensor Mounting](./Assembly4:TopPlateAssembly.md/#ultrasound-sensor-mounting)				
-- [Camera, IMU, GPS](./Assembly4:TopPlateAssembly.md/#camera-imu-gps)				
-- [PCB, Switch, and Bus Connections](./Assembly4:TopPlateAssembly.md/#pcb-switch-and-bus-connections)				
-- [NUC Assembly](./Assembly4:TopPlateAssembly.md/#nuc-assembly)		      		
-- [Cover Plate Assembly and Attachment](./Assembly4:TopPlateAssembly.md/#cover-plate-assembly-and-attachment)		      		
-- [Top Plate Attachment](./Assembly4:TopPlateAssembly.md/#top-plate-attachment)
-- [Next Section: Fully Assembled](./Assembly5:FullyAssembled.md)
+- [Previous Section: Chassis Assembly](./Assembly3-ChassisAssembly.md)
+- [3D Printed Parts](./Assembly4-TopPlateAssembly.md/#3d-printed-parts)		      		
+- [Ultrasound Sensor Mounting](./Assembly4-TopPlateAssembly.md/#ultrasound-sensor-mounting)				
+- [Camera, IMU, GPS](./Assembly4-TopPlateAssembly.md/#camera-imu-gps)				
+- [PCB, Switch, and Bus Connections](./Assembly4-TopPlateAssembly.md/#pcb-switch-and-bus-connections)				
+- [NUC Assembly](./Assembly4-TopPlateAssembly.md/#nuc-assembly)		      		
+- [Cover Plate Assembly and Attachment](./Assembly4-TopPlateAssembly.md/#cover-plate-assembly-and-attachment)		      		
+- [Top Plate Attachment](./Assembly4-TopPlateAssembly.md/#top-plate-attachment)
+- [Next Section: Fully Assembled](./Assembly5-FullyAssembled.md)
 
 ###	3D Printed Parts
 
