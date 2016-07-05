@@ -119,7 +119,8 @@ The PCB should now look as pictured below.
 
 ![Mounted PCB](AssemblyImages/PCBPluggedIn.JPG)
  
-Using four 2-56x3/8” nylon screws, screw the PCB onto the NUC base using the PCB holes labeled on the board as M1, M2, M3 and M4.   
+Using four 2-56x3/8” nylon screws, screw the PCB onto the NUC base using the PCB holes labeled on the board as M1, M2, M3 and M4.
+
 Next, take the A* Microcontroller and plug it into the PCB with the micro-USB socket facing the front of the Swarmie.
 
 Run the multicolored ribbon cable out of the NUC base and under the ultrasound tower.  Connect to the three ultrasound distance sensors, located on the front of the Swarmie, using the three 3-pin headers labeled as "L","C", and "R" with the label facing the front of the Swarmie.  
@@ -157,7 +158,7 @@ The image above shows all parts installed.  The wireless module cannot be seen b
 
 The NUC is attached to the NUC base using two M3x18mm screws which are inserted from the bottom of the NUC base/top plate. The holes are circled in the image below. Use a 2.5mm hex key to fasten the screws. The side of the NUC with the single USB port needs to face the left side of the Swarmie.
 
-!NUC Screw Hole](AssemblyImages/NUCScrewHole.jpg)
+![NUC Screw Hole](AssemblyImages/NUCScrewHole.jpg)
 
 Plug the GPS and A* Microcontroller into the two adjacent USB ports on the right side of the Swarmie.  Wrap the GPS antenna’s cable, tie it together with a zip-tie, and store the excess cable behind the ultrasound tower.  Wrap the camera’s excess cable around the camera and camera mount, as seen in an image in section 6.3.  Plug the camera into the NUC on the left of the Swarmie.
 
