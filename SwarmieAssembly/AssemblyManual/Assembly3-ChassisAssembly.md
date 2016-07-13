@@ -26,6 +26,12 @@ Using eight M3x6mm screws, attach all four brackets together as seen in the foll
 
 ###	Motors
 
+| Parts            | Tools         |
+| ---------------- |---------------|
+| 8x M3x4mm Screws | 2.0mm Hex Key |
+|                  |               |
+| 4x Motors        |               |
+
 Attach motors to mounting holes using two M3x4mm screws per motor.  The motor shaft should be towards the bottom of the chassis.  See below for detail.
 
 ![Chassis w/ Motors](AssemblyImages/ChassisMotors.jpeg)
@@ -34,23 +40,20 @@ Attach motors to mounting holes using two M3x4mm screws per motor.  The motor sh
 
 ###	Bottom Plate and Battery
 
-Tools:
--	1/16” hex key
--	3/32” hex key
--	¼” nut driver
-
-Parts:
--	8x 4-40x1.5” screws – 3/32” hex key
--	4x 4-40x1/2” screws – 1/16” hex key
--	4x M3x6mm – 2.0mm hex key
--	16x washers
--	8x 4-40 nyloc nuts – ¼” nut driver
--	Bottom Plate
--	Battery Base
--	Battery Brace
--	Battery Cross Strap
--	Battery
--	Fire retardant bag
+| Parts                | Tools          |
+| -------------------- |----------------|
+|	8x  4-40x1.5" Screws | 3/32" Hex Key  |
+|	4x  4-40x1/2" Screws | 1/16" Hex Key  |
+|	4x  M3x6mm           | 2.0mm Hex Key  |
+|	8x  4-40 Nyloc Nuts  | ¼" Nut Driver  |
+|	16x Washers          |                |
+|                      |                |
+|	Bottom Plate         |                |
+|	Battery Base         |                |
+|	Battery Brace        |                |
+|	Battery Cross Strap  |                |
+|	Battery              |                |
+|	Fire Retardant Bag   |                |
 
 Remove the protective paper film from the bottom plate, if you have not already. 
 
@@ -88,13 +91,11 @@ If the wheels in your kit are white(A) and are not assembled with tires, follow 
 
 ![Wheel Comparison](./AssemblyImages/WheelComparison.jpg)
 
-Tools:
--	3/32” hex key
--	3.5mm hex key
-
-Parts:
--	2x mounting hub kit
--	4x assembled tires
+| Parts                | Tools          |
+| -------------------- |----------------|
+|	2x Mounting Hub Kit  | 3.5mm Hex Key  |
+|                      | 3/32" Hex Key  |
+|	4x Assembled Tires   |                |
 
 Each mounting hub kit will contain two mounting hubs, two larger wheel screws, and three set screws. One set screw is extra.
 
