@@ -61,7 +61,9 @@ Using eight 4-40x1.5” screws and nyloc nuts, attach the battery base and batte
 
 ![Bottom Plate w/ Battery Frame](AssemblyImages/BottomPlateWithBatteryFrame.jpg)
 
-The bottom of the chassis is the side in which the motor shafts are closest. Using four M3x6mm screws, attach the bottom plate to the bottom of the chassis. The plate can be attached in either orientation that it fits.  The orientation will matter later, when the wheels are attached.
+**Note**: The bottom of the chassis is the side in which the motor shafts are closest. 
+
+Using four M3x6mm screws, attach the bottom plate to the bottom of the chassis. The plate can be attached in either orientation that it fits.  The orientation will matter later, when the wheels are attached.
 
 ![Bottom Plate Attached](AssemblyImages/BottomPlateAttached.jpg)
 
