@@ -67,7 +67,11 @@ Using four M3x6mm screws, attach the bottom plate to the bottom of the chassis. 
 
 ![Bottom Plate Attached](AssemblyImages/BottomPlateAttached.jpg)
 
-Insert the battery into the fire retardant bag in the following way.  With the bag’s warning facing you, insert the battery with the wire leads coming out on the right, and the battery’s warning facing you.  
+Insert the battery into the fire retardant bag in the following orientation:
+- The bag’s label facing you
+- The bag's opening on the top
+- The battery's wire leads coming out on the top right
+- The battery’s label facing you  
 
 ![Battery Out of Bag](AssemblyImages/BatteryOutOfBag.jpg)
 
