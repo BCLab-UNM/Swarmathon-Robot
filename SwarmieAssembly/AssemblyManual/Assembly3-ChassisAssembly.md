@@ -97,11 +97,13 @@ If the wheels in your kit are white(A) and are not assembled with tires, follow 
 
 ![Wheel Comparison](./AssemblyImages/WheelComparison.jpg)
 
-| Parts                | Tools          |
-| -------------------- |----------------|
-|	2x Mounting Hub Kit  | 3.5mm Hex Key  |
-|                      | 3/32" Hex Key  |
-|	4x Assembled Tires   |                |
+| Parts               |                 | Tools         |
+| ------------------- | --------------- | ------------- |
+|	2x Mounting Hub Kit |                 |               |
+|                     | 4x Set Screws   | 3/32" Hex Key |
+|                     | 4x Wheel Screws | 3.5mm Hex Key |
+|                     |                 |               |
+|	4x Assembled Tires  |                 |               |
 
 Each mounting hub kit will contain two mounting hubs, two larger wheel screws, and three set screws. One set screw is extra.
 
