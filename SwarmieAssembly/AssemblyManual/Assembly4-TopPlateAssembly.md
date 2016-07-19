@@ -13,17 +13,15 @@
 
 ###	3D Printed Parts
 
-Tools:
--	¼” nut driver
--	3/32” hex key
-
-Parts:
--	Top plate
--	GPS/IMU mount
--	Ultrasound tower
--	6x 4-40x5/8” – 3/32” hex key
--	12x #4 washers
-- 6x 4-40 nyloc nuts – ¼” nut driver
+| Parts              | Tools         |
+| ------------------ | ------------- |
+|	6x 4-40x5/8"       | 3/32” hex key |
+| 6x 4-40 nyloc nuts | ¼" nut driver |
+|	12x #4 washers     |               |
+|                    |               |
+|	Top plate          |               |
+|	GPS/IMU mount      |               |
+|	Ultrasound tower   |               |
 
 Attach the ultrasound tower using four 4-40x5/8” screws, eight washers (one on each side of each screw), and four nyloc nuts.
 ![US Tower Attached](./AssemblyImages/TPA-USTower.png)
