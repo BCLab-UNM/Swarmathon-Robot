@@ -97,7 +97,7 @@ If the wheels in your kit are white(A) and are not assembled with tires, follow 
 
 ![Wheel Comparison](./AssemblyImages/WheelComparison.jpg)
 
-| Parts               |                 | Tools         |
+| Parts               | Fasteners       | Tools         |
 | ------------------- | --------------- | ------------- |
 |	2x Mounting Hub Kit |                 |               |
 |                     | 4x Set Screws   | 3/32" Hex Key |
