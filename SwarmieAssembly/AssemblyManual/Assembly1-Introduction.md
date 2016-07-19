@@ -9,9 +9,9 @@ Notes:
 **Warning:** Do not over-tighten screws in the 3D printed parts.  Tapping these parts is effective, but the threads are likely to be stripped if screws are over-tightened.
 
 ##Table of Contents
-- [3D Printed Parts](./Assembly1:Introduction.md/#3d-printed-parts)
-- [Laser-Cut Parts](./Assembly1:Introduction.md/#laser-cut-parts)
-- [Next Section](./Assembly2:Preparation.md)
+- [3D Printed Parts](./Assembly1-Introduction.md/#3d-printed-parts)
+- [Laser-Cut Parts](./Assembly1-Introduction.md/#laser-cut-parts)
+- [Next Section](./Assembly2-Preparation.md)
 
 ##Guide to 3D Printed and Laser-Cut Parts
 ### 3D Printed Parts
@@ -53,6 +53,6 @@ Figure 10: Top Plate
 ![Cover Plate](AssemblyImages/CoverPlate.png)
 Figure 11: Cover Plate
 
-[Back to Top](./Assembly1:Introduction.md/#-1.-Introduction)
+[Back to Top](./Assembly1-Introduction.md/#-1.-Introduction)
 
-[Next Section: Preparation](./Assembly2:Preparation.md)
+[Next Section: Preparation](./Assembly2-Preparation.md)

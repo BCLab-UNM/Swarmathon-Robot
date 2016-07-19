@@ -1,12 +1,12 @@
 ## 3. Chassis Assembly
 
 ###Table of Contents
-- [Previous Section: Preparation](./Assembly2:Preparation.md)
-- [Brackets](./Assembly3:ChassisAssembly.md/#brackets)
-- [Motors](./Assembly3:ChassisAssembly.md/#motors)
-- [Bottom Plate and Battery](./Assembly3:ChassisAssembly.md/#bottom-plate-and-battery)
-- [Wheel Attachment](./Assembly3:ChassisAssembly.md/#wheel-attachment)
-- [Next Section: Top Plate Assembly](./Assembly4:TopPlateAssembly.md)
+- [Previous Section: Preparation](./Assembly2-Preparation.md)
+- [Brackets](./Assembly3-ChassisAssembly.md/#brackets)
+- [Motors](./Assembly3-ChassisAssembly.md/#motors)
+- [Bottom Plate and Battery](./Assembly3-ChassisAssembly.md/#bottom-plate-and-battery)
+- [Wheel Attachment](./Assembly3-ChassisAssembly.md/#wheel-attachment)
+- [Next Section: Top Plate Assembly](./Assembly4-TopPlateAssembly.md)
 
 ###	Brackets
 
@@ -26,6 +26,12 @@ Using eight M3x6mm screws, attach all four brackets together as seen in the foll
 
 ###	Motors
 
+| Parts            | Tools         |
+| ---------------- |---------------|
+| 8x M3x4mm Screws | 2.0mm Hex Key |
+|                  |               |
+| 4x Motors        |               |
+
 Attach motors to mounting holes using two M3x4mm screws per motor.  The motor shaft should be towards the bottom of the chassis.  See below for detail.
 
 ![Chassis w/ Motors](AssemblyImages/ChassisMotors.jpeg)
@@ -34,23 +40,20 @@ Attach motors to mounting holes using two M3x4mm screws per motor.  The motor sh
 
 ###	Bottom Plate and Battery
 
-Tools:
--	1/16” hex key
--	3/32” hex key
--	¼” nut driver
-
-Parts:
--	8x 4-40x1.5” screws – 3/32” hex key
--	4x 4-40x1/2” screws – 1/16” hex key
--	4x M3x6mm – 2.0mm hex key
--	16x washers
--	8x 4-40 nyloc nuts – ¼” nut driver
--	Bottom Plate
--	Battery Base
--	Battery Brace
--	Battery Cross Strap
--	Battery
--	Fire retardant bag
+| Parts                | Tools          |
+| -------------------- |----------------|
+|	8x  4-40x1.5" Screws | 3/32" Hex Key  |
+|	4x  4-40x1/2" Screws | 1/16" Hex Key  |
+|	4x  M3x6mm           | 2.0mm Hex Key  |
+|	8x  4-40 Nyloc Nuts  | ¼" Nut Driver  |
+|	16x Washers          |                |
+|                      |                |
+|	Bottom Plate         |                |
+|	Battery Base         |                |
+|	Battery Brace        |                |
+|	Battery Cross Strap  |                |
+|	Battery              |                |
+|	Fire Retardant Bag   |                |
 
 Remove the protective paper film from the bottom plate, if you have not already. 
 
@@ -58,11 +61,17 @@ Using eight 4-40x1.5” screws and nyloc nuts, attach the battery base and batte
 
 ![Bottom Plate w/ Battery Frame](AssemblyImages/BottomPlateWithBatteryFrame.jpg)
 
-The bottom of the chassis is the side in which the motor shafts are closest. Using four M3x6mm screws, attach the bottom plate to the bottom of the chassis. The plate can be attached in either orientation that it fits.  The orientation will matter later, when the wheels are attached.
+**Note**: The bottom of the chassis is the side in which the motor shafts are closest. 
+
+Using four M3x6mm screws, attach the bottom plate to the bottom of the chassis. The plate can be attached in either orientation that it fits.  The orientation will matter later, when the wheels are attached.
 
 ![Bottom Plate Attached](AssemblyImages/BottomPlateAttached.jpg)
 
-Insert the battery into the fire retardant bag in the following way.  With the bag’s warning facing you, insert the battery with the wire leads coming out on the right, and the battery’s warning facing you.  
+Insert the battery into the fire retardant bag in the following orientation:
+- The bag’s label facing you
+- The bag's opening on the top
+- The battery's wire leads coming out on the top right
+- The battery’s label facing you  
 
 ![Battery Out of Bag](AssemblyImages/BatteryOutOfBag.jpg)
 
@@ -88,13 +97,13 @@ If the wheels in your kit are white(A) and are not assembled with tires, follow 
 
 ![Wheel Comparison](./AssemblyImages/WheelComparison.jpg)
 
-Tools:
--	3/32” hex key
--	3.5mm hex key
-
-Parts:
--	2x mounting hub kit
--	4x assembled tires
+| Parts               | Fasteners       | Tools         |
+| ------------------- | --------------- | ------------- |
+|	2x Mounting Hub Kit |                 |               |
+|                     | 4x Set Screws   | 3/32" Hex Key |
+|                     | 4x Wheel Screws | 3.5mm Hex Key |
+|                     |                 |               |
+|	4x Assembled Tires  |                 |               |
 
 Each mounting hub kit will contain two mounting hubs, two larger wheel screws, and three set screws. One set screw is extra.
 
@@ -106,6 +115,6 @@ Unscrew the wheel screws, fit the wheel onto the mounting hub, and screw the whe
 
 ![Labeled Front/Rear of Chassis](AssemblyImages/LabeledFrontRearChassis.jpg)
 
-[Back to Top](./Assembly3:ChassisAssembly.md/#-3.-Chassis-Assembly)
+[Back to Top](./Assembly3-ChassisAssembly.md/#-3.-Chassis-Assembly)
 
-[Next Section: Top Plate Assembly](./Assembly4:TopPlateAssembly.md)
+[Next Section: Top Plate Assembly](./Assembly4-TopPlateAssembly.md)

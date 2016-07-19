@@ -1,6 +1,6 @@
 ## 5.	Fully Assembled
 
-[Previous Section: Top Plate Assembly](./Assembly4:TopPlateAssembly.md)
+[Previous Section: Top Plate Assembly](./Assembly4-TopPlateAssembly.md)
 
 The following are images of the fully assembled Swarmie.
 
@@ -14,4 +14,4 @@ The following are images of the fully assembled Swarmie.
 
 ![Full Swarmie Rear Right](AssemblyImages/FullSwarmieRearRight.jpg)
 
-[Back to Top](./Assembly5:FullyAssembled.md/#-5.-Fully-Assembled)
+[Back to Top](./Assembly5-FullyAssembled.md/#-5.-Fully-Assembled)
