@@ -107,7 +107,11 @@ If the wheels in your kit are white(A) and are not assembled with tires, follow 
 
 Each mounting hub kit will contain two mounting hubs, two larger wheel screws, and three set screws. One set screw is extra.
 
-Begin by screwing the wheel screws into the mounting hubs. Then slide the mounting hubs onto the motor shafts and screw on the set screw. The set screw has a hexagonal slot on one side to fit a 3/32" hex key, and should be screwed into the flat side of the motor shaft. The wheel screws are screwed on first to ensure the mounting hub is attached at the correct distance from the motor.  
+Begin by screwing the wheel screws into the mounting hubs. Then slide the mounting hubs onto the motor shafts and screw on the set screw. The set screw has a hexagonal slot on one side to fit a 3/32" hex key, and should be screwed into the flat side of the motor shaft. 
+
+**Note**: The wheel screws are screwed on first to ensure the mounting hub is attached at the correct distance from the motor.  
+
+**Warning**: The set screws are apt to loosen as the Swarmie is driven, leading to the entire wheel coming off during use.  To avoid this, use [Purple Locktite](https://www.amazon.com/Loctite-38653-Purple-Strength-6-milliliter/dp/B0002KKTT0) to secure the set screw more permanently.
 
 ![Mounting Hub](AssemblyImages/MountingHub.jpg)
 
