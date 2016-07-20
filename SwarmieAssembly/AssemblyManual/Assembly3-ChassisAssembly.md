@@ -111,7 +111,7 @@ Begin by screwing the wheel screws into the mounting hubs. Then slide the mounti
 
 **Note**: The wheel screws are screwed on first to ensure the mounting hub is attached at the correct distance from the motor.  
 
-**Warning**: The set screws are apt to loosen as the Swarmie is driven, leading to the entire wheel coming off during use.  To avoid this, use [Purple Locktite](https://www.amazon.com/Loctite-38653-Purple-Strength-6-milliliter/dp/B0002KKTT0) to secure the set screw more permanently.
+***Warning***: The set screws are apt to loosen as the Swarmie is driven, leading to the entire wheel coming off during use.  To avoid this, use [*Purple Locktite*](https://www.amazon.com/Loctite-38653-Purple-Strength-6-milliliter/dp/B0002KKTT0) to secure the set screw more permanently.
 
 ![Mounting Hub](AssemblyImages/MountingHub.jpg)
 
