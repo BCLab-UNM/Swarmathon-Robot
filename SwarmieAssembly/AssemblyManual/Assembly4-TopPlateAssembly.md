@@ -41,7 +41,7 @@ Attach the NUC base to the top plate using four 4-40x5/8” screws, four washers
 | 3x Ultrasound Mount Kits        | Phillips Head Screw Driver |
 |	3x Ultrasound Sensors           |                            |
 
-Remove the L-brackets from the ultrasound mount kits.  The holes on the L-bracket are too small, so drill out the indicated holes to fit a 4-40 screw.  A 1/8" drill bit was used for the holes pictured.
+Remove the L-brackets from the ultrasound mount kits.  The holes on the L-bracket are too small, so use a 1/8" drill bit to enlarge the holes indicated below.  
 
 ![Ultrasound Bracket Drill](AssemblyImages/L-BracketDrill.JPG)
 
