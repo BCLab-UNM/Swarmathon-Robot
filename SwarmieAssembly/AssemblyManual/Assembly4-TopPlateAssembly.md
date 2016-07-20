@@ -13,20 +13,20 @@
 
 ###	3D Printed Parts
 
-| Parts              | Tools         |
-| ------------------ | ------------- |
-|	6x 4-40x5/8"       | 3/32” hex key |
-| 6x 4-40 nyloc nuts | ¼" nut driver |
-|	12x #4 washers     |               |
-|                    |               |
-|	Top plate          |               |
-|	GPS/IMU mount      |               |
-|	Ultrasound tower   |               |
+| Parts               | Tools         |
+| ------------------- | ------------- |
+|	10x 4-40x5/8"       | 3/32” hex key |
+| 10x 4-40 nyloc nuts | ¼" nut driver |
+|	16x #4 washers      |               |
+|                     |               |
+|	Top plate           |               |
+|	GPS/IMU mount       |               |
+|	Ultrasound tower    |               |
 
 Attach the ultrasound tower using four 4-40x5/8” screws, eight washers (one on each side of each screw), and four nyloc nuts.
 ![US Tower Attached](./AssemblyImages/TPA-USTower.png)
 
-Attach the GPS/IMU mount using four 4-40x5/8” screws, eight washers (one on each side of each screw), and four nyloc nuts.
+Attach the GPS/IMU mount using two 4-40x5/8” screws, four washers (one on each side of each screw), and two nyloc nuts.
 ![GPS/IMU Mount Attached](./AssemblyImages/TPA-GPSIMU.png)
 
 Attach the NUC base to the top plate using four 4-40x5/8” screws, four washers (one per screw on the bottom of the top plate), and four nyloc nuts.
