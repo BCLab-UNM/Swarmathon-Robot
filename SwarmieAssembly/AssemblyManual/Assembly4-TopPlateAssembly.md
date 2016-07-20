@@ -59,22 +59,18 @@ Repeat for the other two ultrasounds.
  
 ###	Camera, IMU, GPS
 
-Tools:
--	Flat head screw driver
--	¼” nut driver
--	1/16" hex key
--	3/32" hex key
-
-Parts:
--	4x 4-40x1/2” button head screws – 1/16" hex key
--	4x 4-40x5/8” screws – 3/32” hex key
--	4x #4 washers
-- 4x 4-40 nyloc nuts – ¼” nut driver
--	1x 2-56x1/2” nylon screw - flat head screw driver
--	1x GPS
--	1x camera
--	1x IMU
--	Double sided foam tape
+| Parts                           | Tools                  |
+| ------------------------------- | ---------------------- |
+|	4x 4-40x1/2" Button Head Screws | 1/16" Hex Key          |
+|	4x 4-40x5/8" Socket Head Screws | 3/32" Hex Key          |
+|	1x 2-56x1/2" Nylon Screw        | Flat Head Screw Driver |
+| 4x 4-40 Nyloc Nuts              | ¼" Nut Driver          |
+|	4x #4 Washers                   |                        |
+|                                 |                        |
+|	1x GPS                          |                        |
+|	1x Camera                       |                        |
+|	1x IMU                          |                        |
+|	Double Sided Foam Tape          |                        |
 
 Attach the camera mount to the ultrasound tower using four 4-40x1/2” button head screws.
 
