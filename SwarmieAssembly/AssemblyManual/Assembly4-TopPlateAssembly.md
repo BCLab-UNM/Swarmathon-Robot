@@ -45,7 +45,7 @@ Remove the L-brackets from the ultrasound mount kits.  The holes on the L-bracke
 
 ![Ultrasound Bracket Drill](AssemblyImages/L-BracketDrill.JPG)
 
-Screw the three L-brackets to the ultrasound mount using six 4-40x1/2" button head screws. Attach the two plastic spacers from the kit using two of the four Philips head machine screws.
+Screw the L-bracket to the ultrasound mount using two 4-40x1/2" button head screws. Attach the two plastic spacers from the kit using two of the four Philips head machine screws.
 
 ![Ultrasound Bracket](AssemblyImages/UltrasoundBracket.jpg)
 
