@@ -15,13 +15,13 @@
 
 | Parts               | Tools         |
 | ------------------- | ------------- |
-|	10x 4-40x5/8"       | 3/32” hex key |
-| 10x 4-40 nyloc nuts | ¼" nut driver |
-|	16x #4 washers      |               |
+|	10x 4-40x5/8"       | 3/32” Hex Key |
+| 10x 4-40 Nyloc Nuts | ¼" Nut Driver |
+|	16x #4 Washers      |               |
 |                     |               |
 |	Top plate           |               |
-|	GPS/IMU mount       |               |
-|	Ultrasound tower    |               |
+|	GPS/IMU Mount       |               |
+|	Ultrasound Tower    |               |
 
 Attach the ultrasound tower using four 4-40x5/8” screws, eight washers (one on each side of each screw), and four nyloc nuts.
 ![US Tower Attached](./AssemblyImages/TPA-USTower.png)
@@ -34,14 +34,12 @@ Attach the NUC base to the top plate using four 4-40x5/8” screws, four washers
 
 ###	Ultrasound Sensor Mounting
 
-Tools:
--	Phillips head screw driver
--	1/16" hex key
-
-Parts:
--	6x 4-40x1/2” button head screws – 1/16" hex key
-- 3x ultrasound mount kits
--	3x ultrasound sensors
+| Parts                           | Tools                      |
+| ------------------------------- | -------------------------- |
+|	6x 4-40x1/2” Button Head Screws | 1/16" Hex Key              |
+|	                                |                            |
+| 3x Ultrasound Mount Kits        | Phillips Head Screw Driver |
+|	3x Ultrasound Sensors           |                            |
 
 Remove the L-brackets from the ultrasound mount kits.  The holes on the L-bracket are too small, so drill out the indicated holes to fit a 4-40 screw.  A 1/8" drill bit was used for the holes pictured.
 
