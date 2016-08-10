@@ -61,7 +61,7 @@ Repeat for the other two ultrasounds.
 | ------------------------------- | ---------------------- |
 |	4x 4-40x1/2" Button Head Screws | 1/16" Hex Key          |
 |	4x 4-40x5/8" Socket Head Screws | 3/32" Hex Key          |
-|	1x 2-56x1/2" Nylon Screw        | Flat Head Screw Driver |
+|	1x 2-56x3/8" Nylon Screw        | Flat Head Screw Driver |
 | 4x 4-40 Nyloc Nuts              | ¼" Nut Driver          |
 |	4x #4 Washers                   |                        |
 |                                 |                        |
@@ -72,34 +72,35 @@ Repeat for the other two ultrasounds.
 
 Attach the camera mount to the ultrasound tower using four 4-40x1/2” button head screws.
 
-Use a strip of double sided foam tape to attach the GPS to the large, flat portion at the bottom of the GPS/IMU mount. Use the 2-56x1/2” nylon screw to attach the IMU to the top area on the GPS/IMU mount.
+Use a strip of double sided foam tape to attach the camera to the top of the camera mount, and wrap the camera cable around the camera mount (pictured below).
 
-Use a strip of double sided foam tape to attach the camera to the top of the camera mount. At this point, the top plate should look like the picture below.
+Use a strip of double sided foam tape to attach the GPS to the large, flat portion at the bottom of the GPS/IMU mount. Use a 2-56x1/2” nylon screw to attach the IMU to the top area on the GPS/IMU mount.
+
+At this point, the top plate should look like the picture below.
 
 ![Camera Mounted](AssemblyImages/CameraMounted.jpg)
 
 ###	PCB, Switch, and Bus Connections
 
-Tools:
--	Flat head screw driver
-
-Parts:
--	PCB
--	Switch
--	Wiring harness
--	4x 2-56x3/8” nylon screws – flat head screw driver
+| Parts                     | Tools                  |
+| ------------------------- | ---------------------- |
+|	4x 2-56x3/8" Nylon Screws | Flat Head Screw Driver |
+|                           |                        |
+|	PCB                       |                        |
+|	Switch                    |                        |
+|	Wiring harness            |                        |
 
 Set the previously assembled top plate onto the robot and feed the battery cable through the hole in the NUC base. This will look like the image below.
 
 ![Top Plate Placement](AssemblyImages/TopPlacePlacement.JPG)
 
-Below is an image of the printed circuit board (PCB), used for connecting all of the Swarmie's electronics.  Place the PCB into the NUC base, in the orientation seen below.
-
-![PCB](AssemblyImages/PCBUnplugged.JPG)
-
 Remove all of the nuts and washers from the switch. Feed the switch through the rectangular housing on the rear end of the NUC base, with the label pointing upwards. To get the switch through the housing hole, you may need to straighten the switch, as seen below.
 
 ![Switch](AssemblyImages/Switch.jpg)
+
+Below is an image of the printed circuit board (PCB), used for connecting all of the Swarmie's electronics.  Place the PCB into the NUC base, in the orientation seen below.
+
+![PCB](AssemblyImages/PCBUnplugged.JPG)
 
 Plug in the switch connector to the matching connector on the PCB labeled "S1," located next to the barrel jack socket, which is pointing towards the back of the Swarmie. Screw a single nut onto the switch to secure it in the housing. Then screw a red switch boot onto the switch.
 
