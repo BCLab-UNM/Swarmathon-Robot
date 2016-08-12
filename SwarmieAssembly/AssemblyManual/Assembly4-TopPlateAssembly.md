@@ -123,7 +123,15 @@ Run the multicolored ribbon cable out of the NUC base and under the ultrasound t
 Connect the 4-pin header to the IMU with the label facing outward, as shown in the image below.  The VDD pin on the IMU is not connected to anything.
 
 ![IMU Connected](AssemblyImages/IMUConnected.jpg)
- 
+
+Plug the Servo Expansion Board (SEB) into the main PCB using the 6 six pins found towards the front of the PCB, left of the ribbon cable. The SEB's wires should be closer to the rear of the Swarmie.
+
+![SEB Connected](AssemblyImages/SEBConnected.jpg)
+
+Plug either of the male barrel jacks into the female barrel jack inticated below.
+
+![SEB Barrel 1](AssemblyImages/SEBBarrel1.jpg)
+
 ###	NUC Assembly
 
 Tools:
