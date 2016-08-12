@@ -134,14 +134,12 @@ Plug either of the male barrel jacks into the female barrel jack inticated below
 
 ###	NUC Assembly
 
-Tools:
--	Phillips head screw driver
-
-Parts:
--	NUC
--	Wireless module
--	Solid state drive
--	2x RAM sticks
+| Parts             | Tools                      |
+| ----------------- | -------------------------- |
+|	NUC               | Phillips Head Screw Driver |
+|	Wireless module   |                            |
+|	Solid state drive |                            |
+|	2x RAM sticks     |                            |
 
 In this section, the wireless module, the solid state drive, and the RAM are installed in the NUC. Unscrew the bottom of the NUC. Unscrew the two screws circled in the image below.
 
