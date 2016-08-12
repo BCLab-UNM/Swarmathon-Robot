@@ -126,11 +126,11 @@ Connect the 4-pin header to the IMU with the label facing outward, as shown in t
 
 Plug the Servo Expansion Board (SEB) into the main PCB using the 6 six pins found towards the front of the PCB, left of the ribbon cable. The SEB's wires should be closer to the rear of the Swarmie.
 
-![SEB Connected](AssemblyImages/SEBConnected.jpg)
+![SEB Connected](AssemblyImages/SEBConnected.JPG)
 
 Plug either of the male barrel jacks into the female barrel jack inticated below.
 
-![SEB Barrel 1](AssemblyImages/SEBBarrel1.jpg)
+![SEB Barrel 1](AssemblyImages/SEBBarrel1.JPG)
 
 ###	NUC Assembly
 
