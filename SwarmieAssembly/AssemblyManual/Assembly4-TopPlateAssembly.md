@@ -134,17 +134,17 @@ Plug either of the male barrel jacks into the female barrel jack inticated below
 
 ###	NUC Assembly
 
-| Parts                       | Tools                      |
-| --------------------------- | -------------------------- |
-| 2x M3x6mm Screws            | 2.5mm Hex Key              |
-|                             |                            |
-|	NUC                         | Phillips Head Screw Driver |
-|	Wireless Module             |                            |
-|	Solid State Drive           |                            |
-|	2x RAM Sticks               |                            |
-|                             |                            |
-| Black USB Type A to Micro B |                            |
-| Grey USB Type A to Mini B   |                            |
+| Parts                             | Tools                      |
+| --------------------------------- | -------------------------- |
+| 2x M3x6mm Screws                  | 2.5mm Hex Key              |
+|                                   |                            |
+|	NUC                               | Phillips Head Screw Driver |
+|	Wireless Module                   |                            |
+|	Solid State Drive                 |                            |
+|	2x RAM Sticks                     |                            |
+|                                   |                            |
+| Black USB Type A to Micro B Cable |                            |
+| Grey USB Type A to Mini B Cable   |                            |
 
 In this section, the wireless module, the solid state drive, and the RAM are installed in the NUC. Unscrew the bottom of the NUC. Unscrew the two screws circled in the image below.
 
@@ -182,27 +182,26 @@ This image shows the GPS antenna coiled and hanging on the camera cable.
 
 ###	Cover Plate Assembly and Attachment
 
-Tools:
--	¼” nut driver
--	3/32” hex key
+| Parts               | Tools         |
+| ------------------- | ------------- |
+|	8x 4-40x5/8" Screws | 3/32" Hex Key |
+|	8x 4-40 Nyloc Nuts  | ¼" Nut Driver |
+|	16x #4 Washers      |               |
+|                     |               |
+|	Cover Plate         |               |
+|	4x Lid Supports     |               |
 
-Parts:
--	Cover plate
--	4x lid supports
--	GPS Antenna
--	8x 4-40x5/8” screws – 3/32” hex key
--	16x #4 washers
--	8x 4-40 nyloc nuts – ¼” nut driver
+Attach the lid supports to the cover plate using four 4-40x5/8" screws, eight #4 washers (on each side of each screw), and four 4-40 nyloc nuts.  
 
-Screw the lid supports to the cover plate using the screws listed above, a washer on each side of the screw, and nyloc nuts.  Make sure the screw heads are facing away from the lid supports.  Reference the image below:
+*Note*: Make sure the screw heads are facing away from the lid supports.  Reference the image below:
 
 ![Lid Supports Attached](AssemblyImages/LidSupportsAttached.jpg)
 
-Screw the GPS antenna to the GPS and set it aside.
+Use four 4-40x5/8" screws, eight #4 washers (on each side of each screw), and four 4-40 nyloc nuts to fasten the lid supports to the matching holes in the top plate on the Swarmie.  The cutout on the cover plate goes over the camera and the screw heads should face upwards.  
 
-Use the remaining screws, washers, and nuts to fasten the lid supports to the matching holes in the top plate on the Swarmie.  The cutout on the cover plate goes over the camera and the screw heads should face upwards.  
+Use double sided foam tape to fasten the GPS antenna to the rear-left side of the cover plate on the Swarmie.  *Note*: It is important to position it here because the antenna has a strong magnet that may interfere with the compass.  
 
-Use double sided foam tape to fasten the antenna to the rear-left side of the cover plate on the Swarmie.  It is important to position it here because the antenna has a strong magnet that may interfere with the compass.  Run the wire from the antenna through the camera cutout on the cover plate.  The following image shows the correct placement on top of the Swarmie.
+Run the wire from the antenna over the NUC and behind the cover plate.  The following image shows the correct placement on top of the Swarmie.
 
 ![GPS Antenna Attached](AssemblyImages/GPSAntennaAttached.jpg)
 
