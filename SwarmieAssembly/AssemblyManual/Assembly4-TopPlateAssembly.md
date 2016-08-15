@@ -136,7 +136,7 @@ Plug either of the male barrel jacks into the female barrel jack inticated below
 
 | Parts                             | Tools                      |
 | --------------------------------- | -------------------------- |
-| 2x M3x6mm Screws                  | 2.5mm Hex Key              |
+| 2x M3x18mm Screws                  | 2.5mm Hex Key              |
 |                                   |                            |
 |	NUC                               | Phillips Head Screw Driver |
 |	Wireless Module                   |                            |
@@ -207,19 +207,17 @@ Run the wire from the antenna over the NUC and behind the cover plate.  The foll
 
 ### Top Plate Attachment
 
-Tools:
--	2.0mm hex key
-
-Parts:
--	4x M3x6mm - 2.0mm hex key
-
-Feed the battery connector through the circular hole underneath the PCB. When ready to run the Swarmie, this will need to be plugged into the barrel jack labeled on the PCB as "BATTERY 12V-19V". This is the barrel jack closest to the front of the Swarmie.
+| Parts     | Tools         |
+| --------- | ------------- |
+|	4x M3x6mm | 2.0mm Hex Key |
 
 Connect the two left motor connectors to the PCB via the two 6-pin headers through the (rear) oval hole underneath the PCB with the RED wire towards the back of the Swarmie.
 
 Connect the two right motor connectors to the PCB via the two 6-pin headers through the (front) oval hole underneath the PCB with the RED wire towards the back of the Swarmie.
 
 Use the following two images to connect the motors to the correct headers.
+
+***Warning***: Red motor wires must be towards the rear of the Swarmie.
 
 ![Motor Connection Labels](AssemblyImages/MotorConnectionLabels.jpg)
 
