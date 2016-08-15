@@ -134,12 +134,17 @@ Plug either of the male barrel jacks into the female barrel jack inticated below
 
 ###	NUC Assembly
 
-| Parts             | Tools                      |
-| ----------------- | -------------------------- |
-|	NUC               | Phillips Head Screw Driver |
-|	Wireless module   |                            |
-|	Solid state drive |                            |
-|	2x RAM sticks     |                            |
+| Parts                       | Tools                      |
+| --------------------------- | -------------------------- |
+| 2x M3x6mm Screws            | 2.5mm Hex Key              |
+|                             |                            |
+|	NUC                         | Phillips Head Screw Driver |
+|	Wireless Module             |                            |
+|	Solid State Drive           |                            |
+|	2x RAM Sticks               |                            |
+|                             |                            |
+| Black USB Type A to Micro B |                            |
+| Grey USB Type A to Mini B   |                            |
 
 In this section, the wireless module, the solid state drive, and the RAM are installed in the NUC. Unscrew the bottom of the NUC. Unscrew the two screws circled in the image below.
 
@@ -155,11 +160,25 @@ Next, insert the SSD into the indicated card edge connector and fasten it using 
 
 The image above shows all parts installed.  The wireless module cannot be seen because it lies beneath the SSD.  Screw the bottom of the NUC back on.
 
-The NUC is attached to the NUC base using two M3x18mm screws which are inserted from the bottom of the NUC base/top plate. The holes are circled in the image below. Use a 2.5mm hex key to fasten the screws. The side of the NUC with the single USB port needs to face the left side of the Swarmie.
+The NUC is attached to the NUC base using two M3x18mm screws which are inserted from the bottom of the NUC base/top plate.  Orient the NUC such that the power button is towards the front-left of the Swarmie. The holes are circled in the image below. Use a 2.5mm hex key to fasten the screws.
 
 ![NUC Screw Hole](AssemblyImages/NUCScrewHole.jpg)
 
-Plug the GPS and A* Microcontroller into the two adjacent USB ports on the right side of the Swarmie.  Wrap the GPS antenna’s cable, tie it together with a zip-tie, and store the excess cable behind the ultrasound tower.  Wrap the camera’s excess cable around the camera and camera mount, as seen in an image in section 6.3.  Plug the camera into the NUC on the left of the Swarmie.
+Plug the SEB's remaining barrel jack into the NUC's power jack.
+
+Plug the GPS and A* Microcontroller into the two adjacent USB ports on the right side of the Swarmie. The A* Microcontroller uses the black USB cable, and the GPS uses the grey USB cable. 
+
+Wrap the camera’s excess cable around the camera and camera mount, as seen in an image in section 6.3.  Plug the camera into the NUC on the left of the Swarmie.
+
+Screw the GPS antenna into the GPS. Wrap the GPS antenna’s cable, tie it together with a zip-tie, and hang the cable on the camera cable (as seen below).
+
+The top plate should now look like the image below.
+
+![Top Plate Assembled](AssemblyImages/topPlateAssembled.JPG)
+
+This image shows the GPS antenna coiled and hanging on the camera cable.
+
+![Antenna Hanging](AssemblyImages/antennaHanging.JPG)
 
 ###	Cover Plate Assembly and Attachment
 
