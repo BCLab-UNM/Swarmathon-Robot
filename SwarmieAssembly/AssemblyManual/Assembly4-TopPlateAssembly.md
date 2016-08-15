@@ -193,13 +193,13 @@ This image shows the GPS antenna coiled and hanging on the camera cable.
 
 Attach the lid supports to the cover plate using four 4-40x5/8" screws, eight #4 washers (on each side of each screw), and four 4-40 nyloc nuts.  
 
-*Note*: Make sure the screw heads are facing away from the lid supports.  Reference the image below:
+**Note**: Make sure the screw heads are facing away from the lid supports.  Reference the image below:
 
 ![Lid Supports Attached](AssemblyImages/LidSupportsAttached.jpg)
 
 Use four 4-40x5/8" screws, eight #4 washers (on each side of each screw), and four 4-40 nyloc nuts to fasten the lid supports to the matching holes in the top plate on the Swarmie.  The cutout on the cover plate goes over the camera and the screw heads should face upwards.  
 
-Use double sided foam tape to fasten the GPS antenna to the rear-left side of the cover plate on the Swarmie.  *Note*: It is important to position it here because the antenna has a strong magnet that may interfere with the compass.  
+Use double sided foam tape to fasten the GPS antenna to the rear-left side of the cover plate on the Swarmie.  **Note**: It is important to position it here because the antenna has a strong magnet that may interfere with the compass.  
 
 Run the wire from the antenna over the NUC and behind the cover plate.  The following image shows the correct placement on top of the Swarmie.
 
