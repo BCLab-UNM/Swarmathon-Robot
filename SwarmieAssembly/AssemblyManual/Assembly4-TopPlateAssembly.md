@@ -176,6 +176,10 @@ The top plate should now look like the image below.
 
 ![Top Plate Assembled](AssemblyImages/topPlateAssembled.JPG)
 
+This image shows the GPS antenna coiled and hanging on the camera cable.
+
+![Antenna Hanging](AssemblyImages/antennaHanging.JPG)
+
 ###	Cover Plate Assembly and Attachment
 
 Tools:
