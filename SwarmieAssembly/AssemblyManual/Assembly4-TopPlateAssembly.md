@@ -168,8 +168,6 @@ Plug the SEB's remaining barrel jack into the NUC's power jack.
 
 Plug the GPS and A* Microcontroller into the two adjacent USB ports on the right side of the Swarmie. The A* Microcontroller uses the black USB cable, and the GPS uses the grey USB cable. 
 
-Wrap the camera’s excess cable around the camera and camera mount, as seen in an image in section 6.3.  Plug the camera into the NUC on the left of the Swarmie.
-
 Screw the GPS antenna into the GPS. Wrap the GPS antenna’s cable, tie it together with a zip-tie, and hang the cable on the camera cable (as seen below).
 
 The top plate should now look like the image below.
