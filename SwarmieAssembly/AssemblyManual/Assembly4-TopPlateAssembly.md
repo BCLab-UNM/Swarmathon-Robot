@@ -205,9 +205,10 @@ Run the wire from the antenna over the NUC and behind the cover plate.  The foll
 
 ### Top Plate Attachment
 
-| Parts     | Tools         |
-| --------- | ------------- |
-|	4x M3x6mm | 2.0mm Hex Key |
+| Parts     | Tools                      |
+| --------- | -------------------------- |
+|	4x M3x6mm | Phillips Head Screw Driver |
+**Note**: The M3x6mm screws used here come from the left over screws in the chassis kit.
 
 Connect the two left motor connectors to the PCB via the two 6-pin headers through the (rear) oval hole underneath the PCB with the RED wire towards the back of the Swarmie.
 
