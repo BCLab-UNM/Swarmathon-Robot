@@ -42,7 +42,7 @@ Attach motors to mounting holes using two M3x4mm screws per motor.  The motor sh
 
 | Parts                | Tools          |
 | -------------------- |----------------|
-|	8x  4-40x1.5" Screws | 3/32" Hex Key  |
+|	8x  4-40x1-5/8" Screws | 3/32" Hex Key  |
 |	4x  4-40x1/2" Screws | 1/16" Hex Key  |
 |	4x  M3x6mm           | 2.0mm Hex Key  |
 |	8x  4-40 Nyloc Nuts  | ¼" Nut Driver  |
@@ -57,7 +57,7 @@ Attach motors to mounting holes using two M3x4mm screws per motor.  The motor sh
 
 Remove the protective paper film from the bottom plate, if you have not already. 
 
-Using eight 4-40x1.5” screws and nyloc nuts, attach the battery base and battery brace.  The top of the battery brace has rounded edges. Use washers on both sides of the screws.  Make sure the screw heads are on the bottom.  The nylon inserts in the nyloc nuts should always face away from the screw heads.
+Using eight 4-40x1-5/8" screws and nyloc nuts, attach the battery base and battery brace.  The top of the battery brace has rounded edges. Use washers on both sides of the screws.  Make sure the screw heads are on the bottom.  The nylon inserts in the nyloc nuts should always face away from the screw heads.
 
 ![Bottom Plate w/ Battery Frame](AssemblyImages/BottomPlateWithBatteryFrame.jpg)
 
