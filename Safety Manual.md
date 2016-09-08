@@ -79,8 +79,8 @@ The User Guide will detail the following:
 
 ## Robot On/Off Switch
 -	The switch provided with the robot is purposefully large, red, and easily accessible at the rear of the robot’s chassis to ensure that the robot can be immediately disabled in case of emergency.
--	The switch utilizes a mechanical relay to instantaneously stop all motion and disconnect all power to the robot.
--	The switch must be toggled up to turn the robot on, and toggled down to turn the robot off.
+-	The switch utilizes a mechanical relay to instantaneously stop all motion and disconnect all power to the robot's motors.
+-	The switch must be toggled up to turn the motors on, and toggled down to turn the motors off.
 
 ## Battery Safety and Charging
 -	You must read the battery safety agreement listed in [Appendix A: Warnings for Using Batteries](#appendix-a-warnings-for-using-batteries).
