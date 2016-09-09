@@ -16,12 +16,6 @@
 |                  |                            |
 | Chassis Kit      |                            |
 
-Tools:
--	Phillips head screw driver
-
-Parts:
--	Chassis kit: The kit comes with two pairs of brackets and two laser-cut plates.  
-
 Using eight M3x6mm screws, attach all four brackets together as seen in the following images.  Note that the two side brackets are not symmetrical and should be attached in the same orientation.  
 
 **Note**: The M3x6mm screws used throughout the assembly are packaged with the chassis kit, not with the box of screws.
