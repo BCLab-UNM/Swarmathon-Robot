@@ -10,13 +10,21 @@
 
 ###	Brackets
 
+| Parts            | Tools                      |
+| ---------------- |----------------------------|
+| 8x M3x6mm Screws | Phillips Head Screw Driver |
+|                  |                            |
+| Chassis Kit      |                            |
+
 Tools:
 -	Phillips head screw driver
 
 Parts:
--	Chassis kit: The kit comes with two pairs of brackets and two laser-cut plates.  These laser-cut plates are not used, they can be thrown away.  The Swarmie is made with three laser-cut plates packaged separately.
+-	Chassis kit: The kit comes with two pairs of brackets and two laser-cut plates.  
 
 Using eight M3x6mm screws, attach all four brackets together as seen in the following images.  Note that the two side brackets are not symmetrical and should be attached in the same orientation.  
+
+**Note**: The M3x6mm screws used throughout the assembly are packaged with the chassis kit, not with the box of screws.
 
 ![Chassis Side Brackets](AssemblyImages/ChassisSideBrackets.jpg)
 
@@ -40,20 +48,22 @@ Attach motors to mounting holes using two M3x4mm screws per motor.  The motor sh
 
 ###	Bottom Plate and Battery
 
-| Parts                | Tools          |
-| -------------------- |----------------|
-|	8x  4-40x1-5/8" Screws | 3/32" Hex Key  |
-|	4x  4-40x1/2" Screws | 1/16" Hex Key  |
-|	4x  M3x6mm           | 2.0mm Hex Key  |
-|	8x  4-40 Nyloc Nuts  | ¼" Nut Driver  |
-|	16x Washers          |                |
-|                      |                |
-|	Bottom Plate         |                |
-|	Battery Base         |                |
-|	Battery Brace        |                |
-|	Battery Cross Strap  |                |
-|	Battery              |                |
-|	Fire Retardant Bag   |                |
+| Parts                  | Tools                       |
+| ---------------------- |---------------------------- |
+|	8x  4-40x1-5/8" Screws | 3/32" Hex Key               |
+|	4x  4-40x1/2" Screws   | 1/16" Hex Key               |
+|	4x  M3x6mm             | Phillips Head Screw Driver  |
+|	8x  4-40 Nyloc Nuts    | ¼" Nut Driver               |
+|	16x Washers            |                             |
+|                        |                             |
+|	Bottom Plate           |                             |
+|	Battery Base           |                             |
+|	Battery Brace          |                             |
+|	Battery Cross Strap    |                             |
+|	Battery                |                             |
+|	Fire Retardant Bag     |                             |
+
+**Note**: The M3x6mm screws used throughout the assembly are packaged with the chassis kit, not with the box of screws.
 
 Remove the protective paper film from the bottom plate, if you have not already. 
 
