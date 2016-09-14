@@ -103,7 +103,7 @@ Proper use and respect for electricity is paramount. The following are general g
   -	Extension cord plugged into another extension cord.
   -	Extension cord plugged into a power strip.
   -	ALL extension cords, with the exception of relocation power tap (RPT) SHALL BE UNPLUGGED WHEN NOT IN USE. 
-Multi-device receptacle plugged into a power strip or extension cord.
+  -	Multi-device receptacle plugged into a power strip or extension cord.
 
 ## Appendix A: Warnings for Using Batteries
 -	Please realize that batteries may leak or cause damage if misused.
