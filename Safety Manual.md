@@ -15,6 +15,7 @@
 - [Competition Safety](#competition-safety)
 - [Safety Highlights in the Robot User Guide](#safety-highlights-in-the-robot-user-guide)
 - [Robot On/Off Switch](#robot-onoff-switch)
+- [Gripper Safety](#gripper-safety)
 - [Battery Safety and Charging](#battery-safety-and-charging)
 - [Electrical Safety](#electrical-safety)
 - [Appendix A: Warnings for Using Batteries](#appendix-a-warnings-for-using-batteries)
@@ -75,12 +76,16 @@ The User Guide will detail the following:
 	- The battery must be shipped by ground only, never air, following specific instructions in [Appendix B](#appendix-b-regulations-for-shipping-lithium-batteries)
 5.	Identify parts that can be fixed (i.e. wheels may need periodic adjustment and those that should not be touched due to danger or fragility (PCB, motor encoders)
 6.	Guidelines for protecting the robot from damage (avoid water, stairs, hitting objects with excessive speed, flipping or tipping the robot)
-7.	Robot is OFF when the red switch on the rear of the robot is in the DOWN position. Robot should be off when charging, idle or being repaired.
+7.	Robot motors are OFF when the red switch on the rear of the robot is in the DOWN position. Robot should be off when charging, idle or being repaired.
 
 ## Robot On/Off Switch
 -	The switch provided with the robot is purposefully large, red, and easily accessible at the rear of the robot’s chassis to ensure that the robot can be immediately disabled in case of emergency.
 -	The switch utilizes a mechanical relay to instantaneously stop all motion and disconnect all power to the robot's motors.
 -	The switch must be toggled up to turn the motors on, and toggled down to turn the motors off.
+
+## Gripper Safety
+-	The servomotors controlling the fingers and wrist of the gripper receive power from the battery via the servo extension board, or SEB. The SEB's 5V, 2.5A voltage regulator bypasses the microcontroller's 5V power supply (which has limited current through the NUC's USB port) to ensure that both servos receive enough power in order to run them concurrently.
+-	The gripper's servos are not disabled by the on/off switch, therefore the user should exercise caution when working in close proximity with the gripper to avoid pinching injuries.
 
 ## Battery Safety and Charging
 -	You must read the battery safety agreement listed in [Appendix A: Warnings for Using Batteries](#appendix-a-warnings-for-using-batteries).
