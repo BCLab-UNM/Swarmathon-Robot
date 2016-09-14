@@ -71,9 +71,9 @@ The User Guide will detail the following:
 2.	Upon opening the Swarmie box, user will be given instruction for proper battery plug in. No other changes are needed or allowed.
 3.	Do not modify or repair the Swarmie without specific guidance from the Swarmathon team.
 4.	Battery:
-	- In order to mitigate battery fire risk, the battery must remain in the LIPO fire resistant bag at all times. 
-	- Follow the guidelines in [Appendix A](#appendix-a-warnings-for-using-batteries) from the battery vendor for battery charging and use
-	- The battery must be shipped by ground only, never air, following specific instructions in [Appendix B](#appendix-b-regulations-for-shipping-lithium-batteries)
+	- In order to mitigate battery fire risk, the battery must remain in the LIPO fire resistant bag at all times.
+	- Follow the guidelines in the attached [Appendix A](#appendix-a-warnings-for-using-batteries) from the battery vendor for battery charging and use.
+	- The battery must be shipped by ground only, never air, following specific instructions in the attached [Appendix B](#appendix-b-regulations-for-shipping-lithium-batteries).
 5.	Identify parts that can be fixed (i.e. wheels may need periodic adjustment and those that should not be touched due to danger or fragility (PCB, motor encoders)
 6.	Guidelines for protecting the robot from damage (avoid water, stairs, hitting objects with excessive speed, flipping or tipping the robot)
 7.	Robot motors are OFF when the red switch on the rear of the robot is in the DOWN position. Robot should be off when charging, idle or being repaired.
