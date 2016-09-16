@@ -54,7 +54,7 @@ Using the other two Philips head machine screws, screw the ultrasound sensors to
 ![Ultrasound Mounted](AssemblyImages/UltrasoundMounted.jpg)
 
 Repeat for the other two ultrasounds.
- 
+
 ###	Camera, IMU, GPS
 
 | Parts                           | Tools                  |
@@ -106,12 +106,10 @@ Plug in the switch connector to the matching connector on the PCB labeled "S1," 
 
 Plug in the black micro USB cable into the A-Star Microcontroller, and plug the A-Star's pins into the PCB's matching header layout. The USB port on the A-Star should point towards the front of the robot. Plug the battery cable into the PCB barrel jack labeled "BATTERY 12V-19V." 
 
-Lastly, plug the male-to-male barrel cable into the PCB's barrel jack labeled "NUC." 
-
 The PCB should now look as pictured below.
 
 ![Mounted PCB](AssemblyImages/PCBPluggedIn.JPG)
- 
+
 Using four 2-56x3/8” nylon screws, screw the PCB onto the NUC base using the PCB holes labeled on the board as M1, M2, M3 and M4.
 
 Next, take the A* Microcontroller and plug it into the PCB with the micro-USB socket facing the front of the Swarmie.
@@ -166,7 +164,7 @@ The NUC is attached to the NUC base using two M3x18mm screws which are inserted 
 
 Plug the SEB's remaining barrel jack into the NUC's power jack.
 
-Plug the GPS and A* Microcontroller into the two adjacent USB ports on the right side of the Swarmie. The A* Microcontroller uses the black USB cable, and the GPS uses the grey USB cable. 
+Plug the GPS and A* Microcontroller into the two adjacent USB ports on the right side of the Swarmie. The A* Microcontroller uses the black USB cable, and the GPS uses the grey USB cable.
 
 Screw the GPS antenna into the GPS. Wrap the GPS antenna’s cable, tie it together with a zip-tie, and hang the cable on the camera cable (as seen below).
 
