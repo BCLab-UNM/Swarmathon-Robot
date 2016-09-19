@@ -13,15 +13,15 @@
 
 ###	3D Printed Parts
 
-| Parts               | Tools         |
-| ------------------- | ------------- |
-|	10x 4-40x5/8"       | 3/32” Hex Key |
-| 10x 4-40 Nyloc Nuts | ¼" Nut Driver |
-|	16x #4 Washers      |               |
-|                     |               |
-|	Top plate           |               |
-|	GPS/IMU Mount       |               |
-|	Ultrasound Tower    |               |
+| Parts                            | Tools         |
+| -------------------------------- | ------------- |
+|	10x 4-40x5/8" Socket Head Screws | 3/32” Hex Key |
+| 10x 4-40 Nyloc Nuts              | ¼" Nut Driver |
+|	16x #4 Washers                   |               |
+|                                  |               |
+|	Top plate                        |               |
+|	GPS/IMU Mount                    |               |
+|	Ultrasound Tower                 |               |
 
 Attach the ultrasound tower using four 4-40x5/8” screws, eight washers (one on each side of each screw), and four nyloc nuts.
 ![US Tower Attached](./AssemblyImages/TPA-USTower.png)
@@ -104,7 +104,7 @@ Below is an image of the printed circuit board (PCB), used for connecting all of
 
 Plug in the switch connector to the matching connector on the PCB labeled "S1," located next to the barrel jack socket, which is pointing towards the back of the Swarmie. Screw a single nut onto the switch to secure it in the housing. Then screw a red switch boot onto the switch.
 
-Plug in the black micro USB cable into the A-Star Microcontroller, and plug the A-Star's pins into the PCB's matching header layout. The USB port on the A-Star should point towards the front of the robot. Plug the battery cable into the PCB barrel jack labeled "BATTERY 12V-19V." 
+Plug in the black micro USB cable into the A-Star Microcontroller, and plug the A-Star's pins into the PCB's matching header layout. The USB port on the A-Star should point towards the front of the robot. Plug the battery cable into the PCB barrel jack labeled "BATTERY 12V-19V."
 
 The PCB should now look as pictured below.
 
