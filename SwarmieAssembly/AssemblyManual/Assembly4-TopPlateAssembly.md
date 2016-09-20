@@ -126,7 +126,7 @@ Plug the Servo Expansion Board (SEB) into the main PCB using the 6 six pins foun
 
 ![SEB Connected](AssemblyImages/SEBConnected.JPG)
 
-Plug either of the male barrel jacks into the female barrel jack inticated below.
+Plug either of the male barrel jacks into the female barrel jack indicated below.
 
 ![SEB Barrel 1](AssemblyImages/SEBBarrel1.JPG)
 
