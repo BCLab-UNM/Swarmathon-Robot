@@ -134,7 +134,7 @@ Plug either of the male barrel jacks into the female barrel jack inticated below
 
 | Parts                             | Tools                      |
 | --------------------------------- | -------------------------- |
-| 2x M3x18mm Screws                  | 2.5mm Hex Key              |
+| 2x M3x18mm Screws                 | 2.5mm Hex Key              |
 |                                   |                            |
 |	NUC                               | Phillips Head Screw Driver |
 |	Wireless Module                   |                            |
