@@ -1,8 +1,8 @@
 ## 5. Gripper Assembly
 
-###Table of Contents
-- [Previous Section: Chassis Assembly](./Assembly4-TopPlateAssembly.md)
-- [Next Section: Fully Assembled](./Assembly6-FullyAssembled.md)
+[Previous Section: Chassis Assembly](./Assembly4-TopPlateAssembly.md)
+
+[Next Section: Fully Assembled](./Assembly6-FullyAssembled.md)
 
 | Parts                               | Tools                      |
 | ----------------------------------- | -------------------------- |
