@@ -130,3 +130,8 @@ The servos' ribbon cables connect to the SEB with the yellow wire towards the le
 ![Servo-SEB](./AssemblyImages/Gripper/ServoSEB.jpg)
 
 ![Servo-SEB Connected](./AssemblyImages/Gripper/ServoSEBConnected.jpg)
+
+
+[Back to Top](./Assembly4-TopPlateAssembly.md/#-5.-Gripper-Assembly)
+
+[Next Section: Fully Assembled](./Assembly6-FullyAssembled.md)
