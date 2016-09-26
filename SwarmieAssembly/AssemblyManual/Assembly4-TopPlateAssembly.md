@@ -9,7 +9,7 @@
 - [NUC Assembly](./Assembly4-TopPlateAssembly.md/#nuc-assembly)		      		
 - [Cover Plate Assembly and Attachment](./Assembly4-TopPlateAssembly.md/#cover-plate-assembly-and-attachment)		      		
 - [Top Plate Attachment](./Assembly4-TopPlateAssembly.md/#top-plate-attachment)
-- [Next Section: Fully Assembled](./Assembly5-FullyAssembled.md)
+- [Next Section: Gripper Assembly](./Assembly5-GripperAssembly.md)
 
 ###	3D Printed Parts
 
@@ -224,4 +224,4 @@ Finally, use four M3x6mm screws to fasten the top plate to the chassis. These ar
 
 [Back to Top](./Assembly4-TopPlateAssembly.md/#-4.-Top-Plate-Assembly)
 
-[Next Section: Fully Assembled](./Assembly5-FullyAssembled.md)
+[Next Section: Gripper Assembly](./Assembly5-GripperAssembly.md)
