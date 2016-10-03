@@ -9,8 +9,9 @@
 |	Actobotics Standard Gripper Kit     | Phillips Head Screw Driver |
 | Lynxmotion Pan and Tilt Bracket Kit | 1/16" Hex Key              |
 |                                     |                            |
-| 8x 2-56x5/8" Pan Head Screws        | Phillips Head Screw Driver |
+| 8x 2-56x1/2" Pan Head Screws        | Phillips Head Screw Driver |
 | 8x 2-56 Nyloc Nuts                  | 1/4" Nut Driver            |
+| 4x #6 Washers                       |                            |
 |                                     |                            |
 | Gripper Fingers                     |                            |
 | Gripper Wrist                       |                            |
