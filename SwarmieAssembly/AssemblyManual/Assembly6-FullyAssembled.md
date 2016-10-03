@@ -1,6 +1,6 @@
 ## 6.	Fully Assembled
 
-[Previous Section: Top Plate Assembly](./Assembly4-TopPlateAssembly.md)
+[Previous Section: Gripper Assembly](./Assembly5-GripperAssembly.md)
 
 The following are images of the fully assembled Swarmie.
 
