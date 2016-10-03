@@ -1,4 +1,4 @@
-## 5.	Fully Assembled
+## 6.	Fully Assembled
 
 [Previous Section: Top Plate Assembly](./Assembly4-TopPlateAssembly.md)
 
