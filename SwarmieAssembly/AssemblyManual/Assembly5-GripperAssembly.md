@@ -16,7 +16,7 @@
 | Gripper Fingers                     |                            |
 | Gripper Wrist                       |                            |
 | Servo Extension Board (SEB)\*       | 2.5mm Hex Key              |
-**\***The SEB is only needed in this section for robots that were built last year.  Robots built this year have the SEB installed in the previous section of the assembly manual.
+*The SEB is only needed in this section for robots that were built last year.  Robots built this year have the SEB installed in the previous section of the assembly manual.
 
 ***
 **Note**: If you have recently received your robot and already installed the SEB onto the PCB, you may **skip this first section**.  
@@ -50,13 +50,13 @@ Remove the robot's front chassis plate by unscrewing its four M3x6mm screws.
 
 ![Removed Chassis Plate](./AssemblyImages/Gripper/RemovedChassisPlate.jpg)
 
-Attach the servo bracket to the robot's chassis bracket as pictured below.  Use four 2-56x5/8" screws and four 2-56 nyloc nuts.  The servo bracket is packaged with the Lynxmotion Pan and Tilt Bracket Kit.
+Attach the servo bracket to the robot's chassis bracket as pictured below.  Use four 2-56x1/2" screws and four 2-56 nyloc nuts.  The servo bracket is packaged with the Lynxmotion Pan and Tilt Bracket Kit.
 
 ![Bracket Placement](./AssemblyImages/Gripper/ServoBracketPlacement.jpg)
 
 ![Bracket Fastened](./AssemblyImages/Gripper/ServoBracketFastened.jpg)
 
-Attach the gripper wrist plate and C bracket using four 2-56x5/8" screws and four 2-56 nyloc nuts.  The C bracket is packaged with the Lynxmotion Pan and Tilt Bracket Kit.
+Attach the gripper wrist plate and C bracket using four 2-56x1/2" screws and four 2-56 nyloc nuts.  The C bracket is packaged with the Lynxmotion Pan and Tilt Bracket Kit.
 
 ![Wrist-CBracket4](./AssemblyImages/Gripper/Wrist-CBracket4.jpg)
 
@@ -104,8 +104,6 @@ The bracket kit will also contain a sleeve of self-tapping screws.  Use two of t
 
 ![Wrist Servo Horn Fastened](./AssemblyImages/Gripper/WristServoHornFastened.jpg)
 
-Discard the wrist plate and fingers that come with the Actobotics gripper kit.
-
 This kit comes with two long 6-32 screws, two middle length 6-32 screws, and five short 6-32 screws.  
 
 ![Screws](./AssemblyImages/Gripper/Screws.jpg)
@@ -114,11 +112,11 @@ Use the four short screws to attach the second servo to the wrist plate.
 
 ![Fingers Servo Fastened](./AssemblyImages/Gripper/FingersServoFastened.jpg)
 
-Find the second servo motor and remove the horn attached to it.  Find the white teardrop shaped horn.  This servo horn is packaged with the Actobotics Standard Gripper Kit.
+Find the second servo motor and remove the horn attached to it.  Find the white teardrop-shaped horn.  This servo horn is packaged with the Actobotics Standard Gripper Kit.
 
 **Note**: Do not use the black version, it does not fit the servo.
 
-**Warning**: Lining up the teardrop servo horn is tricky and crucial to consistent gripping and keeping servo from quickly burning out.  
+**Warning**: Lining up the teardrop servo horn is tricky and crucial to consistent gripping and keeping the servo from quickly burning out.  
 
 Fully rotate the servo head counterclockwise.  Then attach the servo horn in the position seen below.
 
@@ -152,7 +150,7 @@ Attach the servo arms to the fingers using the medium length screws.  Do not tig
 
 ![Arms Fingers Fastened](./AssemblyImages/Gripper/ArmsFingersFastened.jpg)
 
-The servos' ribbon cables connect to the SEB with the yellow wire towards the left of the robot (towards the right in the image below).  The top cable should be connected to the fingers' servo and the bottom cable should be connected to the wrist's servo.
+The servos' ribbon cables connect to the SEB with the yellow wire towards the left of the robot (towards the right in the image below).  The top cable should be connected to the wrist's servo and the bottom cable should be connected to the fingers' servo.
 
 ![Servo-SEB](./AssemblyImages/Gripper/ServoSEB.jpg)
 
