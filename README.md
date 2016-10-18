@@ -1,6 +1,12 @@
-## Important Documents for Swarmathon Teams:
-- [Competition Rules](Competition Rules.md)
-- [Safety Manual](Safety Manual.md)
-- [Swarmie Assembly Manual](SwarmieAssembly/AssemblyManual/)
-- [Swarmie Parts List](SwarmieAssembly/PartsList.csv)
-- [Swarmie User Manual](Swarmie User Manual.md)
+# Building a Swarmathon Robot
+
+### [Swarmie Parts List](PartsList.csv)
+
+
+### [Swarmie Assembly Manual](AssemblyManual/)
+ 1. [Introduction](./Assembly1-Introduction.md)
+ 2. [Preparation – Drilling and Tapping](./Assembly2-Preparation.md)
+ 3.	[Chassis Assembly](./Assembly3-ChassisAssembly.md)
+ 4.	[Top Plate Assembly](./Assembly4-TopPlateAssembly.md)
+ 5.	[Gripper Assembly](./Assembly5-GripperAssembly.md)
+ 6.	[Fully Assembled](./Assembly6-FullyAssembled.md)
