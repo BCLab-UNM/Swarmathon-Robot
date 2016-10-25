@@ -23,13 +23,13 @@
 |	GPS/IMU Mount                    |               |
 |	Ultrasound Tower                 |               |
 
-Attach the ultrasound tower using four 4-40x5/8” screws, eight washers (one on each side of each screw), and four nyloc nuts.
+Attach the ultrasound tower using four 4-40x5/8” screws, eight #4 washers (one on each side of each screw), and four nyloc nuts.
 ![US Tower Attached](./AssemblyImages/TPA-USTower.png)
 
-Attach the GPS/IMU mount using two 4-40x5/8” screws, four washers (one on each side of each screw), and two nyloc nuts.
+Attach the GPS/IMU mount using two 4-40x5/8” screws, four #4 washers (one on each side of each screw), and two nyloc nuts.
 ![GPS/IMU Mount Attached](./AssemblyImages/TPA-GPSIMU.png)
 
-Attach the NUC base to the top plate using four 4-40x5/8” screws, four washers (one per screw on the bottom of the top plate), and four nyloc nuts.
+Attach the NUC base to the top plate using four 4-40x5/8” screws, four #4 washers (one per screw on the bottom of the top plate), and four nyloc nuts.
 ![NUC Base Attached](./AssemblyImages/TPA-NUCBase.png)
 
 ###	Ultrasound Sensor Mounting
@@ -60,10 +60,7 @@ Repeat for the other two ultrasounds.
 | Parts                           | Tools                  |
 | ------------------------------- | ---------------------- |
 |	4x 4-40x1/2" Button Head Screws | 1/16" Hex Key          |
-|	4x 4-40x5/8" Socket Head Screws | 3/32" Hex Key          |
 |	1x 2-56x3/8" Nylon Screw        | Flat Head Screw Driver |
-| 4x 4-40 Nyloc Nuts              | ¼" Nut Driver          |
-|	4x #4 Washers                   |                        |
 |                                 |                        |
 |	1x GPS                          |                        |
 |	1x Camera                       |                        |
