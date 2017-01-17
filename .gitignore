@@ -1,3 +1,4 @@
 *.lck
 OldVersions/
-Test_Parts
+Test_Parts/
+gcodeFiles/
