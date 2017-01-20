@@ -1,0 +1,31 @@
+ULTIBOARD DRILL REPORT
+
+Design: Swarmie1
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Inch, 2.5 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                 LAMINATION
+Swarmie1 - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1  0.04000    PTH     45
+   2  0.02362    PTH    232
+   3  0.03500    PTH     36
+   4  0.03917    PTH      8
+   5  0.03937    PTH     25
+   6  0.05906    PTH      3
+   7  0.06693    PTH      3
+   8  0.03150    PTH     15
+   9  0.09300   NPTH      4
+  10  0.05118    PTH      2
+  11  0.00700    PTH      6
+  12  0.07874    PTH      2
