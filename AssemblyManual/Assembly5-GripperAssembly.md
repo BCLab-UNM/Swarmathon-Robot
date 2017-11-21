@@ -104,14 +104,6 @@ The bracket kit will also contain a sleeve of self-tapping screws.  Use two of t
 
 ![Wrist Servo Horn Fastened](./AssemblyImages/Gripper/WristServoHornFastened.jpg)
 
-This kit comes with two long 6-32 screws, two middle length 6-32 screws, and five short 6-32 screws.  
-
-![Screws](./AssemblyImages/Gripper/Screws.jpg)
-
-Use the four short screws to attach the second servo to the wrist plate.
-
-![Fingers Servo Fastened](./AssemblyImages/Gripper/FingersServoFastened.jpg)
-
 Find the second servo motor and remove the horn attached to it.  Find the white teardrop-shaped horn.  This servo horn is packaged with the Actobotics Standard Gripper Kit.
 
 **Note**: Do not use the black version, it does not fit the servo.
@@ -127,6 +119,14 @@ Lastly, reattach the washer and screw which held the original servo horn on.
 Thread the second servo's ribbon cable through the C bracket.
 
 ![Servo Cable](./AssemblyImages/Gripper/ServoCable.jpg)
+
+This kit comes with two long 6-32 screws, two middle length 6-32 screws, and five short 6-32 screws.  
+
+![Screws](./AssemblyImages/Gripper/Screws.jpg)
+
+Use the four short screws to attach the second servo to the wrist plate.
+
+![Fingers Servo Fastened](./AssemblyImages/Gripper/FingersServoFastened.jpg)
 
 Reattach the robot's front chassis to the robot.
 
