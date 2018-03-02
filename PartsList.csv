@@ -55,6 +55,8 @@ GPS/IMU mount,,,1,https://github.com/BCLab-UNM/Swarmathon-Robot/blob/master/CAD-
 Lid support,,,4,https://github.com/BCLab-UNM/Swarmathon-Robot/blob/master/CAD-Files/Parts/STL-Files/LidSupportLW.stl
 NUC Base,,,1,https://github.com/BCLab-UNM/Swarmathon-Robot/blob/master/CAD-Files/Parts/STL-Files/NUCBasePCB.stl
 Ultrasound tower,,,1,https://github.com/BCLab-UNM/Swarmathon-Robot/blob/master/CAD-Files/Parts/STL-Files/USTowerLW.stl
+Cow catcher,,,1,https://github.com/BCLab-UNM/Swarmathon-Robot/blob/master/CAD-Files/Parts/STL-Files/CowCatcher.stl
+Cow catcher - rear,,,1,https://github.com/BCLab-UNM/Swarmathon-Robot/blob/master/CAD-Files/Parts/STL-Files/CowCatcherRear.stl
 ,,,,
 PCB,ETS,,1,
 SEB,,,1,
